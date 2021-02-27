@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1,PT: RTP 1
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42092|http-user-agent=164836512
+#EXTINF:-1,PT: RTP 2
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42091|http-user-agent=164836512
+#EXTINF:-1,PT: SIC
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42087|http-user-agent=164836512
+#EXTINF:-1,PT: SIC Caras
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42086|http-user-agent=164836512
 #EXTINF:-1,PT: 24 Kitchen HD
 http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42082|http-user-agent=164836512
 #EXTINF:-1,PT: AXN Black HD
@@ -12,203 +20,128 @@ http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42078|http-user-agent=164836512
 #EXTINF:-1,PT: Cinemundo
 http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42097|http-user-agent=164836512
 #EXTINF:-1,PT: CMTV
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42098
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42098|http-user-agent=164836512
 #EXTINF:-1,PT: Discovery HD Showcase
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42077
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42077|http-user-agent=164836512
 #EXTINF:-1,PT: Eurosport 1 HD
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42076
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42076|http-user-agent=164836512
 #EXTINF:-1,PT: FOX Crime HD
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42075
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42075|http-user-agent=164836512
 #EXTINF:-1,PT: FOX HD
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42074
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42074|http-user-agent=164836512
 #EXTINF:-1,PT: FOX Life HD
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42073
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42073|http-user-agent=164836512
 #EXTINF:-1,PT: Globo Premium
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42096
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42096|http-user-agent=164836512
 #EXTINF:-1,PT: Historia PT
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42060
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42060|http-user-agent=164836512
 #EXTINF:-1,PT: Hollywood
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42095
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42095|http-user-agent=164836512
 #EXTINF:-1,PT: MOV
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42094
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42094|http-user-agent=164836512
 #EXTINF:-1,PT: National Geographic HD
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42093
-#EXTINF:-1,PT: RTP 1
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42092
-#EXTINF:-1,PT: RTP 2
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42091
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42093|http-user-agent=164836512
 #EXTINF:-1,PT: RTP 3
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42090
-#EXTINF:-1,PT: RTP Madeira
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42089
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42090|http-user-agent=164836512
+#EXTINF:-1,PT: RTP 3
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42089|http-user-agent=164836512
 #EXTINF:-1,PT: RTP Memoria
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42088
-#EXTINF:-1,PT: SIC
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42087
-#EXTINF:-1,PT: SIC Caras
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42086
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42088|http-user-agent=164836512
 #EXTINF:-1,PT: SIC K
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42085
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42085|http-user-agent=164836512
 #EXTINF:-1,PT: SIC Radical
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42084
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42084|http-user-agent=164836512
 #EXTINF:-1,PT: Travel Channel HD
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42072
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42072|http-user-agent=164836512
 #EXTINF:-1,PT: TVCine 1 HD
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42070
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42070|http-user-agent=164836512
 #EXTINF:-1,PT: TVCine 2 HD
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42069
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42069|http-user-agent=164836512
 #EXTINF:-1,PT: TVCine 3 HD
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42068
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42068|http-user-agent=164836512
 #EXTINF:-1,PT: TVCine 4 HD
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42067
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42067|http-user-agent=164836512
 #EXTINF:-1,PT: TVI 24
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42083
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42083|http-user-agent=164836512
 #EXTINF:-1,PT: TVSeries HD
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42071
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42071|http-user-agent=164836512
 #EXTINF:-1,PT: SPORT TV   | HD
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/44851
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/44851|http-user-agent=164836512
 #EXTINF:-1,PT: SPORT TV 1 | HD
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/44849
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/44849|http-user-agent=164836512
 #EXTINF:-1,PT: SPORT TV 2 | HD
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/44847
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/44847|http-user-agent=164836512
 #EXTINF:-1,PT: SPORT TV 3 | HD
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/44844
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/44844|http-user-agent=164836512
 #EXTINF:-1,PT: SPORT TV 4 | HD
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/44841
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/44841|http-user-agent=164836512
 #EXTINF:-1,PT: SPORT TV 5 | HD
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/44838
-#EXTINF:-1,PT: Sporting TV | HD 1080
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/44834
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/44838|http-user-agent=164836512
+#EXTINF:-1,PT: Sporting TV | HD
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/44834|http-user-agent=164836512
 #EXTINF:-1,PT: SPORTING TV
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/44835
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/44835|http-user-agent=164836512
 #EXTINF:-1,PT: SPORT TV 5HD ( BackUP )
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/44836
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/44836|http-user-agent=164836512
 #EXTINF:-1,XXX: XXX 2
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/51942
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/51942|http-user-agent=164836512
 #EXTINF:-1,XXX: ALBA XXX 1
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/51941
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/51941|http-user-agent=164836512
 #EXTINF:-1,XXX: XXL
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/51940
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/51940|http-user-agent=164836512
 #EXTINF:-1,XXX: BRAZZERS
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/51939
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/51939|http-user-agent=164836512
 #EXTINF:-1,XXX: CENTO X CENTO
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/51938
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/51938|http-user-agent=164836512
 #EXTINF:-1,XXX: SEXTOSENSO
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/51937
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/51937|http-user-agent=164836512
 #EXTINF:-1,XXX: CANDY TV
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/51936
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/51936|http-user-agent=164836512
 #EXTINF:-1,XXX: SHALUN TV
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/51935
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/51935|http-user-agent=164836512
 #EXTINF:-1,XXX: OH AH TV
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/51934
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/51934|http-user-agent=164836512
 #EXTINF:-1,XXX: PINK O TV
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/51933
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/51933|http-user-agent=164836512
 #EXTINF:-1,XXX: SCT
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/51932
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/51932|http-user-agent=164836512
 #EXTINF:-1,XXX: O LA LA
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/51931
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/51931|http-user-agent=164836512
 #EXTINF:-1,XXX: Nurat
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/51930
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/51930|http-user-agent=164836512
 #EXTINF:-1,XXX: RUSSKAYA NOCH
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/51929
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/51929|http-user-agent=164836512
 #EXTINF:-1,XXX: PRIVATE
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/51928
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/51928|http-user-agent=164836512
 #EXTINF:-1,XXX:  VIVID RED
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/51927
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/51927|http-user-agent=164836512
 #EXTINF:-1,XXX: DORCEL HD
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/51926
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/51926|http-user-agent=164836512
 #EXTINF:-1,XXX: EXXXOTICA HD
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/51923
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/51923|http-user-agent=164836512
 #EXTINF:-1,xxx: Dusk XXX
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/41565
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/41565|http-user-agent=164836512
 #EXTINF:-1,xxx: Evil Angel
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/41561
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/41561|http-user-agent=164836512
 #EXTINF:-1,xxx: Hustler HD
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/41562
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/41562|http-user-agent=164836512
 #EXTINF:-1,xxx: Passion XXX
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/41566
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/41566|http-user-agent=164836512
 #EXTINF:-1,xxx: Playboy TV
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/41560
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/41560|http-user-agent=164836512
 #EXTINF:-1,xxx: Redlight HD
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/41564
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/41564|http-user-agent=164836512
 #EXTINF:-1,xxx: Blue Hustler
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42133
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42133|http-user-agent=164836512
 #EXTINF:-1,xxx: Penthouse HD 1
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42134
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42134|http-user-agent=164836512
 #EXTINF:-1,xxx: Penthouse HD 2
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42135
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42135|http-user-agent=164836512
 #EXTINF:-1,XXX: Satisfaction HD
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/61530
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/61530|http-user-agent=164836512
 #EXTINF:-1,XXX: Brazzers Europe HD
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/61531
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/61531|http-user-agent=164836512
 #EXTINF:-1,XXX: FRENCHLOVER
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/61532
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/61532|http-user-agent=164836512
 #EXTINF:-1,XXX: Private TV
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/61534
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/61534|http-user-agent=164836512
