@@ -1,22 +1,16 @@
 #EXTM3U
 #EXTINF:-1,PT: 24 Kitchen HD
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42082
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42082|http-user-agent=164836512
 #EXTINF:-1,PT: AXN Black HD
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42081
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42081|http-user-agent=164836512
 #EXTINF:-1,PT: AXN HD
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42080
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42080|http-user-agent=164836512
 #EXTINF:-1,PT: AXN White HD
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42079
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42079|http-user-agent=164836512
 #EXTINF:-1,PT: BTV 1 HD
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42078
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42078|http-user-agent=164836512
 #EXTINF:-1,PT: Cinemundo
-#EXTVLCOPT:http-user-agent=164836512
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42097
+http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42097|http-user-agent=164836512
 #EXTINF:-1,PT: CMTV
 #EXTVLCOPT:http-user-agent=164836512
 http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42098
