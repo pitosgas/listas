@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF: -1 tvg-logo=""group-title="PORTUGAL",***************** PORTUGAL *****************
 http://naoligues/a/isto
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC" tvg-logo="" group-title="POLAND / PORTUGAL",PT: SIC
-http://globaltv.life:8880/vapspL3of3/V5NI9RULoA/68180|http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF: -1 tvg-logo=""group-title="PORTUGAL", RTP 1
 http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/48584|http-user-agent=REDLINECLIENT 650HD_PRO V2.7.59
 #EXTINF: -1 tvg-logo=""group-title="PORTUGAL", RTP 2 HD
