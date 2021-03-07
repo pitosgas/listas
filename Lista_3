@@ -5,23 +5,23 @@ https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/qrm8lzldnqat.m3u8?s=Q-8qDI7Yqkao4
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/qrm8lzldnqat.m3u8?s=LE5XrTUOJdKd4xhuXx7Daw&e=1615060477
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" tvg-id="sporttv1.pt",SPORTTV 1 Link:3
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/walxjawfo5x.m3u8?s=0Jku8BRq4-qmHvEwqgC-3Q&e=1615060989
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" tvg-id="sporttv1.pt",SPORTTV 1 useragent
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" tvg-id="sporttv1.pt",SPORTTV 1 HD
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png" tvg-id="sporttv2.pt",SPORTTV 2 Link:1
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/60lewo5c36hzw.m3u8?s=GaJQx4Rzu9oRoJeNTXF1Xw&e=1615060082
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png" tvg-id="sporttv2.pt",SPORTTV 2 Link:2
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/60lewo5c36hzw.m3u8?s=z0DceODZhIkGdUDyxNHJJw&e=1615060571
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png" tvg-id="sporttv2.pt",SPORTTV 2 useragent
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png" tvg-id="sporttv2.pt",SPORTTV 2 HD
 https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png" tvg-id="sporttv3.pt",SPORTTV 3
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/t69y1s69ffvz.m3u8?s=AHiBXuozdoJomBXbxtxG0Q&e=1615061465
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png" tvg-id="sporttv3.pt",SPORTTV 3 useragent
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png" tvg-id="sporttv3.pt",SPORTTV 3 HD
 https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" tvg-id="sporttv4.pt",SPORT TV 4
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/0zer896oz3mv6.m3u8?s=JmxdlUKbRDLQEY_I-21Wpw&e=1615062013
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" tvg-id="sporttv4.pt",SPORT TV 4 useragent
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" tvg-id="sporttv4.pt",SPORT TV 4 HD
 https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png" tvg-id="sporttv5.pt",SPORT TV 5
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/war3u.m3u8?s=42uUfauKJa_9MyYD2LiAvA&e=1615061118
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png" tvg-id="sporttv5.pt",SPORT TV 5 useragent
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png" tvg-id="sporttv5.pt",SPORT TV 5 HD
 https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
