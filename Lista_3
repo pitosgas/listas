@@ -25,11 +25,7 @@ https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8|http-user-agent=Mo
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/war3u.m3u8?s=42uUfauKJa_9MyYD2LiAvA&e=1615061118
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png" tvg-id="sporttv5.pt",SPORT TV 5 HD
 https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
-#EXTINF:-1 tvg-logo="https://ia801500.us.archive.org/29/items/eleven-sports-1/Eleven_Sports_1.png" group-title="Canais | Eleven",Eleven Sports 1 
+#EXTINF:-1 tvg-logo="https://ia801500.us.archive.org/29/items/eleven-sports-1/Eleven_Sports_1.png" vg-id="",Eleven Sports 1 
 http://77.54.145.209:81/play/a00a?fbclid=IwAR1hAsSUqGqMAQkITgOmFpeKU2H3LhE7RG0FwZrOpLMOoQ0csUVpqO2gESY
-#EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/3/items/eleven-2/Eleven_2.png" group-title="Canais | Eleven",Eleven Sports 2 
+#EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/3/items/eleven-2/Eleven_2.png" vg-id="",Eleven Sports 2 
 http://77.54.145.209:81/play/a03d?fbclid=IwAR2Z6zjDebckdlZZ4W5J0VIhq_Bov8tvbpcWh3-uuAFJlGlcJNLvi38UCZg
-#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo.png" group-title="Canais | Benfica TV",Benfica TV
-http://185.183.34.175:3333/sunshine/iHu8Vd3xzbOzrua361Qhs4sGLp_LnfGwC6sSLnhxnlNWUsm5KozkLKh0dtBJYxiv70Swcs3vJm5WfuytEYYsjFwyyDR6TUkGdnTb5s8WRy47RpXGBF-I8xvb8CMyK576UPGAzwZZBV9AcEJgQEvMVhnKLDR9RBO_odQyJRg-Gq9i3N7N5WhyriaoV86B9Q7P/v.ts
-#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo.png" group-title="Canais | Sport TV",Sport TV 1 HD
-http://185.183.34.175:3333/sunshine/GQGucirdMSpesJlV4WCph-c8qPKoMY3Yj9nucaCKHyEncRB4YUxGxvEIONyfHzDpUfHPUtbcdlObbld7qlNZs18Txi20pLw67U-9h5A6rRLPpryB1H8sqk6iZYCAgwZxVhlFus2iubIhDWA5dwRbQChvD-Zdhv_NGdAQUCIrNdmAWRpTVRchuvuO5V2fbkNn/v.ts
