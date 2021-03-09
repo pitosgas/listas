@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="" tvg-id="",Extra 1
+https://908356674.tapecontent.net/radosgw/x3e2kMMrooFkerY/xxHT5A0cKJ83XG-Mb4loV2yIsHd2GeUXBGjJ3h7RW1EMmVLblvq09KRm67H33FHjpAqBzgZ7iwgMKI_LGVgyZvuSrVUG8cCLGvrJjPoa92Psk-1SW7i5DdCHw515IMmh8f4oI120C33SXDrRPMSpHeWj4qPzaopttE7k72Eoe4uiGycKOsOh4Dj34cStkSpvF-r-G_fntffYfVy4phPeu0HOtvWrYummaWCJ6Q-WI81OXKK8RbRx-HBCKFTdsi5lxJyvTWao93PNuWEneckrPAXF_0XSHrOLZTJT9YAHS8_Hz2FE49TJjALTD8g/BB-DUPLO+IMPACTO-EXTRA+53-P1?stream=1
+EXTINF:-1 tvg-logo="" tvg-id="",Extra 2
+https://908357237.tapecontent.net/radosgw/ZV7amm2qokFqGGD/nmaT__di-0t_nEpzhWD7k-rropFHV8H7IHMNAyi6i0Q5DZZ07yMy-7rBZv9b8H34YXqQgdizit_GC0Wa6fbutzBIkEZnA-Ft83oiVpER2X9BjfGo7qslSB3TEIC7zeB1UAoXZm1zZxPbL2s_zlBVPqAff7AdYlyuhkrrN1eP2W4P85_Su8mRj8iNkjutmDPOxiWcQM-1lNb0QHpffYbvO2TKRh5DDepsQ0DeTIGm7rXvZME7TvBAIsIiIH6tiG24HcJpszqDJZZPAWAgucoIeBSYVPl-F9SDcIprWdmdIzhInxPnWvD4SHO-21U/BB-DUPLO+IMPACTO-EXTRA+53-P2.mp4?stream=1
+EXTINF:-1 tvg-logo="" tvg-id="",Extra 3
+https://861520050.tapecontent.net/radosgw/dPGZaWYbBdckxbm/E93G83F1uhCNrMfiYvz9wNYUhzzk_37MqYnx3xd1bml9NlH2y1OUH4pANOheuM1-rx2afyLbp0byGVv_oM17pEy2CPzTRA7ZnSyQnLe6sTeSHAJDuMcndsDobXxm9rDVPm3VchE7pZJXjDLnTCyDrpj_XIlTXnbRfMuVhZYoHn60RctS0-R0Sh00d6XuRmeW4QadzuUuMi-Y7PGU1hrwqAG2Dke6nB_gt7PyYP7A7nob2CxoZC-enCNHk_S50mtWoDA3KHVqer2yfP-_AN91Epplnd9RFnfzaTGYcJ2UazOZXXGjRy1br7FT2yw/BB-DUPLO+IMPACTO-EXTRA+53-P3?stream=1
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" tvg-id="sporttv1.pt",SPORTTV 1 HD
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png" tvg-id="sporttv2.pt",SPORTTV 2 HD
