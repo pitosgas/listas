@@ -1,14 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" tvg-id="",Extra 1
-https://908356674.tapecontent.net/radosgw/x3e2kMMrooFkerY/xxHT5A0cKJ83XG-Mb4loV2yIsHd2GeUXBGjJ3h7RW1EMmVLblvq09KRm67H33FHjpAqBzgZ7iwgMKI_LGVgyZvuSrVUG8cCLGvrJjPoa92Psk-1SW7i5DdCHw515IMmh8f4oI120C33SXDrRPMSpHeWj4qPzaopttE7k72Eoe4uiGycKOsOh4Dj34cStkSpvF-r-G_fntffYfVy4phPeu0HOtvWrYummaWCJ6Q-WI81OXKK8RbRx-HBCKFTdsi5lxJyvTWao93PNuWEneckrPAXF_0XSHrOLZTJT9YAHS8_Hz2FE49TJjALTD8g/BB-DUPLO+IMPACTO-EXTRA+53-P1?stream=1
-#EXTINF:-1 tvg-logo="" tvg-id="",Extra 2
-https://908357237.tapecontent.net/radosgw/ZV7amm2qokFqGGD/nmaT__di-0t_nEpzhWD7k-rropFHV8H7IHMNAyi6i0Q5DZZ07yMy-7rBZv9b8H34YXqQgdizit_GC0Wa6fbutzBIkEZnA-Ft83oiVpER2X9BjfGo7qslSB3TEIC7zeB1UAoXZm1zZxPbL2s_zlBVPqAff7AdYlyuhkrrN1eP2W4P85_Su8mRj8iNkjutmDPOxiWcQM-1lNb0QHpffYbvO2TKRh5DDepsQ0DeTIGm7rXvZME7TvBAIsIiIH6tiG24HcJpszqDJZZPAWAgucoIeBSYVPl-F9SDcIprWdmdIzhInxPnWvD4SHO-21U/BB-DUPLO+IMPACTO-EXTRA+53-P2.mp4?stream=1
-#EXTINF:-1 tvg-logo="" tvg-id="",Extra 3
-https://861520050.tapecontent.net/radosgw/dPGZaWYbBdckxbm/E93G83F1uhCNrMfiYvz9wNYUhzzk_37MqYnx3xd1bml9NlH2y1OUH4pANOheuM1-rx2afyLbp0byGVv_oM17pEy2CPzTRA7ZnSyQnLe6sTeSHAJDuMcndsDobXxm9rDVPm3VchE7pZJXjDLnTCyDrpj_XIlTXnbRfMuVhZYoHn60RctS0-R0Sh00d6XuRmeW4QadzuUuMi-Y7PGU1hrwqAG2Dke6nB_gt7PyYP7A7nob2CxoZC-enCNHk_S50mtWoDA3KHVqer2yfP-_AN91Epplnd9RFnfzaTGYcJ2UazOZXXGjRy1br7FT2yw/BB-DUPLO+IMPACTO-EXTRA+53-P3?stream=1
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" tvg-id="sporttv1.pt",SPORTTV 1 HD
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" tvg-id="sporttv1.pt",SPORTTV 1
+https://2203.janjua.pw:8088/live/sp0301/playlist.m3u8?vidictid=18695836086&id=102436&pk=c661e583a0bdd09e3a0f0a458fe7f4223361703863f3fc41441f285482dfc132|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png" tvg-id="sporttv2.pt",SPORTTV 2 HD
 https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png" tvg-id="sporttv3.pt",SPORTTV 3 HD
@@ -21,43 +15,21 @@ https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8|http-user-agent=Mo
 http://77.54.145.209:81/play/a00a?fbclid=IwAR1hAsSUqGqMAQkITgOmFpeKU2H3LhE7RG0FwZrOpLMOoQ0csUVpqO2gESY
 #EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/3/items/eleven-2/Eleven_2.png" vg-id="",Eleven Sports 2 
 http://77.54.145.209:81/play/a03d?fbclid=IwAR2Z6zjDebckdlZZ4W5J0VIhq_Bov8tvbpcWh3-uuAFJlGlcJNLvi38UCZg
-
 #EXTINF:-1,eurosport1
 http://147.135.210.90:8081/tv/eurosport-1/chunks.m3u8
-
 #EXTINF:-1,eurosport2
 http://147.135.210.90:8081/tv/eurosport-2/chunks.m3u8
 #EXTINF:-1,eurosport2
 https://ch.iptvmate.net/5e93501b8beb894140335ff1.m3u8
 
+EXTINF:-1,**** Juventus x Porto ****
+httt://naoliguesaisto.com
 
-#EXTINF:-1,Beinsport1
-https://e1.espncdn.me/ingest01/55048.m3u8?sf=Y21kT05COFRFRw==&token=6kstwOceVXWxZpiXJRVDKQ&expires=1615304656&rnd=|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
-#EXTINF:-1,Beinsport1 teste
-https://e1.espncdn.me/ingest08/27331.m3u8?sf=VGZqMnplR2Rzcg==&token=lh4Ez0HvhGRZGxneI4xIcw&expires=&rnd=|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
-#EXTINF:-1,Beinsport2
-https://e1.espncdn.me/ingest08/27332.m3u8?sf=RW5qWGt5V1dPMA==&token=WNqLdk78WW_Eu0hcQzJTFA&expires=1615304901&rnd=|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
-#EXTINF:-1,Beinsport2
-https://e1.espncdn.me/ingest08/27332.m3u8?sf=RW5qWGt5V1dPMA==&token=sfUbrXcjoYpmEwd00w8oJA&expires=1615305092&rnd=|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
-#EXTINF:-1,Beinsport2 teste
-https://6mqmaq49gx7cekq4.ezcdn462.net:8443/hls/apibss.m3u8?s=yznP0eFS30EGAWl29GWG9A&e=|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
-
-#EXTINF:-1,Rmc 1
-https://e1.espncdn.me/ingest02/56900.m3u8?sf=c3loc0VHY2M1MA==&token=XyatC4M5kcz-ZkA7RXOwGg&expires=1615305173&rnd=|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
-#EXTINF:-1,Rmc2 teste
-https://e4.espncdn.me/ingest013/66527.m3u8?sf=bDREU0x4WlAyVA==&token=Z_eqFHRhgRyLTmu82zmmgA&expires=&rnd=|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
-
-#EXTINF:-1,Canal +
-https://e1.espncdn.me/ingest01/34842.m3u8?sf=bEZJbXNtaUZZSQ==&token=rtXihX1rfALRnIp4sbY-WA&expires=1615305900&rnd=|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
-
-#EXTINF:-1,Elevensports1
-https://6mqmaq49gx7cekq4.ezcdn462.net:8443/hls/eviy3tp9sa8v04t.m3u8?s=vgw2Q6OX_ZjCQ5pnkniSUw&e=1615313205|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
-#EXTINF:-1,Elevensports1
-https://6mqmaq49gx7cekq4.ezcdn462.net:8443/hls/eviy3tp9sa8v04t.m3u8?s=RPXVaDFbkS-lJj2yeYxeQQ&e=1615313516|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
-
-#EXTINF:-1,Sportv1
-https://2203.janjua.pw:8088/live/sp0301/playlist.m3u8?vidictid=18695836086&id=102436&pk=c661e583a0bdd09e3a0f0a458fe7f4223361703863f3fc41441f285482dfc132|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
-#EXTINF:-1,Sportv1 teste
-https://6mqmaq49gx7cekq4.ezcdn462.net:8443/hls/walxjawfo5x.m3u8?s=o7VlgRAOdd79uh1dFHhg5A&e=|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
-
-
+#EXTINF:-1,Sky Sport IT
+https://6mqmaq49gx7cekq4.ezcdn462.net:8443/hls/8w87zdvc8c4.m3u8?s=jZZm2Aoy8Jhd4bAGRfTZdw&e=1615335016
+#EXTINF:-1,TNT Brasil
+https://6mqmaq49gx7cekq4.ezcdn462.net:8443/hls/sje8w0aexdjj2.m3u8?s=swyn4TNynehQaHVo4sodeQ&e=1615335614
+#EXTINF:-1,BT SPort 2 ENG
+https://6mqmaq49gx7cekq4.ezcdn462.net:8443/hls/xftrd8uold5t2.m3u8?s=odbPF2xdto18yqIvH3NK1w&e=1615335374
+#EXTINF:-1,Digi Sport 1
+https://6mqmaq49gx7cekq4.ezcdn462.net:8443/hls/ubqnbz9ru.m3u8?s=gmcffNiqOP6mi6rj4Jtz8Q&e=1615335466
