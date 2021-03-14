@@ -7,10 +7,7 @@ https://908371212.tapecontent.net/radosgw/6eLXLVJBAqt99dz/aRbbgtEtoAqTnlZ63c8RsK
 https://908357485.tapecontent.net/radosgw/6R4rOdMGreC4Xy/MgM340JTFuaWbQZDylMZgdOz54Ze-dUyr27NzDLpl0T0RRBfYO0i3CloGfkQ4oqvak0sG6e9QnjM-EOznazZVQ4m_n0YrptzHgXfijkrF-or9w0PF2ptqu81xp5ByPapw1ywhJ6jQgM2WwG_co69rUDpyfODOi22J07xWBERqyNQ1YjemyftUcd4A4utSO8c18vESvwJB-RiC6Saaxops8jyxowDj07TCXFX_GMTuFe6fJzx9_siHZpSzZeJn1WCi5g2WigGFDIu3dUzIGj8n8tqYO5-LTmTt0iEhzlnaqGGxaWRIgPzDLfDYwM/BB-DUPLO+IMPACTO-GALA+11-P3?stream=1
 #EXTINF:-1, BB - 4
 https://908374502.tapecontent.net/radosgw/x2zgxp91LLhkWRo/ZnA658wr9jFQC-uLCmtnKWWvliRznrQ-k6Da3vz4Z6Th7APIVhqTkjc3GjNUCiy7PpEodkJBBwXeSDT8NiWjGpu-5G07YieUC6jUIUCSSQQATk-Up4qmjgIAv9KhCye6Byg4VOf7iVbNroD4NoGu4bL_x0NrqMrMZ8870WqmQfqTZmj42qq_bZ9N77DYxQw7jOtLaqKS-qDc7C_C6PdaAaAes6jVJR_LhLKDlLBoq0FJOga9HdFyPW61Acb17Gwy8EByopuf0OPJ8UN-kILINFZYUZjrYCKQPlb5aTw4Zt6aj7hFLa_7yfMEhJw/BB-DUPLO+IMPACTO-GALA+11-P4?stream=1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" tvg-id="sporttv1.pt",SPORTTV 1 HD teste1
-googlechrome://sportkart.xyz/ch/scplayer-1.php
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" tvg-id="sporttv1.pt",SPORTTV 1 HD teste2
-googlechromes://sportkart.xyz/ch/scplayer-1.php
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" tvg-id="sporttv1.pt",SPORTTV 1 HD
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" tvg-id="sporttv1.pt",SPORTTV 1
@@ -35,7 +32,7 @@ http://147.135.210.90:8081/tv/eurosport-2/chunks.m3u8
 https://ch.iptvmate.net/5e93501b8beb894140335ff1.m3u8
 
 EXTINF:-1,**** Juventus x Porto ****
-htttp://naoliguesaisto.com
+http://naoliguesaisto.com
 
 #EXTINF:-1,Sky Sport IT
 https://6mqmaq49gx7cekq4.ezcdn462.net:8443/hls/8w87zdvc8c4.m3u8?s=jZZm2Aoy8Jhd4bAGRfTZdw&e=1615335016
