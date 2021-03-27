@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, BB - 1
-https://908345033.tapecontent.net/radosgw/4XoMmM91wrIKPA9/5C0u37__bU4znOC520RrB4yMKEpJg3Bn3EL1HqjPQR23Vqerf_yv9gkMbvleZ8k1Jl9vh3MLOTj5OWqwIROQLMqSBKfC1RVktEatGxPX1mdvkD0tDHfGVLvriYz8WyMuJUBkzbBxcjpmOHWIfUuohgJ7HgTj2gmjmRShuEXca0lQNCShS975J4UT2TnL1L9f7WdFrZYLPiEST6QHPr7xUAK7MJG1UWkPnUJFbWb7RiSI3tXfOu-NicrIdG1qaWK1Y5cMT27Y7XnUnGr0ZULVidxra2SAXchrkyrwKBWUXM4jGWVYZAm8a1O0NuI/BB-DUPLO+IMPACTO-EXTRA+65-P1?stream=1
-#EXTINF:-1, BB - 2
-https://908373256.tapecontent.net/radosgw/MjZVQrWrLMhmZzW/loLhkinI22FfPWEpif7JqHBOf64baD2O5rMKj5xateYnH14KoVKRSpStORRl4HUv-7zjO0bVAiHqM9esBTqXPg52uEODROO61DtW1O1slIK9eekaMLODRILwYPiRju-iyDuUieDJaYhMQ-UfrwQt6fc_7OSvFlfSyeCnEcq3Km_U43tO3UeFIgwCDEKnFtYgEqw70_ljXuV-HLPCj6CtyiqSALsFI_wQJiwHTn5uRzs8Xn-iE5ifT1igasTILH9U8vIrNMc2XpX-8d8TyQ-X70XTltlHV-bLhRf2x79AHy71GsXOvnxFfrru3_U/BB-DUPLO+IMPACTO-EXTRA+65-P2?stream=1
-#EXTINF:-1, BB - 3
-https://861481697.tapecontent.net/radosgw/81748Vokp4Hop66/1Q2LT6JL6gMP1eB3wxStsnNF21OV62Kzl7m_LCQmZc3r_WaV8KuWeAc2vm9ol_GlKoxa9pPpyj0osxBeKKwXa7wdlzIqRIAmThCyyZxSQV5yD9LN7XFtAOV29A3ZMEBwoOYySmFSMrU27yrGWNL7exA6xw74edRsfwe6M1o7A9929k1QxpdnhH3EynOUdbekBj2-S9sM3c8_qERwhQOSqkTPw6yCJFZyiVaN0UqsF0SHLG6VReYG-iiirsPiEWNaF-TYan20sENDStiFyOsOppxnnBrTGnnrT6hbAsqOK8Gx33V5up5Zf4kRGYU/BB-DUPLO+IMPACTO-EXTRA+65-P3?stream=1
-#EXTINF:-1, BB - 4
-https://2448377457.tapecontent.net/radosgw/0JRdPaaRKLIAbX/y6KZBR1A-2OrMDeNG51KuYmGdRFM-REogS0oScyvcQcEZwXf1uxRPCbz7XgnOvhojy6F-MBPuCOuu6lD9NlAI3_b85xr2rG0Tro4gMU6omB6fVJqiLYx4CvO-JgoBEqnU2LgvHdiXxAeW_Y4MrQPQlkwMr5PsU9itUwo7HQyWvaaGj_3yN-Fja3R5GHYaWtWjwovfI2oZc11z0dSy3gyw1KWRLTinDdDn-FgW1TEG09hsvkSiis1X7ALLmv1N-GwkDo4Cjk1FbQTwo2_svCfvcBuUZd1dMSo9Xy0kCL0NylkY35tlV52N_1dhf8/BB-DUPLO+IMPACTO-EXTRA+65-P4?stream=1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" tvg-id="sporttv1.pt",SPORTTV 1 HD
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" tvg-id="sporttv1.pt",SPORTTV 1
@@ -23,21 +15,9 @@ https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8|http-user-agent=Mo
 http://77.54.145.209:81/play/a00a?fbclid=IwAR1hAsSUqGqMAQkITgOmFpeKU2H3LhE7RG0FwZrOpLMOoQ0csUVpqO2gESY
 #EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/3/items/eleven-2/Eleven_2.png" vg-id="",Eleven Sports 2 
 http://77.54.145.209:81/play/a03d?fbclid=IwAR2Z6zjDebckdlZZ4W5J0VIhq_Bov8tvbpcWh3-uuAFJlGlcJNLvi38UCZg
-#EXTINF:-1,eurosport1
+#EXTINF:-1,Eurosport1
 http://147.135.210.90:8081/tv/eurosport-1/chunks.m3u8
-#EXTINF:-1,eurosport2
+#EXTINF:-1,Eurosport2
 http://147.135.210.90:8081/tv/eurosport-2/chunks.m3u8
-#EXTINF:-1,eurosport2
+#EXTINF:-1,Eurosport2
 https://ch.iptvmate.net/5e93501b8beb894140335ff1.m3u8
-
-EXTINF:-1,**** Juventus x Porto ****
-http://naoliguesaisto.com
-
-#EXTINF:-1,Sky Sport IT
-https://6mqmaq49gx7cekq4.ezcdn462.net:8443/hls/8w87zdvc8c4.m3u8?s=jZZm2Aoy8Jhd4bAGRfTZdw&e=1615335016
-#EXTINF:-1,TNT Brasil
-https://6mqmaq49gx7cekq4.ezcdn462.net:8443/hls/sje8w0aexdjj2.m3u8?s=swyn4TNynehQaHVo4sodeQ&e=1615335614
-#EXTINF:-1,BT SPort 2 ENG
-https://6mqmaq49gx7cekq4.ezcdn462.net:8443/hls/xftrd8uold5t2.m3u8?s=odbPF2xdto18yqIvH3NK1w&e=1615335374
-#EXTINF:-1,Digi Sport 1
-https://6mqmaq49gx7cekq4.ezcdn462.net:8443/hls/ubqnbz9ru.m3u8?s=gmcffNiqOP6mi6rj4Jtz8Q&e=1615335466
