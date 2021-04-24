@@ -27,3 +27,21 @@ http://147.135.210.90:8081/tv/eurosport-1/chunks.m3u8
 http://147.135.210.90:8081/tv/eurosport-2/chunks.m3u8
 #EXTINF:-1,Eurosport2
 https://ch.iptvmate.net/5e93501b8beb894140335ff1.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="",SPORTTV 1 teste
+https://s07.quest123.top:8088/live/sp0301/playlist.m3u8?vidictid=187412725311&id=113822&pk=3a4f17df5de54e28d7c9258a12dfca072c457f5f793332cbcfdfc616cb4d1d35
+#EXTINF:-1 tvg-logo="" tvg-id="",SPORTTV 2 teste
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/u225jtufy2dkv.m3u8?s=dHVXBwEV9NxgFtfaolKJHg&e=1619258880
+#EXTINF:-1 tvg-logo="" tvg-id="",SPORTTV 3 teste
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/t69y1s69ffvz.m3u8?s=N7CFo_TMmudPztzhWLDo8Q&e=1619258975
+#EXTINF:-1 tvg-logo="" tvg-id="",SPORTTV 4 teste
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/0zer896oz3mv6.m3u8?s=13DO8ErngiiNlpRNOzlJZQ&e=1619259021
+#EXTINF:-1 tvg-logo="" tvg-id="",SPORTTV 5 teste
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/war3u.m3u8?s=SwWxzdX1wvZBXhmFW-CMYQ&e=1619259082
+#EXTINF:-1 tvg-logo="" tvg-id="",Eleven sports teste
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/eviy3tp9sa8v04t.m3u8?s=PTiK5Q3t6i_mHYCj2Hpp4A&e=161925912
+#EXTINF:-1 tvg-logo="" tvg-id="",Benfica tv teste
+https://s01.quest123.top:8088/live/sp0301/playlist.m3u8?vidictid=187414711936&id=113822&pk=3a4f17df5de54e28d7c9258a12dfca072c457f5f793332cbcfdfc616cb4d1d35
+#EXTINF:-1 tvg-logo="" tvg-id="",Canal 11 teste
+https://2d02.janjua.pw:8088/live/agrrrr/playlist.m3u8?vidictid=187413496091&id=97909&pk=5f6c38ef075d3749
+
+
