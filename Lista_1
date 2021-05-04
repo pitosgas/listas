@@ -368,3 +368,83 @@ http://live.yimp.cc:7779/561999111/4ONU8gwUKk/61531|http-user-agent=164836512
 http://live.yimp.cc:7779/561999111/4ONU8gwUKk/61532|http-user-agent=164836512
 #EXTINF:-1,XXX: Private TV
 http://live.yimp.cc:7779/561999111/4ONU8gwUKk/61534|http-user-agent=164836512
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP1.png" tvg-id="rtp1.pt",RTP 1
+http://212.224.98.213:2200/NL/rtp1-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP2.png" tvg-id="rtp2.pt",RTP 2
+http://212.224.98.213:2200/NL/rtp2-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SIC.png" tvg-id="sic.pt",SIC
+http://212.224.98.213:2200/NL/sichd-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png" tvg-id="TVI.pt",TVI
+http://212.224.98.213:2200/NL/tvi-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICN.png" tvg-id="sicnoticias.pt",SIC NOTICIAS
+http://212.224.98.213:2200/NL/sicnoticias-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP3.png" tvg-id="rtpn.pt",RTP 3
+http://212.224.98.213:2200/NL/rtp3-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI24.png" tvg-id="TVI24.pt",TVI24
+http://212.224.98.213:2200/NL/tvi24-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CMTV.png" tvg-id="CMTV.pt",CMTV
+http://212.224.98.213:2200/NL/cmtv-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICMULHER.png" tvg-id="sicmulher.pt",SIC MULHER
+http://212.224.98.213:2200/NL/sicmuler-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PORTOCANAL.png" tvg-id="PortoCanal.pt",PORTO CANAL
+http://212.224.98.213:2200/NL/portocanal-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICRADICAL.png" tvg-id="sicradical.pt",SIC RADICAL
+http://212.224.98.213:2200/NL/sicradical-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALQ.png" tvg-id="Canal Q",CANAL Q
+http://212.224.98.213:2200/NL/canalq-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV+.png" tvg-id="sporttvmais.pt",SPORT TV+
+http://212.224.98.213:2200/NL/sportvplus-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" tvg-id="sporttv1.pt",SPORT TV 1
+http://212.224.98.213:2200/NL/sporttv1-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png" tvg-id="sporttv2.pt",SPORT TV 2
+http://212.224.98.213:2200/NL/sportv2-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png" tvg-id="sporttv3.pt",SPORT TV 3
+http://212.224.98.213:2200/NL/sportv3-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" tvg-id="sporttv4.pt",SPORT TV 4
+http://212.224.98.213:2200/NL/sportv4-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png" tvg-id="sporttv5.pt",SPORT TV 5
+http://212.224.98.213:2200/NL/sportv5-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" tvg-id="BenficaTV.pt",BTV HD
+http://212.224.98.213:2200/NL/btv1hd-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTINGTV.png" tvg-id="SPORTINGTV.pt",SPORTING TV
+http://212.224.98.213:2200/NL/sportingtv-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ABOLATV.png" tvg-id="ABolaTV.pt",A BOLA TV
+http://212.224.98.213:2200/NL/abolatv-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png" tvg-id="eurosport.pt",EUROSPORT
+http://212.224.98.213:2200/NL/eurosport1-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORTHD.png" tvg-id="eurosport.pt",EUROSPORT HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PANDABIGGS.png" tvg-id="PandaBiggs.pt",PANDA BIGGS
+http://212.224.98.213:2200/NL/biggs-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC1HD.png" tvg-id="TVCine1.pt",TVCINE 1
+http://212.224.98.213:2200/NL/tvcinetophd-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC2.png" tvg-id="TVCine2.pt",TVCINE 2
+http://212.224.98.213:2200/NL/tvcine2hd-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC3.png" tvg-id="TVCine3.pt",TVCINE 3
+http://212.224.98.213:2200/NL/tvcineemotionhd-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC4.png" tvg-id="TVCine4.pt",TVCINE 4
+http://212.224.98.213:2200/NL/tvcine4hd-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALHOLLYWOOD.png" tvg-id="hollywood.pt",HOLLYWOOD
+http://212.224.98.213:2200/NL/canalhollywoodhd-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXMOVIES.png" tvg-id="FOXM",FOX MOVIES
+http://212.224.98.213:2200/NL/foxmovies-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTV.png" tvg-id="MTVPortugal",MTV PORTUGAL
+http://212.224.98.213:2200/NL/mtvportugal-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png" tvg-id="discoverychannel.pt",DISCOVERY
+http://212.224.98.213:2200/NL/discoverychannel-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HISTORIA.png" tvg-id="HistoryChannel.pt",HISTORIA
+http://212.224.98.213:2200/NL/historia-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ODISSEIA.png" tvg-id="odisseia.pt",ODISSEIA
+http://212.224.98.213:2200/NL/odesseia-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BLAZETV.png" tvg-id="0",BLAZE
+http://212.224.98.213:2200/NL/amcportugal-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TLC.png" tvg-id="TLC.pt",TLC
+http://212.224.98.213:2200/NL/tlc-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/E!.png" tvg-id="E",E! ENTERTAINMENT
+http://212.224.98.213:2200/NL/entertainment-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GLOBONOW.png" tvg-id="0",GLOBO NOW
+http://212.224.98.213:2200/NL/globo-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RECORDTV.png" tvg-id="TVRecord",TV RECORD
+http://212.224.98.213:2200/NL/tvrecord-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
