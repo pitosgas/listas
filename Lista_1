@@ -372,13 +372,13 @@ http://live.yimp.cc:7779/561999111/4ONU8gwUKk/61534|http-user-agent=164836512
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP1.png" tvg-id="rtp1.pt",RTP 1
-http://212.224.98.213:2200/NL/rtp1-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
+http://46.249.33.45:9878/pt2019/rtp1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDIxIDExOjM5OjE4IEFNJmhhc2hfdmFsdWU9cFd1MHQ3OFhzemtoOVBoTlc1aGRIQT09JnZhbGlkbWludXRlcz0y|http-user-agent=ReactNativeVideo/1.7 (Linux;Android 10) ExoPlayerLib/2.13.2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP2.png" tvg-id="rtp2.pt",RTP 2
-http://212.224.98.213:2200/NL/rtp2-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
+http://46.249.33.45:9878/pt2019/rtp2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDIxIDExOjM5OjE4IEFNJmhhc2hfdmFsdWU9cFd1MHQ3OFhzemtoOVBoTlc1aGRIQT09JnZhbGlkbWludXRlcz0y|http-user-agent=ReactNativeVideo/1.7 (Linux;Android 10) ExoPlayerLib/2.13.2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SIC.png" tvg-id="sic.pt",SIC
-http://212.224.98.213:2200/NL/sichd-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
+http://46.249.33.45:9878/pt2019/sichd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDIxIDExOjM5OjE4IEFNJmhhc2hfdmFsdWU9cFd1MHQ3OFhzemtoOVBoTlc1aGRIQT09JnZhbGlkbWludXRlcz0y|http-user-agent=ReactNativeVideo/1.7 (Linux;Android 10) ExoPlayerLib/2.13.2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png" tvg-id="TVI.pt",TVI
-http://212.224.98.213:2200/NL/tvi-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
+http://46.249.33.45:9878/pt2019/tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDIxIDExOjM5OjE4IEFNJmhhc2hfdmFsdWU9cFd1MHQ3OFhzemtoOVBoTlc1aGRIQT09JnZhbGlkbWludXRlcz0y|http-user-agent=ReactNativeVideo/1.7 (Linux;Android 10) ExoPlayerLib/2.13.2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICN.png" tvg-id="sicnoticias.pt",SIC NOTICIAS
 http://212.224.98.213:2200/NL/sicnoticias-por/tracks-v1a1/mono.m3u8?token=RED_1lQaY2Otn8sp-VgWvhR8cQ%3D%3D%2C1620205840.8486656062
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP3.png" tvg-id="rtpn.pt",RTP 3
