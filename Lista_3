@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" tvg-id="sporttv1.pt",BENFICA TV
-http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42092|http-user-agent=164836512
+http://185.183.32.8:3333/sunshine/FYmIt9z9r-0ZEV3FJdwMFOM9aHZKiOXztW6uwlBL9XEoNBoEwAbJgYyc_NAzc4Y5OxsXwAwPxvttLJ6ssKwdVn2U5tno_bluC3f_tcv7evGHxAvMZgHW4uJeevUDNTy0vKQVvb2JQ4ItBaeB6vh7__wzEP6mDFCnG9I-jFs-MgDPLruKeak81Is3hHPdBBx2/v.ts|http-user-agent=libmpv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" tvg-id="sporttv1.pt",SPORTTV 1 HD
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png" tvg-id="sporttv2.pt",SPORTTV 2 HD
