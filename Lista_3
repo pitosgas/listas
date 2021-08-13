@@ -1,26 +1,56 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" tvg-id="sporttv1.pt",BENFICA TV
+http://ky-iptv.com:25461/thestuff1/thestuff1/219188
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" tvg-id="sporttv1.pt",BENFICA TV Only Match Day
 http://185.183.32.8:3333/sunshine/FYmIt9z9r-0ZEV3FJdwMFOM9aHZKiOXztW6uwlBL9XEoNBoEwAbJgYyc_NAzc4Y5OxsXwAwPxvttLJ6ssKwdVn2U5tno_bluC3f_tcv7evGHxAvMZgHW4uJeevUDNTy0vKQVvb2JQ4ItBaeB6vh7__wzEP6mDFCnG9I-jFs-MgDPLruKeak81Is3hHPdBBx2/v.ts|http-user-agent=libmpv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV+.png" tvg-id="sporttvmais.pt",SPORT TV+
+http://ky-iptv.com:25461/thestuff1/thestuff1/399394
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" tvg-id="sporttv1.pt",SPORTTV 1 HD
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png" tvg-id="sporttv2.pt",SPORTTV 2 HD
-https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png" tvg-id="sporttv3.pt",SPORTTV 3 HD
-https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" tvg-id="sporttv4.pt",SPORT TV 4 HD
-https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png" tvg-id="sporttv5.pt",SPORT TV 5 HD
-https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rIKoRUC.jpg",Sport Tv 1
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rIKoRUC.jpg",Sport Tv 1
+http://ky-iptv.com:25461/thestuff1/thestuff1/1225714
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rIKoRUC.jpg",Sport Tv 1
+http://ky-iptv.com:25461/thestuff1/thestuff1/399398
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png" tvg-id="sporttv2.pt",SPORTTV 2 HD
+https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gO9e6sH.jpg",Sport TV 2
 http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gO9e6sH.jpg",Sport TV 2
+http://ky-iptv.com:25461/thestuff1/thestuff1/1225722
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gO9e6sH.jpg",Sport TV 2
+http://ky-iptv.com:25461/thestuff1/thestuff1/399401
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png" tvg-id="sporttv3.pt",SPORTTV 3 HD
+https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W3Ol9qm.jpg",Sport TV 3
 http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W3Ol9qm.jpg",Sport TV 3
+http://ky-iptv.com:25461/thestuff1/thestuff1/399404
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" tvg-id="sporttv4.pt",SPORT TV 4 HD
+https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tLwE29S.jpg",Sport TV 4
 http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tLwE29S.jpg",Sport TV 4
+http://ky-iptv.com:25461/thestuff1/thestuff1/399407
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png" tvg-id="sporttv5.pt",SPORT TV 5 HD
+https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wdV3ryE.jpg",Sport TV 5
 http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wdV3ryE.jpg",Sport TV 5
+http://ky-iptv.com:25461/thestuff1/thestuff1/399410
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS1.png" tvg-id="0",ELEVEN SPORTS 1
+http://ky-iptv.com:25461/thestuff1/thestuff1/399286
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS2.png" tvg-id="0",ELEVEN SPORTS 2
+http://ky-iptv.com:25461/thestuff1/thestuff1/399289
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS3.png" tvg-id="0",ELEVEN SPORTS 3
+http://ky-iptv.com:25461/thestuff1/thestuff1/399292
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS4.png" tvg-id="0",ELEVEN SPORTS 4
+http://ky-iptv.com:25461/thestuff1/thestuff1/399295
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS5.png" tvg-id="0",ELEVEN SPORTS 5
+http://ky-iptv.com:25461/thestuff1/thestuff1/399298
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS6.png" tvg-id="0",ELEVEN SPORTS 6
+http://ky-iptv.com:25461/thestuff1/thestuff1/399301
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yGdxPZi.jpg",BT Sport1
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7fpYxMs.jpg",BT Sport2
