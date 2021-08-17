@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" tvg-id="sporttv1.pt",BENFICA TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" tvg-id="btv.pt",BENFICA TV
 http://ky-iptv.com:25461/thestuff1/thestuff1/219188
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BENFICA TV Só dia de jogo !!!
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" tvg-id="btv.pt",BENFICA TV Só dia de jogo !!!
 http://185.183.32.8:3333/sunshine/FYmIt9z9r-0ZEV3FJdwMFOM9aHZKiOXztW6uwlBL9XEoNBoEwAbJgYyc_NAzc4Y5OxsXwAwPxvttLJ6ssKwdVn2U5tno_bluC3f_tcv7evGHxAvMZgHW4uJeevUDNTy0vKQVvb2JQ4ItBaeB6vh7__wzEP6mDFCnG9I-jFs-MgDPLruKeak81Is3hHPdBBx2/v.ts|http-user-agent=libmpv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV+.png" tvg-id="sporttvmais.pt",SPORT TV+
 http://ky-iptv.com:25461/thestuff1/thestuff1/399394
