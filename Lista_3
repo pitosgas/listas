@@ -1,10 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BENFICA TV
-
+http://ipflix.click:8080/vxozh0e65h/0lpoubz6kc/12521
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BENFICA TV
+http://ipflix.click:8080/vxozh0e65h/0lpoubz6kc/7534
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BENFICA TV Só dia de jogo !!!
 https://h0n3jz23swf31thl.azcdn381.net:8443/hls/0zer896oz3mv6.m3u8?s=JqOGwTHoGd8zE2AGm6JfXA&e=1630266076
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV+.png" tvg-id="sporttvmais.pt",SPORT TV+
-
+http://ipflix.click:8080/vxozh0e65h/0lpoubz6kc/7477
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" tvg-id="sporttv1.pt",SPORTTV 1 HD
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rIKoRUC.jpg",Sport Tv 1
@@ -40,17 +42,17 @@ http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wdV3ryE.jpg",Sport TV 5
 http://ky-iptv.com:25461/thestuff1/thestuff1/399410
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS1.png" tvg-id="0",ELEVEN SPORTS 1
-
+http://ipflix.click:8080/vxozh0e65h/0lpoubz6kc/51927
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS2.png" tvg-id="0",ELEVEN SPORTS 2
-
+http://ipflix.click:8080/vxozh0e65h/0lpoubz6kc/51926
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS3.png" tvg-id="0",ELEVEN SPORTS 3
-
+http://ipflix.click:8080/vxozh0e65h/0lpoubz6kc/51925
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS4.png" tvg-id="0",ELEVEN SPORTS 4
-
+http://ipflix.click:8080/vxozh0e65h/0lpoubz6kc/51924
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS5.png" tvg-id="0",ELEVEN SPORTS 5
-
+http://ipflix.click:8080/vxozh0e65h/0lpoubz6kc/51923
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS6.png" tvg-id="0",ELEVEN SPORTS 6
-
+http://ipflix.click:8080/vxozh0e65h/0lpoubz6kc/51922
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yGdxPZi.jpg",BT Sport1
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7fpYxMs.jpg",BT Sport2
