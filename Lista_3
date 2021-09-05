@@ -1,58 +1,92 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="BTV 1 FHD PT" tvg-logo="http://pici.life/pta/btv1hd.png" group-title="Portugal",BTV 1 FHD PT
+http://mytv.fun:8080/order12087/zcnfkwm3ct/12521
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="BTV 1 FHD [B] PT" tvg-logo="http://pici.life/benficatv1_2.png" group-title="Portugal",BTV 1 FHD [B] PT
+http://mytv.fun:8080/order12087/zcnfkwm3ct/7534
+#EXTINF:-1 tvg-id="" tvg-name="BTV 1 HD PT" tvg-logo="http://pici.life/pta/btv1hd.png" group-title="Portugal",BTV 1 HD PT
+http://mytv.fun:8080/order12087/zcnfkwm3ct/12520
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BENFICA TV
-http://ipflix.click:8080/vxozh0e65h/0lpoubz6kc/12521
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BENFICA TV
-http://ipflix.click:8080/vxozh0e65h/0lpoubz6kc/7534
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BENFICA TV Só dia de jogo !!!
 https://h0n3jz23swf31thl.azcdn381.net:8443/hls/0zer896oz3mv6.m3u8?s=JqOGwTHoGd8zE2AGm6JfXA&e=1630266076
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV+.png" tvg-id="sporttvmais.pt",SPORT TV+
-http://ipflix.click:8080/vxozh0e65h/0lpoubz6kc/7477
+#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="Sport TV + FHD PT" tvg-logo="http://pici.life/sporttvpluspt.png" group-title="Portugal",Sport TV + FHD PT
+http://mytv.fun:8080/order12087/zcnfkwm3ct/7477
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" tvg-id="sporttv1.pt",SPORTTV 1 HD
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rIKoRUC.jpg",Sport Tv 1
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rIKoRUC.jpg",Sport Tv 1
-http://ky-iptv.com:25461/thestuff1/thestuff1/1225714
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rIKoRUC.jpg",Sport Tv 1
-http://ky-iptv.com:25461/thestuff1/thestuff1/399398
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png" tvg-id="sporttv2.pt",SPORTTV 2 HD
 https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gO9e6sH.jpg",Sport TV 2
 http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gO9e6sH.jpg",Sport TV 2
-http://ky-iptv.com:25461/thestuff1/thestuff1/1225722
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gO9e6sH.jpg",Sport TV 2
-http://ky-iptv.com:25461/thestuff1/thestuff1/399401
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png" tvg-id="sporttv3.pt",SPORTTV 3 HD
 https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W3Ol9qm.jpg",Sport TV 3
 http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W3Ol9qm.jpg",Sport TV 3
-http://ky-iptv.com:25461/thestuff1/thestuff1/399404
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" tvg-id="sporttv4.pt",SPORT TV 4 HD
 https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tLwE29S.jpg",Sport TV 4
 http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tLwE29S.jpg",Sport TV 4
-http://ky-iptv.com:25461/thestuff1/thestuff1/399407
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png" tvg-id="sporttv5.pt",SPORT TV 5 HD
 https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wdV3ryE.jpg",Sport TV 5
 http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wdV3ryE.jpg",Sport TV 5
-http://ky-iptv.com:25461/thestuff1/thestuff1/399410
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1 FHD PT" tvg-logo="http://pici.life/pta/sporttv1pthd.png" group-title="Portugal",Sport TV 1 FHD PT
+http://mytv.fun:8080/order12087/zcnfkwm3ct/8818
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Sport TV 1 [B] FHD PT" tvg-logo="http://pici.life/pta/sporttv1pt.png" group-title="Portugal",Sport TV 1 [B] FHD PT
+http://mytv.fun:8080/order12087/zcnfkwm3ct/13097
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Sport TV 1 HD PT" tvg-logo="http://pici.life/pta/sporttv1pthd.png" group-title="Portugal",Sport TV 1 HD PT
+http://mytv.fun:8080/order12087/zcnfkwm3ct/13096
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="Sport TV 2 FHD PT" tvg-logo="http://pici.life/sporttv2pthd.png" group-title="Portugal",Sport TV 2 FHD PT
+http://mytv.fun:8080/order12087/zcnfkwm3ct/7481
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="Sport TV 2 HD PT" tvg-logo="http://pici.life/pta/sporttv2pthd.png" group-title="Portugal",Sport TV 2 HD PT
+http://mytv.fun:8080/order12087/zcnfkwm3ct/8814
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="Sport TV 2 PT" tvg-logo="http://pici.life/pta/sporttv2pt.png" group-title="Portugal",Sport TV 2 PT
+http://mytv.fun:8080/order12087/zcnfkwm3ct/13093
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="Sport TV 3 FHD PT" tvg-logo="http://pici.life/pta/sporttv3hdpt.png" group-title="Portugal",Sport TV 3 FHD PT
+http://mytv.fun:8080/order12087/zcnfkwm3ct/8817
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="Sport TV 3 HD PT" tvg-logo="http://pici.life/pta/sporttv3hdpt.png" group-title="Portugal",Sport TV 3 HD PT
+http://mytv.fun:8080/order12087/zcnfkwm3ct/8813
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="Sport TV 3 PT" tvg-logo="http://pici.life/pta/sporttv3pt.png" group-title="Portugal",Sport TV 3 PT
+http://mytv.fun:8080/order12087/zcnfkwm3ct/13091
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="Sport TV 4 FHD PT" tvg-logo="http://pici.life/pta/sporttv4hdpt.png" group-title="Portugal",Sport TV 4 FHD PT
+http://mytv.fun:8080/order12087/zcnfkwm3ct/8816
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="Sport TV 4 PT" tvg-logo="http://pici.life/pta/sporttv4pt.png" group-title="Portugal",Sport TV 4 PT
+http://mytv.fun:8080/order12087/zcnfkwm3ct/13089
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="Sport TV 4 HD PT" tvg-logo="http://pici.life/sporttv4hdpt.png" group-title="Portugal",Sport TV 4 HD PT
+http://mytv.fun:8080/order12087/zcnfkwm3ct/7479
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="Sport TV 5 FHD PT" tvg-logo="http://pici.life/sporttv5hdpt.png" group-title="Portugal",Sport TV 5 FHD PT
+http://mytv.fun:8080/order12087/zcnfkwm3ct/7478
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="Sport TV 5 HD PT" tvg-logo="http://pici.life/pta/sporttv5hdpt.png" group-title="Portugal",Sport TV 5 HD PT
+http://mytv.fun:8080/order12087/zcnfkwm3ct/8812
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="Sport TV 5 PT" tvg-logo="http://pici.life/pta/sporttv5pt.png" group-title="Portugal",Sport TV 5 PT
+http://mytv.fun:8080/order12087/zcnfkwm3ct/13087
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="Eleven Sport 1 HD PT" tvg-logo="" group-title="Portugal",Eleven Sport 1 HD PT
+http://mytv.fun:8080/order12087/zcnfkwm3ct/51927
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="Eleven Sport 2 HD PT" tvg-logo="" group-title="Portugal",Eleven Sport 2 HD PT
+http://mytv.fun:8080/order12087/zcnfkwm3ct/51926
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="Eleven Sport 3 HD PT" tvg-logo="" group-title="Portugal",Eleven Sport 3 HD PT
+http://mytv.fun:8080/order12087/zcnfkwm3ct/51925
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="Eleven Sport 4 HD PT" tvg-logo="" group-title="Portugal",Eleven Sport 4 HD PT
+http://mytv.fun:8080/order12087/zcnfkwm3ct/51924
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="Eleven Sport 5 HD PT" tvg-logo="" group-title="Portugal",Eleven Sport 5 HD PT
+http://mytv.fun:8080/order12087/zcnfkwm3ct/51923
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="Eleven Sport 6 HD PT" tvg-logo="" group-title="Portugal",Eleven Sport 6 HD PT
+http://mytv.fun:8080/order12087/zcnfkwm3ct/51922
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS1.png" tvg-id="0",ELEVEN SPORTS 1
-http://ipflix.click:8080/vxozh0e65h/0lpoubz6kc/51927
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS2.png" tvg-id="0",ELEVEN SPORTS 2
-http://ipflix.click:8080/vxozh0e65h/0lpoubz6kc/51926
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS3.png" tvg-id="0",ELEVEN SPORTS 3
-http://ipflix.click:8080/vxozh0e65h/0lpoubz6kc/51925
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS4.png" tvg-id="0",ELEVEN SPORTS 4
-http://ipflix.click:8080/vxozh0e65h/0lpoubz6kc/51924
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS5.png" tvg-id="0",ELEVEN SPORTS 5
-http://ipflix.click:8080/vxozh0e65h/0lpoubz6kc/51923
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS6.png" tvg-id="0",ELEVEN SPORTS 6
-http://ipflix.click:8080/vxozh0e65h/0lpoubz6kc/51922
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yGdxPZi.jpg",BT Sport1
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7fpYxMs.jpg",BT Sport2
