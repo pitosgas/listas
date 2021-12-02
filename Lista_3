@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BENFICA TV
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BENFICA TV Só dia de jogo !!!
-http://45.141.156.27:8000/a/willene/live/23168.ts
+https://c.jazzy.to:30443/live/49/chunks.m3u8?nimblesessionid=80896582&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDIxIDY6NTY6MzggUE0maGFzaF92YWx1ZT1TOVlZZDY5ZHdIMHVtZHJFRERvL1FnPT0mdmFsaWRtaW51dGVzPTEyMA==
 
 #EXTINF:-1 tvg-id="BENFICA" tvg-name=" BENFICA TV 1 FHD" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BENFICA TV 1 FHD
 http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVDAINMsk8V-CmML8GkEnxKDVLUP3i87SKfjTsvC1aAuN/ts
