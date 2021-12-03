@@ -1,15 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BENFICA TV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BENFICA TV
-http://185.233.186.251:8080/hls/streama169813/index.m3u8?cst=49d102941cfdfd4aeb2cc9ef15c18e18
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BENFICA TV Só dia de jogo !!!
 http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48606|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BENFICA TV Só dia de jogo 2 !!!
-http://77.247.109.108:3333/sunshine/pMI3opvLknlGz_9Z35Ff-BkHDUP9AEaEB7IIPJv_QovXsMwikKCoRp4WbSLteGhgkBA4THjtr812RMH1ubrNQUQMdw95qB8q9gbRjVG_z33Hi8igNIfHn2AeYIBBdKQr9McTt1M3E0F3vFcQ8sfIW1BuseaM6ypFX_iD2S0J_Sbb3csHC0uHg5etG8I50peo/v.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BENFICA TV Só dia de jogo 3 !!!
-https://jempomvqxjcylpwy.wzcdn804.net:8443/hls/c2kxuno.m3u8?s=XhchMZSH2k-E4680BNRXog&e=1638585512
+http://185.233.186.251:8080/hls/streama169813/index.m3u8?cst=49d102941cfdfd4aeb2cc9ef15c18e18
+
+
 
 #EXTINF:-1 tvg-id="BENFICA" tvg-name=" BENFICA TV 1 FHD" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BENFICA TV 1 FHD
 http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVDAINMsk8V-CmML8GkEnxKDVLUP3i87SKfjTsvC1aAuN/ts
