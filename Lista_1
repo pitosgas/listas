@@ -1,115 +1,241 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="RTP 1" tvg-logo="" group-title="Portugal Channels",RTP 1
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63659
-#EXTINF:-1 tvg-id="" tvg-name="RTP 2 HD" tvg-logo="" group-title="Portugal Channels",RTP 2 HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63660
-#EXTINF:-1 tvg-id="" tvg-name="SIC HD" tvg-logo="" group-title="Portugal Channels",SIC HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63667
-#EXTINF:-1 tvg-id="" tvg-name="TVI HD" tvg-logo="" group-title="Portugal Channels",TVI HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63690
-#EXTINF:-1 tvg-id="" tvg-name="SIC MULHER" tvg-logo="" group-title="Portugal Channels",SIC MULHER
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63670
-#EXTINF:-1 tvg-id="" tvg-name="SIC NOTICIAS" tvg-logo="" group-title="Portugal Channels",SIC NOTICIAS
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63671
-#EXTINF:-1 tvg-id="" tvg-name="TVI 24" tvg-logo="" group-title="Portugal Channels",TVI 24
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63691
-#EXTINF:-1 tvg-id="" tvg-name="TVI Ficção" tvg-logo="" group-title="Portugal Channels",TVI Ficção
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63692
-#EXTINF:-1 tvg-id="" tvg-name="TVI Reality" tvg-logo="" group-title="Portugal Channels",TVI Reality
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63693
-#EXTINF:-1 tvg-id="" tvg-name="RTP 3" tvg-logo="" group-title="Portugal Channels",RTP 3
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63661
-#EXTINF:-1 tvg-id="" tvg-name="CM TV HD" tvg-logo="" group-title="Portugal Channels",CM TV HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63677
-#EXTINF:-1 tvg-id="" tvg-name="Benfica TV" tvg-logo="" group-title="Portugal Channels",Benfica TV
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63689
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1" tvg-logo="" group-title="Portugal Channels",SPORT TV 1
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63702
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2" tvg-logo="" group-title="Portugal Channels",SPORT TV 2
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63703
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3" tvg-logo="" group-title="Portugal Channels",SPORT TV 3
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63704
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4" tvg-logo="" group-title="Portugal Channels",SPORT TV 4
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63705
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5" tvg-logo="" group-title="Portugal Channels",SPORT TV 5
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63706
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 HD" tvg-logo="" group-title="Portugal Channels",SPORT TV 1 HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63707
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2 HD" tvg-logo="" group-title="Portugal Channels",SPORT TV 2 HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63708
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3 HD" tvg-logo="" group-title="Portugal Channels",SPORT TV 3 HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63709
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4 HD" tvg-logo="" group-title="Portugal Channels",SPORT TV 4 HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63710
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5 HD" tvg-logo="" group-title="Portugal Channels",SPORT TV 5 HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63711
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="" group-title="Portugal Channels",ELEVEN SPORTS 1 HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63712
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="" group-title="Portugal Channels",ELEVEN SPORTS 2 HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63713
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="" group-title="Portugal Channels",ELEVEN SPORTS 3 HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63714
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" tvg-logo="" group-title="Portugal Channels",EUROSPORT 1 HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63687
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 HD" tvg-logo="" group-title="Portugal Channels",EUROSPORT 2 HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63688
-#EXTINF:-1 tvg-id="" tvg-name="TVCINE ACTION HD" tvg-logo="" group-title="Portugal Channels",TVCINE ACTION HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63662
-#EXTINF:-1 tvg-id="" tvg-name="TVCINE EDITION HD" tvg-logo="" group-title="Portugal Channels",TVCINE EDITION HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63663
-#EXTINF:-1 tvg-id="" tvg-name="TVCINE EMOTION HD" tvg-logo="" group-title="Portugal Channels",TVCINE EMOTION HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63664
-#EXTINF:-1 tvg-id="" tvg-name="TVCINE TOP HD" tvg-logo="" group-title="Portugal Channels",TVCINE TOP HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63665
-#EXTINF:-1 tvg-id="" tvg-name="RTP AFRICA" tvg-logo="" group-title="Portugal Channels",RTP AFRICA
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63666
-#EXTINF:-1 tvg-id="" tvg-name="JIM JAM HD" tvg-logo="" group-title="Portugal Channels",JIM JAM HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63668
-#EXTINF:-1 tvg-id="" tvg-name="SIC KIDS" tvg-logo="" group-title="Portugal Channels",SIC KIDS
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63669
-#EXTINF:-1 tvg-id="" tvg-name="SIC RADICAL" tvg-logo="" group-title="Portugal Channels",SIC RADICAL
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63672
-#EXTINF:-1 tvg-id="" tvg-name="SPORTING TV" tvg-logo="" group-title="Portugal Channels",SPORTING TV
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63673
-#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" group-title="Portugal Channels",AMC HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63674
-#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="" group-title="Portugal Channels",A&E
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63675
-#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="Portugal Channels",AXN HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63676
-#EXTINF:-1 tvg-id="" tvg-name="CACA E PESCA HD" tvg-logo="" group-title="Portugal Channels",CACA E PESCA HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63678
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="Portugal Channels",CARTOON NETWORK
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63679
-#EXTINF:-1 tvg-id="" tvg-name="CINEMUNDO" tvg-logo="" group-title="Portugal Channels",CINEMUNDO
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63680
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="" group-title="Portugal Channels",SYFY
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63681
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO" tvg-logo="" group-title="Portugal Channels",GLOBO
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63682
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NOW" tvg-logo="" group-title="Portugal Channels",GLOBO NOW
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63683
-#EXTINF:-1 tvg-id="" tvg-name="MTV PORTUGAL HD" tvg-logo="" group-title="Portugal Channels",MTV PORTUGAL HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63684
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD" tvg-logo="" group-title="Portugal Channels",DISNEY CHANNEL HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63685
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR HD" tvg-logo="" group-title="Portugal Channels",DISNEY JUNIOR HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63686
-#EXTINF:-1 tvg-id="" tvg-name="24 KITCHEN HD" tvg-logo="" group-title="Portugal Channels",24 KITCHEN HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63694
-#EXTINF:-1 tvg-id="" tvg-name="FOX CRIME HD" tvg-logo="" group-title="Portugal Channels",FOX CRIME HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63695
-#EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES HD" tvg-logo="" group-title="Portugal Channels",FOX MOVIES HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63696
-#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD HD" tvg-logo="" group-title="Portugal Channels",HOLLYWOOD HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63697
-#EXTINF:-1 tvg-id="" tvg-name="KOMBAT SPORT HD" tvg-logo="" group-title="Portugal Channels",KOMBAT SPORT HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63698
-#EXTINF:-1 tvg-id="" tvg-name="MCM POP" tvg-logo="" group-title="Portugal Channels",MCM POP
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63699
-#EXTINF:-1 tvg-id="" tvg-name="MOTORVISION TV" tvg-logo="" group-title="Portugal Channels",MOTORVISION TV
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63700
-#EXTINF:-1 tvg-id="" tvg-name="PORTO CANAL HD" tvg-logo="" group-title="Portugal Channels",PORTO CANAL HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63701
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/RTP1.png" group-title="PT| PORTUGAL",RTP 1
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48584|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2 HD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/RTP2.png" group-title="PT| PORTUGAL",RTP 2 HD
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48585|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="rtp3.pt" tvg-name="RTP 3" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/RTP3.png" group-title="PT| PORTUGAL",RTP 3
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48586|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="rtpafrica.pt" tvg-name="RTP Africa" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/RTPAFFRICA.png" group-title="PT| PORTUGAL",RTP Africa
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48587|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-name="RTP Memoria" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/RTPMEMORIA.png" group-title="PT| PORTUGAL",RTP Memoria
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48588|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/TVI24.png" group-title="PT| PORTUGAL",TVI
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48589|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="tvi24.pt" tvg-name="Tvi 24" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/TVI24.png" group-title="PT| PORTUGAL",Tvi 24
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48590|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="tvireality.pt" tvg-name="TVI Reality" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/TVI.png" group-title="PT| PORTUGAL",TVI Reality
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48591|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="tvificcao.pt" tvg-name="TVI FICCAO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d0/TVI_fic%C3%A7%C3%A3o.png" group-title="PT| PORTUGAL",TVI FICCAO
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/273732|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="tcvinternational.pt" tvg-name="TCV CABO" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102010/tcv.gif?itok=fw_DgJJE" group-title="PT| PORTUGAL",TCV CABO
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/274557|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="Sic HD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/SIC.png" group-title="PT| PORTUGAL",Sic HD
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48592|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="SIC Radical" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/SIC.png" group-title="PT| PORTUGAL",SIC Radical
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48593|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="SIC NOTICIAS" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/SIC.png" group-title="PT| PORTUGAL",SIC NOTICIAS
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48594|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="SIC Mulher" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/SIC.png" group-title="PT| PORTUGAL",SIC Mulher
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48595|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="CMTV" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/CMTV.png" group-title="PT| PORTUGAL",CMTV
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48596|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="syfy.pt" tvg-name="SYFY" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/SYFYHD.png" group-title="PT| PORTUGAL",SYFY
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48598|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="AXN HD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/AXNHD.png" group-title="PT| PORTUGAL",AXN HD
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48599|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="" tvg-name="E ENTERTAINMENT" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/E!ENTERTAINMENT.png" group-title="PT| PORTUGAL",E ENTERTAINMENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48600|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="AXN WHITE HD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/AXNWHITE.png" group-title="PT| PORTUGAL",AXN WHITE HD
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48601|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="axnblack.pt" tvg-name="AXN BLACK" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/AXNBLACK.png" group-title="PT| PORTUGAL",AXN BLACK
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48602|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="FOX HD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/FOXHD.png" group-title="PT| CINEMA",FOX HD
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48603|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="FOX COMEDY" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/FOXHD.png" group-title="PT| CINEMA",FOX COMEDY
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48604|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="A Bola TV" tvg-logo="" group-title="PT| PORTUGAL",A Bola TV
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48605|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="BENFICA TV 1 HD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/BENFICATV1HD.png" group-title="PT| PORTUGAL",BENFICA TV 1 HD
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48606|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="" tvg-name="Canal NOS" tvg-logo="" group-title="PT| PORTUGAL",Canal NOS
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48607|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="canalq.pt" tvg-name="Canal Q" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/CANALQ.png" group-title="PT| PORTUGAL",Canal Q
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48608|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="cancaonova.pt" tvg-name="Cano Nova" tvg-logo="" group-title="PT| PORTUGAL",Cano Nova
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48609|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="porto.pt" tvg-name="Porto Canal" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/PORTOCANAL.png" group-title="PT| PORTUGAL",Porto Canal
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48610|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="rtpacores.pt" tvg-name="RTP Acores" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/RTPACORES.png" group-title="PT| PORTUGAL",RTP Acores
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48611|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="rtpmadeira.pt" tvg-name="RTP Madeira" tvg-logo="" group-title="PT| PORTUGAL",RTP Madeira
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48612|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="FOX CRIME" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/FOXHD.png" group-title="PT| CINEMA",FOX CRIME
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48613|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="Fox Life HD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/FOXHD.png" group-title="PT| CINEMA",Fox Life HD
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48614|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Sport TV 1 FHD" tvg-logo="" group-title="PT| ESPORTES",Sport TV 1 FHD
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48616|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="" tvg-name="TVCine 1 FHD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/TVCINE1.png" group-title="PT| CINEMA",TVCine 1 FHD
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48617|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="" tvg-name="TVCine 2 FHD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/TVCINE2.png" group-title="PT| CINEMA",TVCine 2 FHD
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48618|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="" tvg-name="TVCine 2" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/TVCINE2.png" group-title="PT| CINEMA",TVCine 2
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48619|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="" tvg-name="TVCine 3 FHD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/TVCINE3.png" group-title="PT| CINEMA",TVCine 3 FHD
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48620|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="" tvg-name="TVCine 4 FHD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/TVCINE4.png" group-title="PT| CINEMA",TVCine 4 FHD
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48621|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="" tvg-name="TVCine 4 SD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/TVCINE4.png" group-title="PT| CINEMA",TVCine 4 SD
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48622|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="FOX MOVIES" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/FOXHD.png" group-title="PT| CINEMA",FOX MOVIES
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48623|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="" tvg-name="CINE MUNDO" tvg-logo="" group-title="PT| CINEMA",CINE MUNDO
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48624|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="Hollywood FHD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/HOLLYWOODHD.png" group-title="PT| CINEMA",Hollywood FHD
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48625|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="tvseries.pt" tvg-name="TV Series FHD" tvg-logo="" group-title="PT| CINEMA",TV Series FHD
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48626|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI FHD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/TVI.png" group-title="PT| CINEMA",TVI FHD
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48627|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="sporttv4k.pt" tvg-name="SPORT TV +   HD" tvg-logo="" group-title="PT| ESPORTES",SPORT TV +   HD
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48629|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Sport TV 1" tvg-logo="" group-title="PT| ESPORTES",Sport TV 1
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48630|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="Sport TV 2 FHD" tvg-logo="" group-title="PT| ESPORTES",Sport TV 2 FHD
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48631|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="Sport TV 2" tvg-logo="" group-title="PT| ESPORTES",Sport TV 2
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48632|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="Sport TV 3 FHD" tvg-logo="" group-title="PT| ESPORTES",Sport TV 3 FHD
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48633|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="Sport TV 3" tvg-logo="" group-title="PT| ESPORTES",Sport TV 3
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48634|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="Sport TV 4" tvg-logo="" group-title="PT| ESPORTES",Sport TV 4
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48635|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="Sport TV 5" tvg-logo="" group-title="PT| ESPORTES",Sport TV 5
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48636|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="Eleven Sports 1" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/ELEVENSPORTS.png" group-title="PT| ESPORTES",Eleven Sports 1
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48637|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="Eleven Sports 2" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/ELEVENSPORTS.png" group-title="PT| ESPORTES",Eleven Sports 2
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48638|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="Eleven Sports 3" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/ELEVENSPORTS.png" group-title="PT| ESPORTES",Eleven Sports 3
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48639|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="Eleven Sports 4" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/ELEVENSPORTS.png" group-title="PT| ESPORTES",Eleven Sports 4
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48640|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="Eleven Sports 5" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/ELEVENSPORTS.png" group-title="PT| ESPORTES",Eleven Sports 5
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48641|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="Eleven Sports 6" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/ELEVENSPORTS.png" group-title="PT| ESPORTES",Eleven Sports 6
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48642|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="Eurosport 1 FHD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/EUROSPORT1.png" group-title="PT| ESPORTES",Eurosport 1 FHD
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48643|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="EUROSPORT 1" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/EUROSPORT1.png" group-title="PT| ESPORTES",EUROSPORT 1
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48644|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="eurosport2.pt" tvg-name="EUROSPORT 2" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/EUROSPORT2.png" group-title="PT| ESPORTES",EUROSPORT 2
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48645|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/EUROSPORT1.png" group-title="PT| ESPORTES",Eurosport
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48646|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="kombatsport.pt" tvg-name="Kombat Sport" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/KOMBATSPORT.png" group-title="PT| ESPORTES",Kombat Sport
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48647|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/REALMADRIDTV.png" group-title="PT| ESPORTES",Real Madrid TV
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48648|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="" tvg-name="MOTORS TV" tvg-logo="" group-title="PT| ESPORTES",MOTORS TV
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48649|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="Sporting TV HD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/SPORTINGTV.png" group-title="PT| ESPORTES",Sporting TV HD
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48650|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="NBA TV" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/NBATV.png" group-title="PT| ESPORTES",NBA TV
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48651|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="motorvision.pt" tvg-name="Motorvision" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/MOTORVISION.png" group-title="PT| ESPORTES",Motorvision
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48652|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="toros.pt" tvg-name="Toros TV" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/TOROS.png" group-title="PT| ESPORTES",Toros TV
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48653|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="pfc.pt" tvg-name="PFC HD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/PFC.png" group-title="PT| ESPORTES",PFC HD
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48654|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="" tvg-name="MTV Dance" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/MTVPORTUGAL.png" group-title="PT| PORTUGAL",MTV Dance
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48655|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/MTVPORTUGAL.png" group-title="PT| PORTUGAL",MTV Hits
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48656|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="mtv.pt" tvg-name="MTV Portugal" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/MTVPORTUGAL.png" group-title="PT| PORTUGAL",MTV Portugal
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48657|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="" tvg-name="MTV Rocks" tvg-logo="" group-title="PT| PORTUGAL",MTV Rocks
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48658|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="vh1.pt" tvg-name="VH1" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/VH1.png" group-title="PT| PORTUGAL",VH1
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48659|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Classic" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/VH1.png" group-title="PT| PORTUGAL",VH1 Classic
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48660|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="" tvg-name="MCM Pop" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/MCMPOP.png" group-title="PT| PORTUGAL",MCM Pop
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48661|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="afromusicchannel.pt" tvg-name="Afro Music" tvg-logo="" group-title="PT| PORTUGAL",Afro Music
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48662|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="traceurban.pt" tvg-name="Trace Urban" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/TRACEURBAN.png" group-title="PT| PORTUGAL",Trace Urban
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48663|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="24 Kitchen FHD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/24KITCHENHD.png" group-title="PT| DOCUMENTARIO",24 Kitchen FHD
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48665|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="tlc.pt" tvg-name="TLC" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/TLC.png" group-title="PT| DOCUMENTARIO",TLC
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48666|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="cacavision.pt" tvg-name="Cacavision" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/CACAVISION.png" group-title="PT| DOCUMENTARIO",Cacavision
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48667|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="historia.pt" tvg-name="Historia" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/HISTORIAHD.png" group-title="PT| DOCUMENTARIO",Historia
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48668|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="cacaepesca.pt" tvg-name="Caca e Pesca" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/CACAVISION.png" group-title="PT| DOCUMENTARIO",Caca e Pesca
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48669|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/DISCOVERYHD.png" group-title="PT| DOCUMENTARIO",DISCOVERY CHANNEL
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48670|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="travelchannel.pt" tvg-name="Travel Channel FHD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/TRAVELCHANNELHD.png" group-title="PT| DOCUMENTARIO",Travel Channel FHD
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48671|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="NAT GEO HD" tvg-logo="http://185.165.243.195/logo/5079.png" group-title="PT| DOCUMENTARIO",NAT GEO HD
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48672|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="nationalgeographicwild.pt" tvg-name="Nat Geo Wild" tvg-logo="http://185.165.243.195/logo/5019.png" group-title="PT| DOCUMENTARIO",Nat Geo Wild
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48673|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="mezzo.pt" tvg-name="Mezzo" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/MEZZO.png" group-title="PT| DOCUMENTARIO",Mezzo
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48674|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="discoveryshowcase.pt" tvg-name="Discovery FHD Showcase" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/DISCOVERYHD.png" group-title="PT| DOCUMENTARIO",Discovery FHD Showcase
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48675|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="ODISSEIA" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/ODISSEIA.png" group-title="PT| DOCUMENTARIO",ODISSEIA
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48676|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="" tvg-name="TV FAtima" tvg-logo="" group-title="PT| DOCUMENTARIO",TV FAtima
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48677|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="nickelodeon.pt" tvg-name="NICKELODEON" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/NICKELODEON.png" group-title="PT| CRIANCAS",NICKELODEON
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48679|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="panda.pt" tvg-name="Canal Panda HD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/CANALPANDA.png" group-title="PT| CRIANCAS",Canal Panda HD
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48680|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="Disney Channel" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/DISNEYJR.png" group-title="PT| CRIANCAS",Disney Channel
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48681|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="disneyjunior.pt" tvg-name="Disney Junior" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/DISNEYJR.png" group-title="PT| CRIANCAS",Disney Junior
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48682|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="disneyjunior.pt" tvg-name="DISNEY JUNIOR (test)" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/DISNEYJR.png" group-title="PT| CRIANCAS",DISNEY JUNIOR (test)
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48683|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="biggs.pt" tvg-name="Biggs" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/BIGGS.png" group-title="PT| CRIANCAS",Biggs
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48684|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/BLOOMBERG.png" group-title="PT| CRIANCAS",Bloomberg
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48685|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="cartoonnetwork.pt" tvg-name="Cartoon Network" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/CARTOONNETWORK.png" group-title="PT| CRIANCAS",Cartoon Network
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48686|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="jimjam.pt" tvg-name="Jim Jam" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/JIMJAM.png" group-title="PT| CRIANCAS",Jim Jam
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48687|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="globo.pt" tvg-name="TV Globo HD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/GLOBO.png" group-title="PT| PORTUGAL",TV Globo HD
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48689|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="globo.pt" tvg-name="TV Globo" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/GLOBO.png" group-title="PT| PORTUGAL",TV Globo
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48690|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="" tvg-name="TV Globo Premium" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/GLOBO.png" group-title="PT| PORTUGAL",TV Globo Premium
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48691|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="recordtvhd.pt" tvg-name="TV RECORD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/RECORDHD.png" group-title="PT| PORTUGAL",TV RECORD
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48692|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="euronews.pt" tvg-name="Euronews" tvg-logo="" group-title="PT| PORTUGAL",Euronews
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48693|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="tviinternacional.pt" tvg-name="TVE Internacional" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/TVEI.png" group-title="PT| PORTUGAL",TVE Internacional
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48694|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="tvi24.pt" tvg-name="TVE 24h" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/TVE24H.png" group-title="PT| PORTUGAL",TVE 24h
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48695|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="" tvg-name="RTP INFORMACAO" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/RTPACORES.png" group-title="PT| PORTUGAL",RTP INFORMACAO
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48696|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="" tvg-name="TV Boxoffice 1" tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/NETFLIX/BOX-OFFICE.png" group-title="PT| BOX OFFICE",TV Boxoffice 1
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/240226|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="" tvg-name="TV Boxoffice 2" tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/NETFLIX/BOX-OFFICE.png" group-title="PT| BOX OFFICE",TV Boxoffice 2
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/240227|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="" tvg-name="TV Boxoffice 3" tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/NETFLIX/BOX-OFFICE.png" group-title="PT| BOX OFFICE",TV Boxoffice 3
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/240228|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="" tvg-name="TV Boxoffice 4" tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/NETFLIX/BOX-OFFICE.png" group-title="PT| BOX OFFICE",TV Boxoffice 4
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/240229|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="" tvg-name="TV Boxoffice 5" tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/NETFLIX/BOX-OFFICE.png" group-title="PT| BOX OFFICE",TV Boxoffice 5
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/240230|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="" tvg-name="TV Boxoffice 6" tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/NETFLIX/BOX-OFFICE.png" group-title="PT| BOX OFFICE",TV Boxoffice 6
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/240231|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="" tvg-name="TV Boxoffice 7" tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/NETFLIX/BOX-OFFICE.png" group-title="PT| BOX OFFICE",TV Boxoffice 7
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/240232|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="" tvg-name="TV Boxoffice 8" tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/NETFLIX/BOX-OFFICE.png" group-title="PT| BOX OFFICE",TV Boxoffice 8
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/240233|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="" tvg-name="TV Boxoffice 9" tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/NETFLIX/BOX-OFFICE.png" group-title="PT| BOX OFFICE",TV Boxoffice 9
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/240234|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="" tvg-name="TV Boxoffice 10" tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/NETFLIX/BOX-OFFICE.png" group-title="PT| BOX OFFICE",TV Boxoffice 10
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/240235|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 
