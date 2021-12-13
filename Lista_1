@@ -1,27 +1,27 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/RTP1.png" group-title="PT| PORTUGAL",RTP 1
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48584|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48584|http-user-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2 HD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/RTP2.png" group-title="PT| PORTUGAL",RTP 2 HD
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48585|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48585|http-user-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="rtp3.pt" tvg-name="RTP 3" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/RTP3.png" group-title="PT| PORTUGAL",RTP 3
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48586|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48586|http-user-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="rtpafrica.pt" tvg-name="RTP Africa" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/RTPAFFRICA.png" group-title="PT| PORTUGAL",RTP Africa
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48587|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48587|http-user-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-name="RTP Memoria" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/RTPMEMORIA.png" group-title="PT| PORTUGAL",RTP Memoria
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48588|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48588|http-user-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/TVI24.png" group-title="PT| PORTUGAL",TVI
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48589|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48589|http-user-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="tvi24.pt" tvg-name="Tvi 24" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/TVI24.png" group-title="PT| PORTUGAL",Tvi 24
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48590|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48590|http-user-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="tvireality.pt" tvg-name="TVI Reality" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/TVI.png" group-title="PT| PORTUGAL",TVI Reality
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48591|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48591|http-user-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="tvificcao.pt" tvg-name="TVI FICCAO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d0/TVI_fic%C3%A7%C3%A3o.png" group-title="PT| PORTUGAL",TVI FICCAO
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/273732|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/273732|http-user-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="tcvinternational.pt" tvg-name="TCV CABO" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102010/tcv.gif?itok=fw_DgJJE" group-title="PT| PORTUGAL",TCV CABO
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/274557|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/274557|http-user-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="sic.pt" tvg-name="Sic HD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/SIC.png" group-title="PT| PORTUGAL",Sic HD
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48592|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48592|http-user-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="sicradical.pt" tvg-name="SIC Radical" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/SIC.png" group-title="PT| PORTUGAL",SIC Radical
 http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48593|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="SIC NOTICIAS" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/SIC.png" group-title="PT| PORTUGAL",SIC NOTICIAS
@@ -237,5 +237,5 @@ http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/240233|http-user-agent=REDLINE
 #EXTINF:-1 tvg-id="" tvg-name="TV Boxoffice 9" tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/NETFLIX/BOX-OFFICE.png" group-title="PT| BOX OFFICE",TV Boxoffice 9
 http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/240234|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 #EXTINF:-1 tvg-id="" tvg-name="TV Boxoffice 10" tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/NETFLIX/BOX-OFFICE.png" group-title="PT| BOX OFFICE",TV Boxoffice 10
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/240235|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/240235|http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.7
 
