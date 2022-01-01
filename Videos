@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/19/06/06/15/50/5115232.jpg" tvg-id="", Asterix e o segredo da poção mágica
-http://tkuniverse21.tk/8001346.mp4
+#EXTINF:-1 tvg-logo="http://bilheteira.fnac.pt/fileserver/Images/Novas/Fevereiro%2020_04/LEVANTA-TE_E_RI_755x470.jpg" tvg-id="",Especial Fernando Rocha 20 Anos
+https://youtu.be/yjjbo7ID7MM
 #EXTINF:-1 tvg-logo="https://imagens.publicocdn.com/imagens.aspx/573353?tp=KM&w=220" tvg-id="", Cantar
-http://tkuniverse21.tk/3470600.mp4
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7d/Agricultor.png" tvg-id="", Quem quer namorar com o agricultor 3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7d/Agricultor.png" tvg-id="", Diário 12/11
-http://videos.impresa.pt/sic/2021-11-11/c080ba36-c03b-4504-bcc7-c7c11db9e0bf_qqnca_s05_diario_24_v3.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7d/Agricultor.png" tvg-id="", Diário 1/2
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7d/Agricultor.png" tvg-id="", Diário 2/2
