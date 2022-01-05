@@ -1,91 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e7aeb547717f6e110c331e6aa4135d26.png" group-title="Portugal VIP",PT: RTP 1 FHD
-http://256379961308263976.niceyes.xyz:80/L11031/4699863/263976|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-05/8a5bcde9b3bd3182948bc4c10e4673a4.png" group-title="Portugal VIP",PT: RTP 2 FHD
-http://256379961308263977.niceyes.xyz:80/L11031/4699863/263977|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC SD" tvg-logo="https://4.bp.blogspot.com/-seQXpicDRC0/WDtddC4QH6I/AAAAAAAAFjg/07nSMTXxE54Vf4TlXW2rTvG35BT-d-qqQCLcB/s1600/SIC%2BHD%2Blogo.png" group-title="Portugal VIP",PT: SIC SD
-http://256379961308277493.niceyes.xyz:80/L11031/4699863/277493|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f635b82d815b50fe826d0dd86b2da632.png" group-title="Portugal VIP",PT: SIC FHD
-http://256379961308265931.niceyes.xyz:80/L11031/4699863/265931|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: SIC LOW H264 HD
-http://256379961308270819.niceyes.xyz:80/L11031/4699863/270819|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/85c7a4f09d37b9ad96ddc40a0d48337c.png" group-title="Portugal VIP",PT: TVI FHD
-http://256379961308265934.niceyes.xyz:80/L11031/4699863/265934|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI SD" tvg-logo="https://1.bp.blogspot.com/-t5GXF5OCKUc/WKte3ETJtsI/AAAAAAAAFrg/qTgWMdGokKsyXqjudlAMnyvRUeL6O_AlgCLcB/s1600/TVI%2Blogo.png" group-title="Portugal VIP",PT: TVI SD
-http://256379961308265936.niceyes.xyz:80/L11031/4699863/265936|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d399fedc17277522ba8d0416ee36498d.png" group-title="Portugal VIP",PT: TVI REALITY FHD
-http://256379961308266030.niceyes.xyz:80/L11031/4699863/266030|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC CARAS HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ebc03e0ee47b8550771dcf1c7d2bb89c.png" group-title="Portugal VIP",PT: SIC CARAS HD
-http://256379961308266015.niceyes.xyz:80/L11031/4699863/266015|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC MULHER LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: SIC MULHER LOW H264 HD
-http://256379961308273062.niceyes.xyz:80/L11031/4699863/273062|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC MULHER FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/00cfc2c30fdd7d84ebed9489cc0c6ca9.png" group-title="Portugal VIP",PT: SIC MULHER FHD
-http://256379961308275178.niceyes.xyz:80/L11031/4699863/275178|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC MULHER SD" tvg-logo="https://2.bp.blogspot.com/-__5Rvo5_kN0/TyVcFKeNgaI/AAAAAAAABTI/a6YpSAM4GTQ/s1600/SIC+Mulher+logo.png" group-title="Portugal VIP",PT: SIC MULHER SD
-http://256379961308275179.niceyes.xyz:80/L11031/4699863/275179|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC NOTICIAS FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4c9ed2c815adfefb06bcb05ddee39727.png" group-title="Portugal VIP",PT: SIC NOTICIAS FHD
-http://256379961308263986.niceyes.xyz:80/L11031/4699863/263986|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC RADICAL FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/977c0ecb61363c74eff0f34c59905fb4.png" group-title="Portugal VIP",PT: SIC RADICAL FHD
-http://256379961308263987.niceyes.xyz:80/L11031/4699863/263987|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV 1 SD" tvg-logo="" group-title="Portugal VIP",PT: BENFICA TV 1 SD
-http://256379961308264027.niceyes.xyz:80/L11031/4699863/264027|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: BTV HQ H264 HD" tvg-logo="" group-title="Portugal Low",PT: BTV HQ H264 HD
-http://256379961308270791.niceyes.xyz:80/L11031/4699863/270791|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: BTV LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: BTV LOW H264 HD
-http://256379961308270792.niceyes.xyz:80/L11031/4699863/270792|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="PT: BENFICA TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce7c9696313070a9238ade6d0b8c6c67.png" group-title="Portugal VIP",PT: BENFICA TV FHD
-http://256379961308265956.niceyes.xyz:80/L11031/4699863/265956|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: ABOLA TV FHD" tvg-logo="https://3.bp.blogspot.com/-dC8DE7f4qws/T1Fbbo22HgI/AAAAAAAAB1c/mqmtecgK0dk/s1600/A+Bola+TV+logo.png" group-title="Portugal VIP",PT: ABOLA TV FHD
-http://256379961308264020.niceyes.xyz:80/L11031/4699863/264020|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 11 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/93673aa325443895b136366bbfc38fc4.png" group-title="Portugal VIP",PT: CANAL 11 FHD
-http://256379961308265962.niceyes.xyz:80/L11031/4699863/265962|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV+ HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/22ccb6d1c637d9b6a63d83100af972f3.png" group-title="Portugal VIP",PT: SPORT TV+ HD
-http://256379961308266019.niceyes.xyz:80/L11031/4699863/266019|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV+ HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/22ccb6d1c637d9b6a63d83100af972f3.png" group-title="Portugal Sport",PT: SPORT TV+ HD
-http://256379961308266943.niceyes.xyz:80/L11031/4699863/266943|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title="Portugal Sport",PT: SPORT TV 1 FHD
-http://256379961308266944.niceyes.xyz:80/L11031/4699863/266944|http-user-agent=Lavf/54.40.101
-EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title="Portugal Sport",PT: SPORT TV 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title="Portugal Sport",PT: SPORT TV 1 HD
 http://256379961308243283.niceyes.xyz:80/L11031/4699863/243283|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title="Portugal VIP",PT: SPORT TV 1 FHD
-http://256379961308254158.niceyes.xyz:80/L11031/4699863/254158|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png" group-title="Portugal Sport",PT: SPORT TV 2 HD
 http://256379961308243285.niceyes.xyz:80/L11031/4699863/243285|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png" group-title="Portugal VIP",PT: SPORT TV 2 FHD
-http://256379961308254159.niceyes.xyz:80/L11031/4699863/254159|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png" group-title="Portugal Sport",PT: SPORT TV 2 FHD
-http://256379961308266945.niceyes.xyz:80/L11031/4699863/266945|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d77db9165e33a177ada687f34441b6d5.png" group-title="Portugal Sport",PT: SPORT TV 3 HD
 http://256379961308243287.niceyes.xyz:80/L11031/4699863/243287|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d77db9165e33a177ada687f34441b6d5.png" group-title="Portugal VIP",PT: SPORT TV 3 FHD
-http://256379961308254160.niceyes.xyz:80/L11031/4699863/254160|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d77db9165e33a177ada687f34441b6d5.png" group-title="Portugal Sport",PT: SPORT TV 3 FHD
-http://256379961308266946.niceyes.xyz:80/L11031/4699863/266946|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3d6b227803c54e2924e81ead82561df7.png" group-title="Portugal VIP",PT: SPORT TV 4 FHD
-http://256379961308254161.niceyes.xyz:80/L11031/4699863/254161|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3d6b227803c54e2924e81ead82561df7.png" group-title="Portugal VIP",PT: SPORT TV 4 SD
-http://256379961308254198.niceyes.xyz:80/L11031/4699863/254198|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3d6b227803c54e2924e81ead82561df7.png" group-title="Portugal Sport",PT: SPORT TV 4 FHD
-http://256379961308266947.niceyes.xyz:80/L11031/4699863/266947|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/85b1b813eeaec60854f25192a7d9519c.png" group-title="Portugal Sport",PT: SPORT TV 5 FHD
-http://256379961308266948.niceyes.xyz:80/L11031/4699863/266948|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/85b1b813eeaec60854f25192a7d9519c.png" group-title="Portugal VIP",PT: SPORT TV 5 FHD
-http://256379961308266020.niceyes.xyz:80/L11031/4699863/266020|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA HD" tvg-logo="" group-title="Portugal VIP",PT: SPORT TV NBA HD
-http://256379961308254163.niceyes.xyz:80/L11031/4699863/254163|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal Sport",PT: SPORT TV NBA HD
-http://256379961308266949.niceyes.xyz:80/L11031/4699863/266949|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e29ab16dd731b9f11938c24282ed403c.png" group-title="Portugal VIP",PT: EUROSPORT 1 FHD
-http://256379961308254183.niceyes.xyz:80/L11031/4699863/254183|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e29ab16dd731b9f11938c24282ed403c.png" group-title="Portugal Sport",PT: EUROSPORT 1 HD
 http://256379961308243292.niceyes.xyz:80/L11031/4699863/243292|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e29ab16dd731b9f11938c24282ed403c.png" group-title="Portugal VIP",PT: EUROSPORT 1 FHD
-http://256379961308265982.niceyes.xyz:80/L11031/4699863/265982|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/44e7fcd83142484151969cb5ec092f2c.png" group-title="Portugal VIP",PT: EUROSPORT 2 HD
-http://256379961308265983.niceyes.xyz:80/L11031/4699863/265983|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e29ab16dd731b9f11938c24282ed403c.png" group-title="Portugal Sport",PT: EUROSPORT 1 FHD
-http://256379961308266941.niceyes.xyz:80/L11031/4699863/266941|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/44e7fcd83142484151969cb5ec092f2c.png" group-title="Portugal Sport",PT: EUROSPORT 2 HD
 http://256379961308243295.niceyes.xyz:80/L11031/4699863/243295|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c5409550875e0e1b4d38c0167efbf339.png" group-title="Portugal Sport",PT: ELEVEN SPORTS 5 HD
@@ -94,26 +16,24 @@ http://256379961308243300.niceyes.xyz:80/L11031/4699863/243300|http-user-agent=L
 http://256379961308243301.niceyes.xyz:80/L11031/4699863/243301|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/dbe88e53a72f505010f15f778a3fd4c9.png" group-title="Portugal VIP",PT: ELEVEN SPORTS 1 FHD
 http://256379961308254115.niceyes.xyz:80/L11031/4699863/254115|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/dbe88e53a72f505010f15f778a3fd4c9.png" group-title="Portugal Sport",PT: ELEVEN SPORTS 1 HD
-http://256379961308266937.niceyes.xyz:80/L11031/4699863/266937|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/61327badbbea898c7c700b7fe81c55d8.png" group-title="Portugal Sport",PT: ELEVEN SPORTS 2 FHD
-http://256379961308266938.niceyes.xyz:80/L11031/4699863/266938|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b9c02901087946bb37b047d33f24a208.png" group-title="Portugal Sport",PT: ELEVEN SPORTS 3 HD
-http://256379961308266939.niceyes.xyz:80/L11031/4699863/266939|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b9c02901087946bb37b047d33f24a208.png" group-title="Portugal VIP",PT: ELEVEN SPORTS 3 HD
 http://256379961308254117.niceyes.xyz:80/L11031/4699863/254117|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b9c02901087946bb37b047d33f24a208.png" group-title="Portugal Sport",PT: ELEVEN SPORTS 3 HD
-http://256379961308267335.niceyes.xyz:80/L11031/4699863/267335|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c17ab7ee9a7e3e32117fb1368ffb284c.png" group-title="Portugal Sport",PT: ELEVEN SPORTS 4 HD
-http://256379961308267336.niceyes.xyz:80/L11031/4699863/267336|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c17ab7ee9a7e3e32117fb1368ffb284c.png" group-title="Portugal Sport",PT: ELEVEN SPORTS 4 HD
-http://256379961308266940.niceyes.xyz:80/L11031/4699863/266940|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c17ab7ee9a7e3e32117fb1368ffb284c.png" group-title="Portugal VIP",PT: ELEVEN SPORTS 4 FHD
 http://256379961308254118.niceyes.xyz:80/L11031/4699863/254118|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORTING TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c3a532ff6be1d4a54129e69cbc6ef5b8.png" group-title="Portugal Sport",PT: SPORTING TV FHD
-http://256379961308266950.niceyes.xyz:80/L11031/4699863/266950|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORTING TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c3a532ff6be1d4a54129e69cbc6ef5b8.png" group-title="Portugal VIP",PT: SPORTING TV FHD
-http://256379961308266021.niceyes.xyz:80/L11031/4699863/266021|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title="Portugal VIP",PT: SPORT TV 1 FHD
+http://256379961308254158.niceyes.xyz:80/L11031/4699863/254158|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png" group-title="Portugal VIP",PT: SPORT TV 2 FHD
+http://256379961308254159.niceyes.xyz:80/L11031/4699863/254159|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d77db9165e33a177ada687f34441b6d5.png" group-title="Portugal VIP",PT: SPORT TV 3 FHD
+http://256379961308254160.niceyes.xyz:80/L11031/4699863/254160|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3d6b227803c54e2924e81ead82561df7.png" group-title="Portugal VIP",PT: SPORT TV 4 FHD
+http://256379961308254161.niceyes.xyz:80/L11031/4699863/254161|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA HD" tvg-logo="" group-title="Portugal VIP",PT: SPORT TV NBA HD
+http://256379961308254163.niceyes.xyz:80/L11031/4699863/254163|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e29ab16dd731b9f11938c24282ed403c.png" group-title="Portugal VIP",PT: EUROSPORT 1 FHD
+http://256379961308254183.niceyes.xyz:80/L11031/4699863/254183|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3d6b227803c54e2924e81ead82561df7.png" group-title="Portugal VIP",PT: SPORT TV 4 SD
+http://256379961308254198.niceyes.xyz:80/L11031/4699863/254198|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="PT: 24 KITCHEN FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/062c41cd06e96ce8510d943d7c51edf3.png" group-title="Portugal VIP",PT: 24 KITCHEN FHD
 http://256379961308263900.niceyes.xyz:80/L11031/4699863/263900|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="axnblack.pt" tvg-name="PT: FOX MOVIES FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/62026fb360365534347674c3d5041ec2.png" group-title="Portugal VIP",PT: FOX MOVIES FHD
@@ -132,6 +52,14 @@ http://256379961308263971.niceyes.xyz:80/L11031/4699863/263971|http-user-agent=L
 http://256379961308263972.niceyes.xyz:80/L11031/4699863/263972|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: PORTO CANAL FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/caa6360e94c2e434d525c13688d7a40a.png" group-title="Portugal VIP",PT: PORTO CANAL FHD
 http://256379961308263975.niceyes.xyz:80/L11031/4699863/263975|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e7aeb547717f6e110c331e6aa4135d26.png" group-title="Portugal VIP",PT: RTP 1 FHD
+http://256379961308263976.niceyes.xyz:80/L11031/4699863/263976|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-05/8a5bcde9b3bd3182948bc4c10e4673a4.png" group-title="Portugal VIP",PT: RTP 2 FHD
+http://256379961308263977.niceyes.xyz:80/L11031/4699863/263977|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC NOTICIAS FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4c9ed2c815adfefb06bcb05ddee39727.png" group-title="Portugal VIP",PT: SIC NOTICIAS FHD
+http://256379961308263986.niceyes.xyz:80/L11031/4699863/263986|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC RADICAL FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/977c0ecb61363c74eff0f34c59905fb4.png" group-title="Portugal VIP",PT: SIC RADICAL FHD
+http://256379961308263987.niceyes.xyz:80/L11031/4699863/263987|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: TRAVEL CHANNEL FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1a1f809513ab32d7bd5d5472605a3a0a.png" group-title="Portugal VIP",PT: TRAVEL CHANNEL FHD
 http://256379961308263994.niceyes.xyz:80/L11031/4699863/263994|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE ACTION FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/171a8586f36fec35a18bf5854ac8b35d.png" group-title="Portugal VIP",PT: TVCINE ACTION FHD
@@ -150,8 +78,12 @@ http://256379961308264012.niceyes.xyz:80/L11031/4699863/264012|http-user-agent=L
 http://256379961308264018.niceyes.xyz:80/L11031/4699863/264018|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: A & E FHD" tvg-logo="" group-title="Portugal VIP",PT: A & E FHD
 http://256379961308264019.niceyes.xyz:80/L11031/4699863/264019|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: ABOLA TV FHD" tvg-logo="https://3.bp.blogspot.com/-dC8DE7f4qws/T1Fbbo22HgI/AAAAAAAAB1c/mqmtecgK0dk/s1600/A+Bola+TV+logo.png" group-title="Portugal VIP",PT: ABOLA TV FHD
+http://256379961308264020.niceyes.xyz:80/L11031/4699863/264020|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: AXN WHITE SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/211d3e396d86a6ae2569a8508a37e282.png" group-title="Portugal VIP",PT: AXN WHITE SD
 http://256379961308264024.niceyes.xyz:80/L11031/4699863/264024|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV 1 SD" tvg-logo="" group-title="Portugal VIP",PT: BENFICA TV 1 SD
+http://256379961308264027.niceyes.xyz:80/L11031/4699863/264027|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: CANAL Q SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/27276a58bc8105c1ee377d75d7af2f13.png" group-title="Portugal VIP",PT: CANAL Q SD
 http://256379961308264031.niceyes.xyz:80/L11031/4699863/264031|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: CINEMUNDO SD" tvg-logo="" group-title="Portugal VIP",PT: CINEMUNDO SD
@@ -198,6 +130,12 @@ http://256379961308264107.niceyes.xyz:80/L11031/4699863/264107|http-user-agent=L
 http://256379961308265924.niceyes.xyz:80/L11031/4699863/265924|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: FOX FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fd8c5e231ea4d017d5998c69fac50b24.png" group-title="Portugal VIP",PT: FOX FHD
 http://256379961308265929.niceyes.xyz:80/L11031/4699863/265929|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f635b82d815b50fe826d0dd86b2da632.png" group-title="Portugal VIP",PT: SIC FHD
+http://256379961308265931.niceyes.xyz:80/L11031/4699863/265931|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/85c7a4f09d37b9ad96ddc40a0d48337c.png" group-title="Portugal VIP",PT: TVI FHD
+http://256379961308265934.niceyes.xyz:80/L11031/4699863/265934|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI SD" tvg-logo="https://1.bp.blogspot.com/-t5GXF5OCKUc/WKte3ETJtsI/AAAAAAAAFrg/qTgWMdGokKsyXqjudlAMnyvRUeL6O_AlgCLcB/s1600/TVI%2Blogo.png" group-title="Portugal VIP",PT: TVI SD
+http://256379961308265936.niceyes.xyz:80/L11031/4699863/265936|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: FOX SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fd8c5e231ea4d017d5998c69fac50b24.png" group-title="Portugal VIP",PT: FOX SD
 http://256379961308265940.niceyes.xyz:80/L11031/4699863/265940|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: MOV FHD" tvg-logo="" group-title="Portugal VIP",PT: MOV FHD
@@ -218,6 +156,8 @@ http://256379961308265951.niceyes.xyz:80/L11031/4699863/265951|http-user-agent=L
 http://256379961308265953.niceyes.xyz:80/L11031/4699863/265953|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: BBC ENTERTAINMENT HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/21535916dd6cde396f32dd7c80171a00.png" group-title="Portugal VIP",PT: BBC ENTERTAINMENT HD
 http://256379961308265954.niceyes.xyz:80/L11031/4699863/265954|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="PT: BENFICA TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce7c9696313070a9238ade6d0b8c6c67.png" group-title="Portugal VIP",PT: BENFICA TV FHD
+http://256379961308265956.niceyes.xyz:80/L11031/4699863/265956|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: BIGGS HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6bd0c23f862e4131e7dbbe307bc98c1a.png" group-title="Portugal VIP",PT: BIGGS HD
 http://256379961308265957.niceyes.xyz:80/L11031/4699863/265957|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: BLAZE HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/02288d1748b84afa4bf4d13d6d2e6727.png" group-title="Portugal VIP",PT: BLAZE HD
@@ -226,6 +166,8 @@ http://256379961308265958.niceyes.xyz:80/L11031/4699863/265958|http-user-agent=L
 http://256379961308265959.niceyes.xyz:80/L11031/4699863/265959|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: CAMPO PEQUENO HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal VIP",PT: CAMPO PEQUENO HD
 http://256379961308265961.niceyes.xyz:80/L11031/4699863/265961|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 11 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/93673aa325443895b136366bbfc38fc4.png" group-title="Portugal VIP",PT: CANAL 11 FHD
+http://256379961308265962.niceyes.xyz:80/L11031/4699863/265962|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: CANAL PANDA HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/29f1c10d6d10f0dba48ef1ab8f5650a1.png" group-title="Portugal VIP",PT: CANAL PANDA HD
 http://256379961308265964.niceyes.xyz:80/L11031/4699863/265964|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="canalq.pt" tvg-name="PT: CANAL Q HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/27276a58bc8105c1ee377d75d7af2f13.png" group-title="Portugal VIP",PT: CANAL Q HD
@@ -252,6 +194,10 @@ http://256379961308265977.niceyes.xyz:80/L11031/4699863/265977|http-user-agent=L
 http://256379961308265979.niceyes.xyz:80/L11031/4699863/265979|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: EURONEWS HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f2d6e3aff23355d4203d9ddb8efa0633.png" group-title="Portugal VIP",PT: EURONEWS HD
 http://256379961308265981.niceyes.xyz:80/L11031/4699863/265981|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e29ab16dd731b9f11938c24282ed403c.png" group-title="Portugal VIP",PT: EUROSPORT 1 FHD
+http://256379961308265982.niceyes.xyz:80/L11031/4699863/265982|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/44e7fcd83142484151969cb5ec092f2c.png" group-title="Portugal VIP",PT: EUROSPORT 2 HD
+http://256379961308265983.niceyes.xyz:80/L11031/4699863/265983|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: FASHION TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4b32e9c8c8aa8974c9a9bd7655d97463.png" group-title="Portugal VIP",PT: FASHION TV HD
 http://256379961308265984.niceyes.xyz:80/L11031/4699863/265984|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: FATIMA FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal VIP",PT: FATIMA FHD
@@ -298,8 +244,16 @@ http://256379961308266012.niceyes.xyz:80/L11031/4699863/266012|http-user-agent=L
 http://256379961308266013.niceyes.xyz:80/L11031/4699863/266013|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: S+ FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal VIP",PT: S+ FHD
 http://256379961308266014.niceyes.xyz:80/L11031/4699863/266014|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC CARAS HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ebc03e0ee47b8550771dcf1c7d2bb89c.png" group-title="Portugal VIP",PT: SIC CARAS HD
+http://256379961308266015.niceyes.xyz:80/L11031/4699863/266015|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: SIC K FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6f8729e8ca0e2050908b375500f224f9.png" group-title="Portugal VIP",PT: SIC K FHD
 http://256379961308266016.niceyes.xyz:80/L11031/4699863/266016|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV+ HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/22ccb6d1c637d9b6a63d83100af972f3.png" group-title="Portugal VIP",PT: SPORT TV+ HD
+http://256379961308266019.niceyes.xyz:80/L11031/4699863/266019|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/85b1b813eeaec60854f25192a7d9519c.png" group-title="Portugal VIP",PT: SPORT TV 5 FHD
+http://256379961308266020.niceyes.xyz:80/L11031/4699863/266020|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORTING TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c3a532ff6be1d4a54129e69cbc6ef5b8.png" group-title="Portugal VIP",PT: SPORTING TV FHD
+http://256379961308266021.niceyes.xyz:80/L11031/4699863/266021|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: TIJI FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e31e8e23b53f337053717b6b8168df18.png" group-title="Portugal VIP",PT: TIJI FHD
 http://256379961308266023.niceyes.xyz:80/L11031/4699863/266023|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: TLC HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/76eab48a6cb0f09a95fc547ed7d8a309.png" group-title="Portugal VIP",PT: TLC HD
@@ -308,12 +262,48 @@ http://256379961308266024.niceyes.xyz:80/L11031/4699863/266024|http-user-agent=L
 http://256379961308266025.niceyes.xyz:80/L11031/4699863/266025|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: CNN PORTUGAL FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/3c7353e281a0f304777f37ec58a6b22a.png" group-title="Portugal VIP",PT: CNN PORTUGAL FHD
 http://256379961308266029.niceyes.xyz:80/L11031/4699863/266029|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d399fedc17277522ba8d0416ee36498d.png" group-title="Portugal VIP",PT: TVI REALITY FHD
+http://256379961308266030.niceyes.xyz:80/L11031/4699863/266030|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/dbe88e53a72f505010f15f778a3fd4c9.png" group-title="Portugal Sport",PT: ELEVEN SPORTS 1 HD
+http://256379961308266937.niceyes.xyz:80/L11031/4699863/266937|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/61327badbbea898c7c700b7fe81c55d8.png" group-title="Portugal Sport",PT: ELEVEN SPORTS 2 FHD
+http://256379961308266938.niceyes.xyz:80/L11031/4699863/266938|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b9c02901087946bb37b047d33f24a208.png" group-title="Portugal Sport",PT: ELEVEN SPORTS 3 HD
+http://256379961308266939.niceyes.xyz:80/L11031/4699863/266939|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c17ab7ee9a7e3e32117fb1368ffb284c.png" group-title="Portugal Sport",PT: ELEVEN SPORTS 4 HD
+http://256379961308266940.niceyes.xyz:80/L11031/4699863/266940|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e29ab16dd731b9f11938c24282ed403c.png" group-title="Portugal Sport",PT: EUROSPORT 1 FHD
+http://256379961308266941.niceyes.xyz:80/L11031/4699863/266941|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV+ HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/22ccb6d1c637d9b6a63d83100af972f3.png" group-title="Portugal Sport",PT: SPORT TV+ HD
+http://256379961308266943.niceyes.xyz:80/L11031/4699863/266943|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title="Portugal Sport",PT: SPORT TV 1 FHD
+http://256379961308266944.niceyes.xyz:80/L11031/4699863/266944|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png" group-title="Portugal Sport",PT: SPORT TV 2 FHD
+http://256379961308266945.niceyes.xyz:80/L11031/4699863/266945|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d77db9165e33a177ada687f34441b6d5.png" group-title="Portugal Sport",PT: SPORT TV 3 FHD
+http://256379961308266946.niceyes.xyz:80/L11031/4699863/266946|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3d6b227803c54e2924e81ead82561df7.png" group-title="Portugal Sport",PT: SPORT TV 4 FHD
+http://256379961308266947.niceyes.xyz:80/L11031/4699863/266947|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/85b1b813eeaec60854f25192a7d9519c.png" group-title="Portugal Sport",PT: SPORT TV 5 FHD
+http://256379961308266948.niceyes.xyz:80/L11031/4699863/266948|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal Sport",PT: SPORT TV NBA HD
+http://256379961308266949.niceyes.xyz:80/L11031/4699863/266949|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORTING TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c3a532ff6be1d4a54129e69cbc6ef5b8.png" group-title="Portugal Sport",PT: SPORTING TV FHD
+http://256379961308266950.niceyes.xyz:80/L11031/4699863/266950|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b9c02901087946bb37b047d33f24a208.png" group-title="Portugal Sport",PT: ELEVEN SPORTS 3 HD
+http://256379961308267335.niceyes.xyz:80/L11031/4699863/267335|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c17ab7ee9a7e3e32117fb1368ffb284c.png" group-title="Portugal Sport",PT: ELEVEN SPORTS 4 HD
+http://256379961308267336.niceyes.xyz:80/L11031/4699863/267336|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: AMC LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: AMC LOW H264 HD
 http://256379961308270787.niceyes.xyz:80/L11031/4699863/270787|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: BIGGS LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: BIGGS LOW H264 HD
 http://256379961308270789.niceyes.xyz:80/L11031/4699863/270789|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: BLAZE LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: BLAZE LOW H264 HD
 http://256379961308270790.niceyes.xyz:80/L11031/4699863/270790|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV HQ H264 HD" tvg-logo="" group-title="Portugal Low",PT: BTV HQ H264 HD
+http://256379961308270791.niceyes.xyz:80/L11031/4699863/270791|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: BTV LOW H264 HD
+http://256379961308270792.niceyes.xyz:80/L11031/4699863/270792|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: CACAVISION LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: CACAVISION LOW H264 HD
 http://256379961308270793.niceyes.xyz:80/L11031/4699863/270793|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 11 HQ H264 HD" tvg-logo="" group-title="Portugal Low",PT: CANAL 11 HQ H264 HD
@@ -360,6 +350,8 @@ http://256379961308270815.niceyes.xyz:80/L11031/4699863/270815|http-user-agent=L
 http://256379961308270816.niceyes.xyz:80/L11031/4699863/270816|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: RTP MADEIRA LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: RTP MADEIRA LOW H264 HD
 http://256379961308270817.niceyes.xyz:80/L11031/4699863/270817|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: SIC LOW H264 HD
+http://256379961308270819.niceyes.xyz:80/L11031/4699863/270819|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: SIC RADICAL H264 LOW HD" tvg-logo="" group-title="Portugal Low",PT: SIC RADICAL H264 LOW HD
 http://256379961308270820.niceyes.xyz:80/L11031/4699863/270820|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: SPORT TV 1 LOW H264 HD
@@ -464,6 +456,8 @@ http://256379961308273059.niceyes.xyz:80/L11031/4699863/273059|http-user-agent=L
 http://256379961308273060.niceyes.xyz:80/L11031/4699863/273060|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: RTP 3 LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: RTP 3 LOW H264 HD
 http://256379961308273061.niceyes.xyz:80/L11031/4699863/273061|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC MULHER LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: SIC MULHER LOW H264 HD
+http://256379961308273062.niceyes.xyz:80/L11031/4699863/273062|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: SIC NOTICIAS LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: SIC NOTICIAS LOW H264 HD
 http://256379961308273063.niceyes.xyz:80/L11031/4699863/273063|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: SPORT TV 2 LOW H264 HD
@@ -542,6 +536,10 @@ http://256379961308275172.niceyes.xyz:80/L11031/4699863/275172|http-user-agent=L
 http://256379961308275173.niceyes.xyz:80/L11031/4699863/275173|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: SIC KIDS SD" tvg-logo="" group-title="Portugal VIP",PT: SIC KIDS SD
 http://256379961308275177.niceyes.xyz:80/L11031/4699863/275177|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC MULHER FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/00cfc2c30fdd7d84ebed9489cc0c6ca9.png" group-title="Portugal VIP",PT: SIC MULHER FHD
+http://256379961308275178.niceyes.xyz:80/L11031/4699863/275178|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC MULHER SD" tvg-logo="https://2.bp.blogspot.com/-__5Rvo5_kN0/TyVcFKeNgaI/AAAAAAAABTI/a6YpSAM4GTQ/s1600/SIC+Mulher+logo.png" group-title="Portugal VIP",PT: SIC MULHER SD
+http://256379961308275179.niceyes.xyz:80/L11031/4699863/275179|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: SYFY FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3098e701203ad4b48b0be528b27bdd29.png" group-title="Portugal VIP",PT: SYFY FHD
 http://256379961308275181.niceyes.xyz:80/L11031/4699863/275181|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: CANAL PANDA SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/29f1c10d6d10f0dba48ef1ab8f5650a1.png" group-title="Portugal VIP",PT: CANAL PANDA SD
@@ -574,8 +572,6 @@ http://256379961308276452.niceyes.xyz:80/L11031/4699863/276452|http-user-agent=L
 http://256379961308276453.niceyes.xyz:80/L11031/4699863/276453|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/cad848e48d89ca82a1f1497f700aa14a.png" group-title="Portugal Sport",PT: ELEVEN SPORTS 1 HD
 http://256379961308276515.niceyes.xyz:80/L11031/4699863/276515|http-user-agent=Lavf/54.40.101
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/dbe88e53a72f505010f15f778a3fd4c9.png" group-title="Portugal Sport",PT: ELEVEN SPORTS 1 FHD
-http://256379961308288719.niceyes.xyz:80/L11031/4699863/288719|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/61327badbbea898c7c700b7fe81c55d8.png" group-title="Portugal Sport",PT: ELEVEN SPORTS 2 HD
 http://256379961308276516.niceyes.xyz:80/L11031/4699863/276516|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: AXN BLACK FHD" tvg-logo="" group-title="Portugal VIP",PT: AXN BLACK FHD
@@ -590,6 +586,8 @@ http://256379961308277490.niceyes.xyz:80/L11031/4699863/277490|http-user-agent=L
 http://256379961308277491.niceyes.xyz:80/L11031/4699863/277491|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: RTP MADEIRA SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ae038bcd82a1074dc6659ba454c77d33.png" group-title="Portugal VIP",PT: RTP MADEIRA SD
 http://256379961308277492.niceyes.xyz:80/L11031/4699863/277492|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC SD" tvg-logo="https://4.bp.blogspot.com/-seQXpicDRC0/WDtddC4QH6I/AAAAAAAAFjg/07nSMTXxE54Vf4TlXW2rTvG35BT-d-qqQCLcB/s1600/SIC%2BHD%2Blogo.png" group-title="Portugal VIP",PT: SIC SD
+http://256379961308277493.niceyes.xyz:80/L11031/4699863/277493|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png" group-title="Portugal VIP",PT: SPORT TV 2 SD
 http://256379961308277494.niceyes.xyz:80/L11031/4699863/277494|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d77db9165e33a177ada687f34441b6d5.png" group-title="Portugal VIP",PT: SPORT TV 3 SD
@@ -830,10 +828,423 @@ http://256379961308287308.niceyes.xyz:80/L11031/4699863/287308|http-user-agent=L
 http://256379961308288303.niceyes.xyz:80/L11031/4699863/288303|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: EURONEWS PORTUGUES HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal VIP",PT: EURONEWS PORTUGUES HD
 http://256379961308288434.niceyes.xyz:80/L11031/4699863/288434|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/dbe88e53a72f505010f15f778a3fd4c9.png" group-title="Portugal Sport",PT: ELEVEN SPORTS 1 FHD
+http://256379961308288719.niceyes.xyz:80/L11031/4699863/288719|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: FICTION MOVIES HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal VIP",PT: FICTION MOVIES HD
 http://256379961308288737.niceyes.xyz:80/L11031/4699863/288737|http-user-agent=Lavf/54.40.101
 #EXTINF:-1 tvg-id="" tvg-name="PT: FOLCLORE HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal VIP",PT: FOLCLORE HD
 http://256379961308288738.niceyes.xyz:80/L11031/4699863/288738|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="PT: JACKIE CHAN ADVENTURES HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal VIP",PT: JACKIE CHAN ADVENTURES HD
+http://256379961308288739.niceyes.xyz:80/L11031/4699863/288739|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 2 HD" tvg-logo="" group-title="ADULTS",XXX: ALBA XXX 2 HD
+http://256379961308284855.niceyes.xyz:80/L11031/4699863/284855|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 3 HD" tvg-logo="" group-title="ADULTS",XXX: ALBA XXX 3 HD
+http://256379961308284856.niceyes.xyz:80/L11031/4699863/284856|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 4 HD" tvg-logo="" group-title="ADULTS",XXX: ALBA XXX 4 HD
+http://256379961308284857.niceyes.xyz:80/L11031/4699863/284857|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 5 HD" tvg-logo="" group-title="ADULTS",XXX: ALBA XXX 5 HD
+http://256379961308284858.niceyes.xyz:80/L11031/4699863/284858|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX-HD2 HD" tvg-logo="" group-title="ADULTS",XXX: ALBA XXX-HD2 HD
+http://256379961308284859.niceyes.xyz:80/L11031/4699863/284859|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AMATEUR BOXXX HD" tvg-logo="" group-title="ADULTS",XXX: AMATEUR BOXXX HD
+http://256379961308284860.niceyes.xyz:80/L11031/4699863/284860|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ANAL HD" tvg-logo="" group-title="ADULTS",XXX: ANAL HD
+http://256379961308284861.niceyes.xyz:80/L11031/4699863/284861|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ANAL RED TV HD" tvg-logo="" group-title="ADULTS",XXX: ANAL RED TV HD
+http://256379961308284862.niceyes.xyz:80/L11031/4699863/284862|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ANALIZED HD" tvg-logo="" group-title="ADULTS",XXX: ANALIZED HD
+http://256379961308284863.niceyes.xyz:80/L11031/4699863/284863|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AST TV 2 HD" tvg-logo="" group-title="ADULTS",XXX: AST TV 2 HD
+http://256379961308284864.niceyes.xyz:80/L11031/4699863/284864|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AST TV HD" tvg-logo="" group-title="ADULTS",XXX: AST TV HD
+http://256379961308284865.niceyes.xyz:80/L11031/4699863/284865|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BABES HD" tvg-logo="" group-title="ADULTS",XXX: BABES HD
+http://256379961308284866.niceyes.xyz:80/L11031/4699863/284866|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BABES TV HD" tvg-logo="" group-title="ADULTS",XXX: BABES TV HD
+http://256379961308284867.niceyes.xyz:80/L11031/4699863/284867|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BALKAN EROTIC HD" tvg-logo="" group-title="ADULTS",XXX: BALKAN EROTIC HD
+http://256379961308284868.niceyes.xyz:80/L11031/4699863/284868|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BALKAN EROTIC XXX HD" tvg-logo="" group-title="ADULTS",XXX: BALKAN EROTIC XXX HD
+http://256379961308284869.niceyes.xyz:80/L11031/4699863/284869|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BALKAN HOT 2 XXX HD" tvg-logo="" group-title="ADULTS",XXX: BALKAN HOT 2 XXX HD
+http://256379961308284870.niceyes.xyz:80/L11031/4699863/284870|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BALKAN HOT XXX HD" tvg-logo="" group-title="ADULTS",XXX: BALKAN HOT XXX HD
+http://256379961308284871.niceyes.xyz:80/L11031/4699863/284871|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BANANA FEVER HD" tvg-logo="" group-title="ADULTS",XXX: BANANA FEVER HD
+http://256379961308284872.niceyes.xyz:80/L11031/4699863/284872|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BANG U XXX HD" tvg-logo="" group-title="ADULTS",XXX: BANG U XXX HD
+http://256379961308284873.niceyes.xyz:80/L11031/4699863/284873|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BARELY LEGAL TV XXX HD" tvg-logo="" group-title="ADULTS",XXX: BARELY LEGAL TV XXX HD
+http://256379961308284874.niceyes.xyz:80/L11031/4699863/284874|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BEATE UHSE.TV XXX HD" tvg-logo="" group-title="ADULTS",XXX: BEATE UHSE.TV XXX HD
+http://256379961308284875.niceyes.xyz:80/L11031/4699863/284875|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BIG ASS HD" tvg-logo="" group-title="ADULTS",XXX: BIG ASS HD
+http://256379961308284876.niceyes.xyz:80/L11031/4699863/284876|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BIG DICK HD" tvg-logo="" group-title="ADULTS",XXX: BIG DICK HD
+http://256379961308284877.niceyes.xyz:80/L11031/4699863/284877|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BIG TITS HD" tvg-logo="" group-title="ADULTS",XXX: BIG TITS HD
+http://256379961308284878.niceyes.xyz:80/L11031/4699863/284878|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BIKINI TV XXX HD" tvg-logo="" group-title="ADULTS",XXX: BIKINI TV XXX HD
+http://256379961308284879.niceyes.xyz:80/L11031/4699863/284879|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BLACK TV XXX HD" tvg-logo="" group-title="ADULTS",XXX: BLACK TV XXX HD
+http://256379961308284880.niceyes.xyz:80/L11031/4699863/284880|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BLONDE HD" tvg-logo="" group-title="ADULTS",XXX: BLONDE HD
+http://256379961308284881.niceyes.xyz:80/L11031/4699863/284881|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BLOWJOB HD" tvg-logo="" group-title="ADULTS",XXX: BLOWJOB HD
+http://256379961308284882.niceyes.xyz:80/L11031/4699863/284882|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BLUE HUSTLER HD" tvg-logo="" group-title="ADULTS",XXX: BLUE HUSTLER HD
+http://256379961308284883.niceyes.xyz:80/L11031/4699863/284883|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BLUE HUSTLER HD XXX" tvg-logo="" group-title="ADULTS",XXX: BLUE HUSTLER HD XXX
+http://256379961308284884.niceyes.xyz:80/L11031/4699863/284884|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BRAZZERS HD" tvg-logo="" group-title="ADULTS",XXX: BRAZZERS HD
+http://256379961308284885.niceyes.xyz:80/L11031/4699863/284885|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BRUNETTE HD" tvg-logo="" group-title="ADULTS",XXX: BRUNETTE HD
+http://256379961308284886.niceyes.xyz:80/L11031/4699863/284886|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: CANDY TV HD" tvg-logo="" group-title="ADULTS",XXX: CANDY TV HD
+http://256379961308284887.niceyes.xyz:80/L11031/4699863/284887|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: CANDYMAN GAY MEN XXX HD" tvg-logo="" group-title="ADULTS",XXX: CANDYMAN GAY MEN XXX HD
+http://256379961308284888.niceyes.xyz:80/L11031/4699863/284888|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: CENTO X CENTO HD" tvg-logo="" group-title="ADULTS",XXX: CENTO X CENTO HD
+http://256379961308284889.niceyes.xyz:80/L11031/4699863/284889|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: COMPILATION HD" tvg-logo="" group-title="ADULTS",XXX: COMPILATION HD
+http://256379961308284890.niceyes.xyz:80/L11031/4699863/284890|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: CUCKOLD HD" tvg-logo="" group-title="ADULTS",XXX: CUCKOLD HD
+http://256379961308284891.niceyes.xyz:80/L11031/4699863/284891|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: DORCEL HD" tvg-logo="" group-title="ADULTS",XXX: DORCEL HD
+http://256379961308284892.niceyes.xyz:80/L11031/4699863/284892|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: DORCEL TV HD" tvg-logo="" group-title="ADULTS",XXX: DORCEL TV HD
+http://256379961308284893.niceyes.xyz:80/L11031/4699863/284893|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: DORCEL XXX HD XXX" tvg-logo="" group-title="ADULTS",XXX: DORCEL XXX HD XXX
+http://256379961308284894.niceyes.xyz:80/L11031/4699863/284894|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: DREAM PORN XXX HD" tvg-logo="" group-title="ADULTS",XXX: DREAM PORN XXX HD
+http://256379961308284895.niceyes.xyz:80/L11031/4699863/284895|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: DUSK! XXX HD" tvg-logo="" group-title="ADULTS",XXX: DUSK! XXX HD
+http://256379961308284896.niceyes.xyz:80/L11031/4699863/284896|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EMANUELLE XXX HD" tvg-logo="" group-title="ADULTS",XXX: EMANUELLE XXX HD
+http://256379961308284897.niceyes.xyz:80/L11031/4699863/284897|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ERO X HD" tvg-logo="" group-title="ADULTS",XXX: ERO X HD
+http://256379961308284898.niceyes.xyz:80/L11031/4699863/284898|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EROX XXX HD XXX" tvg-logo="" group-title="ADULTS",XXX: EROX XXX HD XXX
+http://256379961308284899.niceyes.xyz:80/L11031/4699863/284899|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EVIL ANGEL HD XXX" tvg-logo="" group-title="ADULTS",XXX: EVIL ANGEL HD XXX
+http://256379961308284900.niceyes.xyz:80/L11031/4699863/284900|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EXTASY 4K XXX HD" tvg-logo="" group-title="ADULTS",XXX: EXTASY 4K XXX HD
+http://256379961308284901.niceyes.xyz:80/L11031/4699863/284901|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EXTASY HD XXX" tvg-logo="" group-title="ADULTS",XXX: EXTASY HD XXX
+http://256379961308284902.niceyes.xyz:80/L11031/4699863/284902|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EXTREM XXX HD" tvg-logo="" group-title="ADULTS",XXX: EXTREM XXX HD
+http://256379961308284903.niceyes.xyz:80/L11031/4699863/284903|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EXXXOTICA TV XXX HD" tvg-logo="" group-title="ADULTS",XXX: EXXXOTICA TV XXX HD
+http://256379961308284904.niceyes.xyz:80/L11031/4699863/284904|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FAKE AGENT 1 XXX HD" tvg-logo="" group-title="ADULTS",XXX: FAKE AGENT 1 XXX HD
+http://256379961308284905.niceyes.xyz:80/L11031/4699863/284905|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FAKE AGENT 2 XXX HD" tvg-logo="" group-title="ADULTS",XXX: FAKE AGENT 2 XXX HD
+http://256379961308284906.niceyes.xyz:80/L11031/4699863/284906|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FAKE AGENT 3 XXX HD" tvg-logo="" group-title="ADULTS",XXX: FAKE AGENT 3 XXX HD
+http://256379961308284907.niceyes.xyz:80/L11031/4699863/284907|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FAP TV 2 HD" tvg-logo="" group-title="ADULTS",XXX: FAP TV 2 HD
+http://256379961308284908.niceyes.xyz:80/L11031/4699863/284908|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FAP TV 3 HD" tvg-logo="" group-title="ADULTS",XXX: FAP TV 3 HD
+http://256379961308284909.niceyes.xyz:80/L11031/4699863/284909|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FAP TV 4 HD" tvg-logo="" group-title="ADULTS",XXX: FAP TV 4 HD
+http://256379961308284910.niceyes.xyz:80/L11031/4699863/284910|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FAP TV ANAL HD" tvg-logo="" group-title="ADULTS",XXX: FAP TV ANAL HD
+http://256379961308284911.niceyes.xyz:80/L11031/4699863/284911|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FAP TV COMPILATION HD" tvg-logo="" group-title="ADULTS",XXX: FAP TV COMPILATION HD
+http://256379961308284912.niceyes.xyz:80/L11031/4699863/284912|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FAP TV LESBIAN HD" tvg-logo="" group-title="ADULTS",XXX: FAP TV LESBIAN HD
+http://256379961308284913.niceyes.xyz:80/L11031/4699863/284913|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FAP TV PARODY HD" tvg-logo="" group-title="ADULTS",XXX: FAP TV PARODY HD
+http://256379961308284914.niceyes.xyz:80/L11031/4699863/284914|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FAP TV TEENS HD" tvg-logo="" group-title="ADULTS",XXX: FAP TV TEENS HD
+http://256379961308284915.niceyes.xyz:80/L11031/4699863/284915|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FAST BOYZ GAY XXX HD" tvg-logo="" group-title="ADULTS",XXX: FAST BOYZ GAY XXX HD
+http://256379961308284916.niceyes.xyz:80/L11031/4699863/284916|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FETISH HD" tvg-logo="" group-title="ADULTS",XXX: FETISH HD
+http://256379961308284917.niceyes.xyz:80/L11031/4699863/284917|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FREE X TV XXX HD" tvg-logo="" group-title="ADULTS",XXX: FREE X TV XXX HD
+http://256379961308284918.niceyes.xyz:80/L11031/4699863/284918|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FRENCH LOVER EUROPE XXX HD" tvg-logo="" group-title="ADULTS",XXX: FRENCH LOVER EUROPE XXX HD
+http://256379961308284919.niceyes.xyz:80/L11031/4699863/284919|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FRENCH LOVER XXX HD" tvg-logo="" group-title="ADULTS",XXX: FRENCH LOVER XXX HD
+http://256379961308284920.niceyes.xyz:80/L11031/4699863/284920|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: GANGBANG HD" tvg-logo="" group-title="ADULTS",XXX: GANGBANG HD
+http://256379961308284921.niceyes.xyz:80/L11031/4699863/284921|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: GAY HD" tvg-logo="" group-title="ADULTS",XXX: GAY HD
+http://256379961308284922.niceyes.xyz:80/L11031/4699863/284922|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HARDCORE HD" tvg-logo="" group-title="ADULTS",XXX: HARDCORE HD
+http://256379961308284923.niceyes.xyz:80/L11031/4699863/284923|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT CLUB 1 HD" tvg-logo="" group-title="ADULTS",XXX: HOT CLUB 1 HD
+http://256379961308284924.niceyes.xyz:80/L11031/4699863/284924|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT CLUB 2 HD" tvg-logo="" group-title="ADULTS",XXX: HOT CLUB 2 HD
+http://256379961308284925.niceyes.xyz:80/L11031/4699863/284925|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT CLUB 3 HD" tvg-logo="" group-title="ADULTS",XXX: HOT CLUB 3 HD
+http://256379961308284926.niceyes.xyz:80/L11031/4699863/284926|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT CLUB 4 HD" tvg-logo="" group-title="ADULTS",XXX: HOT CLUB 4 HD
+http://256379961308284927.niceyes.xyz:80/L11031/4699863/284927|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT CLUB 5 HD" tvg-logo="" group-title="ADULTS",XXX: HOT CLUB 5 HD
+http://256379961308284928.niceyes.xyz:80/L11031/4699863/284928|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT CLUB 6 HD" tvg-logo="" group-title="ADULTS",XXX: HOT CLUB 6 HD
+http://256379961308284929.niceyes.xyz:80/L11031/4699863/284929|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT CLUB 7 HD" tvg-logo="" group-title="ADULTS",XXX: HOT CLUB 7 HD
+http://256379961308284930.niceyes.xyz:80/L11031/4699863/284930|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT HD" tvg-logo="" group-title="ADULTS",XXX: HOT HD
+http://256379961308284931.niceyes.xyz:80/L11031/4699863/284931|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT PLEASURE XXX HD" tvg-logo="" group-title="ADULTS",XXX: HOT PLEASURE XXX HD
+http://256379961308284932.niceyes.xyz:80/L11031/4699863/284932|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT TV XXX HD" tvg-logo="" group-title="ADULTS",XXX: HOT TV XXX HD
+http://256379961308284933.niceyes.xyz:80/L11031/4699863/284933|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT XXL HD XXX" tvg-logo="" group-title="ADULTS",XXX: HOT XXL HD XXX
+http://256379961308284934.niceyes.xyz:80/L11031/4699863/284934|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HUSTLER HD" tvg-logo="" group-title="ADULTS",XXX: HUSTLER HD
+http://256379961308284935.niceyes.xyz:80/L11031/4699863/284935|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HUSTLER TV XXX HD" tvg-logo="" group-title="ADULTS",XXX: HUSTLER TV XXX HD
+http://256379961308284936.niceyes.xyz:80/L11031/4699863/284936|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: INTERRACIAL HD" tvg-logo="" group-title="ADULTS",XXX: INTERRACIAL HD
+http://256379961308284937.niceyes.xyz:80/L11031/4699863/284937|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: JASMIN HD" tvg-logo="" group-title="ADULTS",XXX: JASMIN HD
+http://256379961308284938.niceyes.xyz:80/L11031/4699863/284938|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: JUST 89 XXX HD" tvg-logo="" group-title="ADULTS",XXX: JUST 89 XXX HD
+http://256379961308284939.niceyes.xyz:80/L11031/4699863/284939|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: LATINA HD" tvg-logo="" group-title="ADULTS",XXX: LATINA HD
+http://256379961308284940.niceyes.xyz:80/L11031/4699863/284940|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: LEO TV XXX HD" tvg-logo="" group-title="ADULTS",XXX: LEO TV XXX HD
+http://256379961308284941.niceyes.xyz:80/L11031/4699863/284941|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: LESBIAN AFFAIR XXX HD" tvg-logo="" group-title="ADULTS",XXX: LESBIAN AFFAIR XXX HD
+http://256379961308284942.niceyes.xyz:80/L11031/4699863/284942|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: LESBIAN HD" tvg-logo="" group-title="ADULTS",XXX: LESBIAN HD
+http://256379961308284943.niceyes.xyz:80/L11031/4699863/284943|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: LIVE CAMS HD" tvg-logo="" group-title="ADULTS",XXX: LIVE CAMS HD
+http://256379961308284944.niceyes.xyz:80/L11031/4699863/284944|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MEIDEN VAN HOLLAND HARD XXX HD" tvg-logo="" group-title="ADULTS",XXX: MEIDEN VAN HOLLAND HARD XXX HD
+http://256379961308284945.niceyes.xyz:80/L11031/4699863/284945|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MIAMI TV XXX HD" tvg-logo="" group-title="ADULTS",XXX: MIAMI TV XXX HD
+http://256379961308284946.niceyes.xyz:80/L11031/4699863/284946|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MILF HD" tvg-logo="" group-title="ADULTS",XXX: MILF HD
+http://256379961308284947.niceyes.xyz:80/L11031/4699863/284947|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MILF TV XXX HD" tvg-logo="" group-title="ADULTS",XXX: MILF TV XXX HD
+http://256379961308284948.niceyes.xyz:80/L11031/4699863/284948|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MULTI 4K XXX HD" tvg-logo="" group-title="ADULTS",XXX: MULTI 4K XXX HD
+http://256379961308284949.niceyes.xyz:80/L11031/4699863/284949|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: NET XX XXX HD" tvg-logo="" group-title="ADULTS",XXX: NET XX XXX HD
+http://256379961308284950.niceyes.xyz:80/L11031/4699863/284950|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: NUART HD" tvg-logo="" group-title="ADULTS",XXX: NUART HD
+http://256379961308284951.niceyes.xyz:80/L11031/4699863/284951|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: O LA LA HD" tvg-logo="" group-title="ADULTS",XXX: O LA LA HD
+http://256379961308284952.niceyes.xyz:80/L11031/4699863/284952|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: OH AH TV HD" tvg-logo="" group-title="ADULTS",XXX: OH AH TV HD
+http://256379961308284953.niceyes.xyz:80/L11031/4699863/284953|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: OLDTIMER XXX HD" tvg-logo="" group-title="ADULTS",XXX: OLDTIMER XXX HD
+http://256379961308284954.niceyes.xyz:80/L11031/4699863/284954|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PASSIE XXX XXX HD" tvg-logo="" group-title="ADULTS",XXX: PASSIE XXX XXX HD
+http://256379961308284955.niceyes.xyz:80/L11031/4699863/284955|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PASSION XXX HD" tvg-logo="" group-title="ADULTS",XXX: PASSION XXX HD
+http://256379961308284956.niceyes.xyz:80/L11031/4699863/284956|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PENTHOUSE GOLD HD" tvg-logo="" group-title="ADULTS",XXX: PENTHOUSE GOLD HD
+http://256379961308284957.niceyes.xyz:80/L11031/4699863/284957|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PENTHOUSE QUICKIES HD" tvg-logo="" group-title="ADULTS",XXX: PENTHOUSE QUICKIES HD
+http://256379961308284958.niceyes.xyz:80/L11031/4699863/284958|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PINCO CLUB 2 XXX HD" tvg-logo="" group-title="ADULTS",XXX: PINCO CLUB 2 XXX HD
+http://256379961308284959.niceyes.xyz:80/L11031/4699863/284959|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PINCO CLUB XXX HD" tvg-logo="" group-title="ADULTS",XXX: PINCO CLUB XXX HD
+http://256379961308284960.niceyes.xyz:80/L11031/4699863/284960|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 2 XXX HD" tvg-logo="" group-title="ADULTS",XXX: PINK EROTIC 2 XXX HD
+http://256379961308284961.niceyes.xyz:80/L11031/4699863/284961|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 3 XXX HD" tvg-logo="" group-title="ADULTS",XXX: PINK EROTIC 3 XXX HD
+http://256379961308284962.niceyes.xyz:80/L11031/4699863/284962|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 4 XXX HD" tvg-logo="" group-title="ADULTS",XXX: PINK EROTIC 4 XXX HD
+http://256379961308284963.niceyes.xyz:80/L11031/4699863/284963|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 5 XXX HD" tvg-logo="" group-title="ADULTS",XXX: PINK EROTIC 5 XXX HD
+http://256379961308284964.niceyes.xyz:80/L11031/4699863/284964|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 6 XXX HD" tvg-logo="" group-title="ADULTS",XXX: PINK EROTIC 6 XXX HD
+http://256379961308284965.niceyes.xyz:80/L11031/4699863/284965|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 7 XXX HD" tvg-logo="" group-title="ADULTS",XXX: PINK EROTIC 7 XXX HD
+http://256379961308284966.niceyes.xyz:80/L11031/4699863/284966|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 8 XXX HD" tvg-logo="" group-title="ADULTS",XXX: PINK EROTIC 8 XXX HD
+http://256379961308284967.niceyes.xyz:80/L11031/4699863/284967|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC XXX HD" tvg-logo="" group-title="ADULTS",XXX: PINK EROTIC XXX HD
+http://256379961308284968.niceyes.xyz:80/L11031/4699863/284968|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK O TV HD" tvg-logo="" group-title="ADULTS",XXX: PINK O TV HD
+http://256379961308284969.niceyes.xyz:80/L11031/4699863/284969|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYBOY EUROPE HD" tvg-logo="" group-title="ADULTS",XXX: PLAYBOY EUROPE HD
+http://256379961308284970.niceyes.xyz:80/L11031/4699863/284970|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYHOUSE XXX HD" tvg-logo="" group-title="ADULTS",XXX: PLAYHOUSE XXX HD
+http://256379961308284971.niceyes.xyz:80/L11031/4699863/284971|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PORNSTAR HD" tvg-logo="" group-title="ADULTS",XXX: PORNSTAR HD
+http://256379961308284972.niceyes.xyz:80/L11031/4699863/284972|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PORNSTERS 1 HD" tvg-logo="" group-title="ADULTS",XXX: PORNSTERS 1 HD
+http://256379961308284973.niceyes.xyz:80/L11031/4699863/284973|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PORNSTERS 10 HD" tvg-logo="" group-title="ADULTS",XXX: PORNSTERS 10 HD
+http://256379961308284974.niceyes.xyz:80/L11031/4699863/284974|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PORNSTERS 2 HD" tvg-logo="" group-title="ADULTS",XXX: PORNSTERS 2 HD
+http://256379961308284975.niceyes.xyz:80/L11031/4699863/284975|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PORNSTERS 3 HD" tvg-logo="" group-title="ADULTS",XXX: PORNSTERS 3 HD
+http://256379961308284976.niceyes.xyz:80/L11031/4699863/284976|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PORNSTERS 4 HD" tvg-logo="" group-title="ADULTS",XXX: PORNSTERS 4 HD
+http://256379961308284977.niceyes.xyz:80/L11031/4699863/284977|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PORNSTERS 5 HD" tvg-logo="" group-title="ADULTS",XXX: PORNSTERS 5 HD
+http://256379961308284978.niceyes.xyz:80/L11031/4699863/284978|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PORNSTERS 6 HD" tvg-logo="" group-title="ADULTS",XXX: PORNSTERS 6 HD
+http://256379961308284979.niceyes.xyz:80/L11031/4699863/284979|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PORNSTERS 7 HD" tvg-logo="" group-title="ADULTS",XXX: PORNSTERS 7 HD
+http://256379961308284980.niceyes.xyz:80/L11031/4699863/284980|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PORNSTERS 8 HD" tvg-logo="" group-title="ADULTS",XXX: PORNSTERS 8 HD
+http://256379961308284981.niceyes.xyz:80/L11031/4699863/284981|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PORNSTERS 9 HD" tvg-logo="" group-title="ADULTS",XXX: PORNSTERS 9 HD
+http://256379961308284982.niceyes.xyz:80/L11031/4699863/284982|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: POV HD" tvg-logo="" group-title="ADULTS",XXX: POV HD
+http://256379961308284983.niceyes.xyz:80/L11031/4699863/284983|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PREMIUM PORN HD" tvg-logo="" group-title="ADULTS",XXX: PREMIUM PORN HD
+http://256379961308284984.niceyes.xyz:80/L11031/4699863/284984|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PRIMAFILA HOTCLUB 1 HD" tvg-logo="" group-title="ADULTS",XXX: PRIMAFILA HOTCLUB 1 HD
+http://256379961308284985.niceyes.xyz:80/L11031/4699863/284985|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PRIMAFILA HOTCLUB 10 HD" tvg-logo="" group-title="ADULTS",XXX: PRIMAFILA HOTCLUB 10 HD
+http://256379961308284986.niceyes.xyz:80/L11031/4699863/284986|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PRIMAFILA HOTCLUB 11 HD" tvg-logo="" group-title="ADULTS",XXX: PRIMAFILA HOTCLUB 11 HD
+http://256379961308284987.niceyes.xyz:80/L11031/4699863/284987|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PRIMAFILA HOTCLUB 12 HD" tvg-logo="" group-title="ADULTS",XXX: PRIMAFILA HOTCLUB 12 HD
+http://256379961308284988.niceyes.xyz:80/L11031/4699863/284988|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PRIMAFILA HOTCLUB 13 HD" tvg-logo="" group-title="ADULTS",XXX: PRIMAFILA HOTCLUB 13 HD
+http://256379961308284989.niceyes.xyz:80/L11031/4699863/284989|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PRIMAFILA HOTCLUB 14 HD" tvg-logo="" group-title="ADULTS",XXX: PRIMAFILA HOTCLUB 14 HD
+http://256379961308284990.niceyes.xyz:80/L11031/4699863/284990|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PRIMAFILA HOTCLUB 15 HD" tvg-logo="" group-title="ADULTS",XXX: PRIMAFILA HOTCLUB 15 HD
+http://256379961308284991.niceyes.xyz:80/L11031/4699863/284991|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PRIMAFILA HOTCLUB 2 HD" tvg-logo="" group-title="ADULTS",XXX: PRIMAFILA HOTCLUB 2 HD
+http://256379961308284992.niceyes.xyz:80/L11031/4699863/284992|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PRIMAFILA HOTCLUB 3 HD" tvg-logo="" group-title="ADULTS",XXX: PRIMAFILA HOTCLUB 3 HD
+http://256379961308284993.niceyes.xyz:80/L11031/4699863/284993|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PRIMAFILA HOTCLUB 4 HD" tvg-logo="" group-title="ADULTS",XXX: PRIMAFILA HOTCLUB 4 HD
+http://256379961308284994.niceyes.xyz:80/L11031/4699863/284994|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PRIMAFILA HOTCLUB 5 HD" tvg-logo="" group-title="ADULTS",XXX: PRIMAFILA HOTCLUB 5 HD
+http://256379961308284995.niceyes.xyz:80/L11031/4699863/284995|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PRIMAFILA HOTCLUB 6 HD" tvg-logo="" group-title="ADULTS",XXX: PRIMAFILA HOTCLUB 6 HD
+http://256379961308284996.niceyes.xyz:80/L11031/4699863/284996|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PRIMAFILA HOTCLUB 7 HD" tvg-logo="" group-title="ADULTS",XXX: PRIMAFILA HOTCLUB 7 HD
+http://256379961308284997.niceyes.xyz:80/L11031/4699863/284997|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PRIMAFILA HOTCLUB 8 HD" tvg-logo="" group-title="ADULTS",XXX: PRIMAFILA HOTCLUB 8 HD
+http://256379961308284998.niceyes.xyz:80/L11031/4699863/284998|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PRIMAFILA HOTCLUB 9 HD" tvg-logo="" group-title="ADULTS",XXX: PRIMAFILA HOTCLUB 9 HD
+http://256379961308284999.niceyes.xyz:80/L11031/4699863/284999|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PRIVATE HD" tvg-logo="" group-title="ADULTS",XXX: PRIVATE HD
+http://256379961308285000.niceyes.xyz:80/L11031/4699863/285000|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PRIVE TV XXX HD" tvg-logo="" group-title="ADULTS",XXX: PRIVE TV XXX HD
+http://256379961308285001.niceyes.xyz:80/L11031/4699863/285001|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PURE BABES XXX HD" tvg-logo="" group-title="ADULTS",XXX: PURE BABES XXX HD
+http://256379961308285002.niceyes.xyz:80/L11031/4699863/285002|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: REALITY KINGS TV XXX HD" tvg-logo="" group-title="ADULTS",XXX: REALITY KINGS TV XXX HD
+http://256379961308285003.niceyes.xyz:80/L11031/4699863/285003|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: RED XXX XXX HD" tvg-logo="" group-title="ADULTS",XXX: RED XXX XXX HD
+http://256379961308285004.niceyes.xyz:80/L11031/4699863/285004|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: REDLIGHT HD" tvg-logo="" group-title="ADULTS",XXX: REDLIGHT HD
+http://256379961308285005.niceyes.xyz:80/L11031/4699863/285005|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ROUGH HD" tvg-logo="" group-title="ADULTS",XXX: ROUGH HD
+http://256379961308285006.niceyes.xyz:80/L11031/4699863/285006|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: RUSSIAN HD" tvg-logo="" group-title="ADULTS",XXX: RUSSIAN HD
+http://256379961308285007.niceyes.xyz:80/L11031/4699863/285007|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: RUSSKAYA NOCH HD" tvg-logo="" group-title="ADULTS",XXX: RUSSKAYA NOCH HD
+http://256379961308285008.niceyes.xyz:80/L11031/4699863/285008|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SCT HD" tvg-logo="" group-title="ADULTS",XXX: SCT HD
+http://256379961308285009.niceyes.xyz:80/L11031/4699863/285009|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SECRET CIRCLE TV XXX HD" tvg-logo="" group-title="ADULTS",XXX: SECRET CIRCLE TV XXX HD
+http://256379961308285010.niceyes.xyz:80/L11031/4699863/285010|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SEX ATION HD XXX" tvg-logo="" group-title="ADULTS",XXX: SEX ATION HD XXX
+http://256379961308285011.niceyes.xyz:80/L11031/4699863/285011|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SEX PRIVE XXX HD" tvg-logo="" group-title="ADULTS",XXX: SEX PRIVE XXX HD
+http://256379961308285012.niceyes.xyz:80/L11031/4699863/285012|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXTOSENSO HD" tvg-logo="" group-title="ADULTS",XXX: SEXTOSENSO HD
+http://256379961308285013.niceyes.xyz:80/L11031/4699863/285013|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXTREME XXX HD" tvg-logo="" group-title="ADULTS",XXX: SEXTREME XXX HD
+http://256379961308285014.niceyes.xyz:80/L11031/4699863/285014|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXY HOT XXX HD" tvg-logo="" group-title="ADULTS",XXX: SEXY HOT XXX HD
+http://256379961308285015.niceyes.xyz:80/L11031/4699863/285015|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SHALUN TV HD" tvg-logo="" group-title="ADULTS",XXX: SHALUN TV HD
+http://256379961308285016.niceyes.xyz:80/L11031/4699863/285016|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SHELK XXX HD" tvg-logo="" group-title="ADULTS",XXX: SHELK XXX HD
+http://256379961308285017.niceyes.xyz:80/L11031/4699863/285017|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SUPER ONE HD XXX" tvg-logo="" group-title="ADULTS",XXX: SUPER ONE HD XXX
+http://256379961308285018.niceyes.xyz:80/L11031/4699863/285018|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SUPER ONE XXX HD" tvg-logo="" group-title="ADULTS",XXX: SUPER ONE XXX HD
+http://256379961308285019.niceyes.xyz:80/L11031/4699863/285019|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: TABOO XXX HD" tvg-logo="" group-title="ADULTS",XXX: TABOO XXX HD
+http://256379961308285020.niceyes.xyz:80/L11031/4699863/285020|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: TBB 1 XXX HD" tvg-logo="" group-title="ADULTS",XXX: TBB 1 XXX HD
+http://256379961308285021.niceyes.xyz:80/L11031/4699863/285021|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: TBB 2 XXX HD" tvg-logo="" group-title="ADULTS",XXX: TBB 2 XXX HD
+http://256379961308285022.niceyes.xyz:80/L11031/4699863/285022|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: TBB 3 XXX HD" tvg-logo="" group-title="ADULTS",XXX: TBB 3 XXX HD
+http://256379961308285023.niceyes.xyz:80/L11031/4699863/285023|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: TBB 4 XXX HD" tvg-logo="" group-title="ADULTS",XXX: TBB 4 XXX HD
+http://256379961308285024.niceyes.xyz:80/L11031/4699863/285024|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: TBB XXX HD" tvg-logo="" group-title="ADULTS",XXX: TBB XXX HD
+http://256379961308285025.niceyes.xyz:80/L11031/4699863/285025|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: TEEN HD" tvg-logo="" group-title="ADULTS",XXX: TEEN HD
+http://256379961308285026.niceyes.xyz:80/L11031/4699863/285026|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: THREESOME HD" tvg-logo="" group-title="ADULTS",XXX: THREESOME HD
+http://256379961308285027.niceyes.xyz:80/L11031/4699863/285027|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: VENUS TV XXX HD" tvg-logo="" group-title="ADULTS",XXX: VENUS TV XXX HD
+http://256379961308285028.niceyes.xyz:80/L11031/4699863/285028|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: VISIT-X HD" tvg-logo="" group-title="ADULTS",XXX: VISIT-X HD
+http://256379961308285029.niceyes.xyz:80/L11031/4699863/285029|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: VIVID RED HD" tvg-logo="" group-title="ADULTS",XXX: VIVID RED HD
+http://256379961308285030.niceyes.xyz:80/L11031/4699863/285030|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: VIVID TV EUROPE XXX HD" tvg-logo="" group-title="ADULTS",XXX: VIVID TV EUROPE XXX HD
+http://256379961308285031.niceyes.xyz:80/L11031/4699863/285031|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: VIXEN HD XXX" tvg-logo="" group-title="ADULTS",XXX: VIXEN HD XXX
+http://256379961308285032.niceyes.xyz:80/L11031/4699863/285032|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: X BIZARRE XXX HD" tvg-logo="" group-title="ADULTS",XXX: X BIZARRE XXX HD
+http://256379961308285033.niceyes.xyz:80/L11031/4699863/285033|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: X BUNGA BUNGA XXX HD" tvg-logo="" group-title="ADULTS",XXX: X BUNGA BUNGA XXX HD
+http://256379961308285034.niceyes.xyz:80/L11031/4699863/285034|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: X DESIRE XXX HD" tvg-logo="" group-title="ADULTS",XXX: X DESIRE XXX HD
+http://256379961308285035.niceyes.xyz:80/L11031/4699863/285035|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: X-MO GAY XXX HD" tvg-logo="" group-title="ADULTS",XXX: X-MO GAY XXX HD
+http://256379961308285036.niceyes.xyz:80/L11031/4699863/285036|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: X1 XXX HD" tvg-logo="" group-title="ADULTS",XXX: X1 XXX HD
+http://256379961308285037.niceyes.xyz:80/L11031/4699863/285037|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: XXL HD" tvg-logo="" group-title="ADULTS",XXX: XXL HD
+http://256379961308285038.niceyes.xyz:80/L11031/4699863/285038|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: XY MAX HD XXX" tvg-logo="" group-title="ADULTS",XXX: XY MAX HD XXX
+http://256379961308285039.niceyes.xyz:80/L11031/4699863/285039|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: XY MIX HD XXX" tvg-logo="" group-title="ADULTS",XXX: XY MIX HD XXX
+http://256379961308285040.niceyes.xyz:80/L11031/4699863/285040|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: XY PLUS HD XXX" tvg-logo="" group-title="ADULTS",XXX: XY PLUS HD XXX
+http://256379961308285041.niceyes.xyz:80/L11031/4699863/285041|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ZEST TV XXX HD" tvg-logo="" group-title="ADULTS",XXX: ZEST TV XXX HD
+http://256379961308285042.niceyes.xyz:80/L11031/4699863/285042|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BABES TV HD XXX" tvg-logo="" group-title="ADULTS",XXX: BABES TV HD XXX
+http://256379961308285086.niceyes.xyz:80/L11031/4699863/285086|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ADULT CHANNEL 15 HD" tvg-logo="" group-title="ADULTS",XXX: ADULT CHANNEL 15 HD
+http://256379961308285091.niceyes.xyz:80/L11031/4699863/285091|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ADULT CHANNEL 16 HD" tvg-logo="" group-title="ADULTS",XXX: ADULT CHANNEL 16 HD
+http://256379961308285092.niceyes.xyz:80/L11031/4699863/285092|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ADULT CHANNEL 17 HD" tvg-logo="" group-title="ADULTS",XXX: ADULT CHANNEL 17 HD
+http://256379961308285093.niceyes.xyz:80/L11031/4699863/285093|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ADULT CHANNEL 20 HD" tvg-logo="" group-title="ADULTS",XXX: ADULT CHANNEL 20 HD
+http://256379961308285094.niceyes.xyz:80/L11031/4699863/285094|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: DORCEL XXX HD" tvg-logo="" group-title="ADULTS",XXX: DORCEL XXX HD
+http://256379961308285114.niceyes.xyz:80/L11031/4699863/285114|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HUSTLER TV HD" tvg-logo="" group-title="ADULTS",XXX: HUSTLER TV HD
+http://256379961308285115.niceyes.xyz:80/L11031/4699863/285115|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYBOY TV HD" tvg-logo="" group-title="ADULTS",XXX: PLAYBOY TV HD
+http://256379961308285116.niceyes.xyz:80/L11031/4699863/285116|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXTREME HD" tvg-logo="" group-title="ADULTS",XXX: SEXTREME HD
+http://256379961308285117.niceyes.xyz:80/L11031/4699863/285117|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: VENUS HD" tvg-logo="" group-title="ADULTS",XXX: VENUS HD
+http://256379961308285118.niceyes.xyz:80/L11031/4699863/285118|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: 21 SEXTURY HD" tvg-logo="" group-title="ADULTS",XXX: 21 SEXTURY HD
+http://256379961308286024.niceyes.xyz:80/L11031/4699863/286024|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ADULT TIME HD" tvg-logo="" group-title="ADULTS",XXX: ADULT TIME HD
+http://256379961308286025.niceyes.xyz:80/L11031/4699863/286025|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 1 HD" tvg-logo="" group-title="ADULTS",XXX: ALBA XXX 1 HD
+http://256379961308286026.niceyes.xyz:80/L11031/4699863/286026|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: A3 BIKINI HD" tvg-logo="" group-title="ADULTS",XXX: A3 BIKINI HD
+http://256379961308286188.niceyes.xyz:80/L11031/4699863/286188|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 6 HD" tvg-logo="" group-title="ADULTS",XXX: ALBA XXX 6 HD
+http://256379961308286857.niceyes.xyz:80/L11031/4699863/286857|http-user-agent=Lavf/54.40.101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SESTO SENSO HD" tvg-logo="" group-title="ADULTS",XXX: SESTO SENSO HD
+http://256379961308286858.niceyes.xyz:80/L11031/4699863/286858|http-user-agent=Lavf/54.40.101
+
 
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/RTP1.png" group-title="PT| PORTUGAL",RTP 1
 http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48584|http-user-agent=REDLINECLIENT
