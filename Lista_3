@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BENFICA TV aaa
-https://jempomvqxjcylpwy.wzcdn804.net:8443/hls/walxjawfo5x.m3u8?s=1eUGnqACpWfTdl0ROnO5rA&e=1645098839
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BENFICA TV bbb
+<link>https://sportsonline.to/channels/pt/sporttv1.php</link>
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BENFICA TV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BENFICA TV Só dia de jogo !!!
 
