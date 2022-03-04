@@ -8,6 +8,8 @@ http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVDAINMsk8V-CmML8GkEn
 http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItgwTHTb74VGjepTaM0ymzPy/ts
 #EXTINF:-1 tvg-name="SPORT TV+  HD" tvg-logo="http://static.golemflixer.com:8080/logos/sporttvplus.light.png",SPORT TV+  HD
 http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFeZ7ZL4gGKiB9suyQc0lbYfUwjTo9NJukXFjO_rFdCT/ts
+#EXTINF:-1 tvg-name="SPORT TV+  HD" tvg-logo="http://static.golemflixer.com:8080/logos/sporttvplus.light.png",SPORT TV+  HD
+http://api.magiaiptv.com/live/800196/128093/m3_UCWbpolpkgstvp_1080p
 #EXTINF:-1 tvg-name="SPORT TV 1 FHD" tvg-logo="http://apollo.golemflixer.com:8080/images/89010ba7469dee2f710486ba243c6df2.png",SPORT TV 1 FHD
 http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVNt0KKIAdrqDxSEumpwrjWmTfXtC1DgWklTdDMSA-BN5/ts
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 HD" tvg-logo="http://apollo.golemflixer.com:8080/images/89010ba7469dee2f710486ba243c6df2.png",SPORT TV 1 HD
