@@ -1,8 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="Casados" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1b/Casados.png",Diário 4
-https://868418906.tapecontent.net/radosgw/vYd6BOeA6QC4Zbo/WJnhp2Fks5FLLh5FBA_4LqVl7bZXRFV7lXnOEfcuHBX2LIchBOx-2-v0vyFlHrsf8g8K0bmORAq1F5U4DOO0dqhc1LJo2LY1oGTeG2nEy4CadqEpflI_jezh_YFWoNfISPbsJj7X7VxCouRkRcDs6bpeEHQF2_CFuFwI04xpzxihT9YinH3p8W7fxh7rTKb6w0hCDN2psn4ep1L0-PUm1piUNf2ECZk-U2N1J4WG5Qa-RAfMRthrHk5BOzxhWm14fkfBOAxJOXY4hj9p32c8iw-XC1cZ8atJFbuPIJTvCtos83XJYjtXWg_igEk/CASADOS+APV+3-DI%C3%81RIO+4?stream=1
+#EXTINF:-1 group-title="Casados" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1b/Casados.png",Parte 1
+https://908472281.tapecontent.net/radosgw/4R7PYG3zbofVBl/Cl5hkxeampuKgRRRmQAdC24g_YPtoM0iFj95Jf_ILYzoBBGsEJR4LqNxZQNBf4fTAMnLQQv4a77hh6q_t5qieSilFOENA0eHCkG8fU-6uq7DQXeiO4T6R8e2LWgtBjfwWqHsXuAfmIPHJGW1jIewiP9LZWdVY8Y2_keO8EXtvSJvup87mVsvMgAbm9bApgLRNwA-_9R0Sg18cUqmoOReMlSvoO3HqYD5yhkuXRxxC6_PbV3MVdRzW2KosmB1SH0ZC6-sgc4-tekdX54k-vKFrRQJogclvNRVCGCi5TuA4MOu1Ya2882bPBdXBGcoLJwqJ5-ZPC0cRyv1sOwK/CASADOS+APV+3-PROGRAMA++DE+DOMINGO+2-P1?stream=1
 #EXTINF:-1 group-title="Casados" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1b/Casados.png",Diário 5
-https://2475154701.tapecontent.net/radosgw/QKe2kgLl31c0OJd/49zYl_8fe8JQ_sk76h4TkJUvpzyBQKDomkD2EN633s-PG0I1SoVlsjeWKBO7Fap4gFrPUlP2KLGVrxAsRFe6Udzi0jdy0BVXdKHhKPbG5XfZoqFEflZXPq8ejKm3iLmVWuStULCFSab4GPNwoC5FpFUeSUECU45_1YzlBQzJ62HTBRt5JQ_Vsh0v-Bj24L22rradueDnxACFAHKDuuE4CscYbosao2FYymRxtv_Jo14575iu3j2qgC2q32lKoBBrAjSiZsV1EGmqEGfWuUdJkTHrB96HmvtMSTcb08hqtr2MHD49vwn6FelEh24/CASADOS+APV+3-DI%C3%81RIO+5?stream=1
 
 #EXTINF:-1 group-title="TV" tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1
 https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/playlist.m3u8|user-agent=RTP Play/2.0.26 (Linux;Android 11) ExoPlayerLib/2.11.8
