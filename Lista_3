@@ -10,24 +10,32 @@ http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5
 http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFeZ7ZL4gGKiB9suyQc0lbYfUwjTo9NJukXFjO_rFdCT/ts
 #EXTINF:-1 tvg-name="SPORT TV+  HD" tvg-logo="http://static.golemflixer.com:8080/logos/sporttvplus.light.png",SPORT TV+  HD
 http://api.magiaiptv.com/live/800196/128093/m3_UCWbpolpkgstvp_1080p
+#EXTINF:-1 tvg-name="SPORT TV+  HD" tvg-logo="http://static.golemflixer.com:8080/logos/sporttvplus.light.png",SPORT TV+
+http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais
 #EXTINF:-1 tvg-name="SPORT TV 1 FHD" tvg-logo="http://apollo.golemflixer.com:8080/images/89010ba7469dee2f710486ba243c6df2.png",SPORT TV 1 FHD
 http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVNt0KKIAdrqDxSEumpwrjWmTfXtC1DgWklTdDMSA-BN5/ts
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 HD" tvg-logo="http://apollo.golemflixer.com:8080/images/89010ba7469dee2f710486ba243c6df2.png",SPORT TV 1 HD
 http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVJ6TzoWFPM5Qk5MtCsUeMgoTp72M5Slz7t6Ko8xatrDC/ts
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 HD" tvg-logo="http://apollo.golemflixer.com:8080/images/89010ba7469dee2f710486ba243c6df2.png",SPORT TV 1 HD
 http://api.magiaiptv.com/live/800196/128093/m3_DFwhzUuzfistv1_1080p
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 HD" tvg-logo="http://apollo.golemflixer.com:8080/images/89010ba7469dee2f710486ba243c6df2.png",SPORT TV 1
+http://62.28.71.186:45678/http/192.168.150.173:7073/spt1
 #EXTINF:-1 tvg-id="SPTV_2" tvg-name="SPORT TV 2 FHD" tvg-logo="http://static.golemflixer.com:8080/logos/sporttv2.light.png",SPORT TV 2 FHD
 http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVNt0KKIAdrqDxSEumpwrjWmT1zS_a76e4YydSITRGrFE/ts
 #EXTINF:-1 tvg-name="SPORT TV 2 HD" tvg-logo="http://apollo.golemflixer.com:8080/images/418c925c24cd80ada209ea9f7b8dba42.png",SPORT TV 2 HD
 http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVDAINMsk8V-CmML8GkEnxKAAHU7QHH5xjz9nBXCRzM6I/ts
 #EXTINF:-1 tvg-name="SPORT TV 2 HD" tvg-logo="http://apollo.golemflixer.com:8080/images/418c925c24cd80ada209ea9f7b8dba42.png",SPORT TV 2 HD
 http://api.magiaiptv.com/live/800196/128093/m3_FZukotDQWYstv2_1080p
+#EXTINF:-1 tvg-name="SPORT TV 2 HD" tvg-logo="http://apollo.golemflixer.com:8080/images/418c925c24cd80ada209ea9f7b8dba42.png",SPORT TV 2
+http://62.28.71.186:45678/http/192.168.150.173:7073/spt2
 #EXTINF:-1 tvg-name="SPORT TV 3 FHD" tvg-logo="http://apollo.golemflixer.com:8080/images/3187c4c9073a039502d5ba94dc495fcb.png",SPORT TV 3 FHD
 http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVNt0KKIAdrqDxSEumpwrjWnR5ZEKVthHik0vlEjnbwGO/ts
 #EXTINF:-1 tvg-name="SPORT TV 3 HD" tvg-logo="http://apollo.golemflixer.com:8080/images/3187c4c9073a039502d5ba94dc495fcb.png",SPORT TV 3 HD
 http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVNt0KKIAdrqDxSEumpwrjWl1rsrvN0UT8aBxJ33GXvox/ts
 #EXTINF:-1 tvg-name="SPORT TV 3 HD" tvg-logo="http://apollo.golemflixer.com:8080/images/3187c4c9073a039502d5ba94dc495fcb.png",SPORT TV 3 HD
 http://api.magiaiptv.com/live/800196/128093/m3_eAb6FoNigKstv3_720p_2M
+#EXTINF:-1 tvg-name="SPORT TV 3 HD" tvg-logo="http://apollo.golemflixer.com:8080/images/3187c4c9073a039502d5ba94dc495fcb.png",SPORT TV 3
+http://62.28.71.186:45678/http/192.168.150.173:7073/spt3
 #EXTINF:-1 tvg-name="SPORT TV 4 FHD" tvg-logo="",SPORT TV 4 FHD
 http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItjzMwkegLsc5OmfcdE20yMx/ts
 #EXTINF:-1 tvg-name="SPORT TV 4 HD" tvg-logo="http://static.golemflixer.com:8080/logos/sporttv4.light.png",SPORT TV 4 HD
@@ -44,26 +52,38 @@ http://api.magiaiptv.com/live/800196/128093/m3_L4QIjJorwjstv5_1080p
 http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVAOY6CMdX3SXrZVrEU8vzHjdYyPuTXLmiUxvQbYsQ3-v/ts
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="http://apollo.golemflixer.com:8080/images/79b8997c026d95b019edaad52b0dd4ca.png",ELEVEN SPORTS 1 HD
 http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVKqDYo63NS-j14yxE-hcEMBkxIwQjhFbZws6n_HL-97f/ts
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="http://apollo.golemflixer.com:8080/images/79b8997c026d95b019edaad52b0dd4ca.png",ELEVEN SPORTS 1
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 #EXTINF:-1 tvg-id="elevensports2.pt" tvg-name=" ELEVEN SPORTS 2 FHD" tvg-logo="http://apollo.golemflixer.com:8080/images/2e51031d98cc248ffb411acc2fadb766.png",ELEVEN SPORTS 2 FHD
 http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVAOY6CMdX3SXrZVrEU8vzHgXC-RYl6GBN9cO3c7hzE6T/ts
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="http://static.golemflixer.com:8080/logos/elevensports2.default.png",ELEVEN SPORTS 2 HD
 http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVKqDYo63NS-j14yxE-hcEMCD_iGrpTVMUNN_J8-aCsHQ/ts
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="http://static.golemflixer.com:8080/logos/elevensports2.default.png",ELEVEN SPORTS 2
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 3 FHD" tvg-logo="http://apollo.golemflixer.com:8080/images/c52f6feb11b9bdea532c36b6eb376497.png",ELEVEN SPORTS 3 FHD
 http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVAOY6CMdX3SXrZVrEU8vzHhgL_3qkO8ZzNJh0lEAaQjq/ts
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="http://apollo.golemflixer.com:8080/images/c52f6feb11b9bdea532c36b6eb376497.png",ELEVEN SPORTS 3 HD
 http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVKqDYo63NS-j14yxE-hcEMBUK1yHIeIbVqaVCG5GWdct/ts
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="http://apollo.golemflixer.com:8080/images/c52f6feb11b9bdea532c36b6eb376497.png",ELEVEN SPORTS 3
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 4 FHD" tvg-logo="http://apollo.golemflixer.com:8080/images/568989f4c74c1f5b12a7ea323519fa59.png",ELEVEN SPORTS 4 FHD
 http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVAOY6CMdX3SXrZVrEU8vzHjIbASEsy-FrmG_rwqefv87/ts
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 4 HD" tvg-logo="http://static.golemflixer.com:8080/logos/elevensports4.default.png",ELEVEN SPORTS 4 HD
 http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVKqDYo63NS-j14yxE-hcEMDAVXTQC2EzYHMNJYU8WSQq/ts
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 4 HD" tvg-logo="http://static.golemflixer.com:8080/logos/elevensports4.default.png",ELEVEN SPORTS 4
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 5 FHD" tvg-logo="http://apollo.golemflixer.com:8080/images/8e79fb311f7f2f3422b98ea13ce222b1.png",ELEVEN SPORTS 5 FHD
 http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVAOY6CMdX3SXrZVrEU8vzHgZxazfEU1YyNn_osBtOl_k/ts
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 5 HD" tvg-logo="http://apollo.golemflixer.com:8080/images/8e79fb311f7f2f3422b98ea13ce222b1.png",ELEVEN SPORTS 5 HD
 http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVKqDYo63NS-j14yxE-hcEMCzd_2Qp_6HaVi-QLB3RkYb/ts
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 5 HD" tvg-logo="http://apollo.golemflixer.com:8080/images/8e79fb311f7f2f3422b98ea13ce222b1.png",ELEVEN SPORTS 5
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 6 FHD" tvg-logo="http://static.golemflixer.com:8080/logos/elevensports6.default.png",ELEVEN SPORTS 6 FHD
 http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVAOY6CMdX3SXrZVrEU8vzHjXyPDY6CjQUi1Un1ZmeA6B/ts
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 6 HD" tvg-logo="http://static.golemflixer.com:8080/logos/elevensports6.default.png",ELEVEN SPORTS 6 HD
 http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVKqDYo63NS-j14yxE-hcEMCBSK7YFy9k8Kkp4VmjYSBH/ts
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 6 HD" tvg-logo="http://static.golemflixer.com:8080/logos/elevensports6.default.png",ELEVEN SPORTS 6
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven6
 #EXTINF:-1 tvg-name="SPORTING TV FHD" tvg-logo="http://apollo.golemflixer.com:8080/images/5c7e233bd44f94ad3b17a9e285fe587a.png",SPORTING TV FHD
 http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFDNlWizrcwXDZHspnCPNSiNPGIbr7MOzk4PY5q7SaVQ/ts
 #EXTINF:-1 tvg-name="EUROSPORT" tvg-logo="http://static.golemflixer.com:8080/logos/eurosport.light.png",EUROSPORT
@@ -78,6 +98,8 @@ http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5
 http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVJ1kFijVOsN8H-fD92pJEwox_59eKxvJyz0tk7pXaFsW/ts
 #EXTINF:-1 tvg-name="Canal 11 FHD" tvg-logo="",Canal 11 FHD
 http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5IthIo2RNXm7R1rbRZyaZd48U/ts
+#EXTINF:-1 tvg-name="Canal 11 FHD" tvg-logo="",Canal 11
+http://62.28.71.186:45678/http/192.168.150.50:7050/canal11
 #EXTINF:-1 tvg-id="ABOLATV" tvg-name=" A Bola TV FHD" tvg-logo="",A Bola TV FHD
 http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItitrndcnYXX3GisYawT2Cfd/ts
 #EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name=" A Bola TV" tvg-logo="http://static.golemflixer.com:8080/logos/abolatv.default.png",A Bola TV
@@ -92,6 +114,8 @@ http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFcJlHvGbfyK1nzrFHL3
 http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5Ith-n6fLQ7_qmquOJyfYyDi0/ts
 #EXTINF:-1 tvg-name="Motorvision" tvg-logo="",Motorvision
 http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFcJlHvGbfyK1nzrFHL3ntXG4y0NrO4CgqWIR4xVZsIv/ts
+#EXTINF:-1 tvg-name="Motorvision" tvg-logo="",Motorvision
+http://62.28.71.186:45678/http/192.168.150.173:7500/motorvision
 #EXTINF:-1 tvg-name="NBA FHD" tvg-logo="",NBA FHD
 http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItgPWLP7jWeKdXchcP5uMqPl/ts
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="http://static.golemflixer.com:8080/logos/nbatv.default.png",NBA TV
