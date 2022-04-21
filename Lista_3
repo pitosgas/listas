@@ -78,6 +78,7 @@ http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVJ1kFijVOsN8H-fD92pJ
 #EXTINF:-1 tvg-name="EUROSPORT 2 FHD" tvg-logo="",EUROSPORT 2 FHD
 #EXTINF:-1 tvg-name="EUROSPORT 2" tvg-logo="http://static.golemflixer.com:8080/logos/eurosport2.light.png",EUROSPORT 2
 #EXTINF:-1 tvg-name="Canal 11 FHD" tvg-logo="",Canal 11 FHD
+https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
 #EXTINF:-1 tvg-name="Canal 11 FHD" tvg-logo="",Canal 11
 http://62.28.71.186:45678/http/192.168.150.50:7050/canal11
 #EXTINF:-1 tvg-id="ABOLATV" tvg-name=" A Bola TV FHD" tvg-logo="",A Bola TV FHD
