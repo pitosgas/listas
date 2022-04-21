@@ -1,7 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",**** ATUALIZAR LISTA NO MENU ****
 http://naovalenada:8080/4KK_ZRpkRHw5m8nbgDACVDAINMsk8V-CmML8GkEnxKDVLUP3i87SKfjTsvC1aAuN/ts
-
+#EXTINF:-1 tvg-id="BENFICA" tvg-name=" BENFICA TV 1 FHD" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",Teste
+https://jempomvqxjcylpwy.wzcdn804.net:8443/hls/walxjawfo5x.m3u8?s=o8b27iFszJ-oRPvf7dLoAg&e=1650535023|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
 #EXTINF:-1 tvg-id="BENFICA" tvg-name=" BENFICA TV 1 FHD" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BENFICA TV 1 FHD
 http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVDAINMsk8V-CmML8GkEnxKDVLUP3i87SKfjTsvC1aAuN/ts
 #EXTINF:-1 tvg-id="BENFICA" tvg-name=" BENFICA TV 1 HD" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BENFICA TV 1 HD
