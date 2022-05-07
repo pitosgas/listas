@@ -3,9 +3,20 @@
 http://naovalenada:8080/4KK_ZRpkRHw5m8nbgDACVDAINMsk8V-CmML8GkEnxKDVLUP3i87SKfjTsvC1aAuN/ts
 
 #EXTINF:-1 tvg-id="BENFICA" tvg-name=" BENFICA TV 1 FHD" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BENFICA TV 1 FHD
-http://s1.niacam.net:24621/1sovficdyoscx9v5x1d9v/pKV2dhjWCL/121904
+http://viperteam.ddns.net:25461/live/6666/6666/74562.m3u8
 #EXTINF:-1 tvg-id="BENFICA" tvg-name=" BENFICA TV 1 HD" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BENFICA TV 1 HD
-https://zdxetcjzkybpxicr.wzcdn804.net:8443/hls/walxjawfo5x.m3u8?s=QrunV6yWBZUvZyM_TfLM6A&e=1651923797
+
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg",PT: BTV
+http://ccdn.ai:80/live/J5yx1/679TQJtyy/74821.m3u8
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg",PT: BTV FHD
+http://ccdn.ai:80/live/J5yx1/679TQJtyy/74823.m3u8
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg",PT: BTV FHD [H265]
+http://ccdn.ai:80/live/J5yx1/679TQJtyy/74824.m3u8
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg",PT: BTV HD
+http://ccdn.ai:80/live/J5yx1/679TQJtyy/74825.m3u8
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg",PT: BTV SD
+http://ccdn.ai:80/live/J5yx1/679TQJtyy/74822.m3u8
+
 #EXTINF:-1 tvg-name="SPORT TV+  HD" tvg-logo="http://static.golemflixer.com:8080/logos/sporttvplus.light.png",SPORT TV+  HD
 #EXTINF:-1 tvg-name="SPORT TV+  HD" tvg-logo="http://static.golemflixer.com:8080/logos/sporttvplus.light.png",SPORT TV+  HD
 http://api.magiaiptv.com/live/800196/128093/m3_UCWbpolpkgstvp_1080p
