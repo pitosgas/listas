@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="",**** ATUALIZAR LISTA NO MENU ****
+http://naovalenada:8080/4KK_ZRpkRHw5m8nbgDACVDAINMsk8V-CmML8GkEnxKDVLUP3i87SKfjTsvC1aAuN/ts
+
 #EXTINF:-1 tvg-id="" tvg-name=" RTP 1" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/RTP1.png", RTP 1
 http://viperteam.ddns.net:25461/live/6666/6666/74539.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" RTP 2 HD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/RTP2.png", RTP 2 HD
