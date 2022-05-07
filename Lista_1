@@ -1,239 +1,179 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e7aeb547717f6e110c331e6aa4135d26.png" group-title="Portugal",PT: RTP 1 FHD
-http://legendtvs.com:80/naveen/123456/293124
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-05/8a5bcde9b3bd3182948bc4c10e4673a4.png" group-title="Portugal",PT: RTP 2 FHD
-http://legendtvs.com:80/naveen/123456/293123
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f635b82d815b50fe826d0dd86b2da632.png" group-title="Portugal",PT: SIC FHD
-http://legendtvs.com:80/naveen/123456/293117
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/85c7a4f09d37b9ad96ddc40a0d48337c.png" group-title="Portugal",PT: TVI FHD
-http://legendtvs.com:80/naveen/123456/293089
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI Reality FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d399fedc17277522ba8d0416ee36498d.png" group-title="Portugal",PT: TVI Reality FHD
-http://legendtvs.com:80/naveen/123456/293087
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Mulher FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/00cfc2c30fdd7d84ebed9489cc0c6ca9.png" group-title="Portugal",PT: SIC Mulher FHD
-http://legendtvs.com:80/naveen/123456/293115
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Caras HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ebc03e0ee47b8550771dcf1c7d2bb89c.png" group-title="Portugal",PT: SIC Caras HD
-http://legendtvs.com:80/naveen/123456/293118
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Radical FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/977c0ecb61363c74eff0f34c59905fb4.png" group-title="Portugal",PT: SIC Radical FHD
-http://legendtvs.com:80/naveen/123456/293113
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI 24 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8857468db91ed3b6b360dba47f39e9c0.png" group-title="Portugal",PT: TVI 24 FHD
-http://legendtvs.com:80/naveen/123456/293090
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Noticias FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4c9ed2c815adfefb06bcb05ddee39727.png" group-title="Portugal",PT: SIC Noticias FHD
-http://legendtvs.com:80/naveen/123456/293114
-#EXTINF:-1 tvg-id="" tvg-name="PT: Benfica TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce7c9696313070a9238ade6d0b8c6c67.png" group-title="Portugal",PT: Benfica TV FHD
-http://legendtvs.com:80/naveen/123456/293193
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV + FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/22ccb6d1c637d9b6a63d83100af972f3.png" group-title="Portugal",PT: SPORT TV + FHD
-http://legendtvs.com:80/naveen/123456/293111
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title="Portugal",PT: SPORT TV 1 FHD
-http://legendtvs.com:80/naveen/123456/293110
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png" group-title="Portugal",PT: SPORT TV 2 FHD
-http://legendtvs.com:80/naveen/123456/293109
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d77db9165e33a177ada687f34441b6d5.png" group-title="Portugal",PT: SPORT TV 3 FHD
-http://legendtvs.com:80/naveen/123456/293108
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3d6b227803c54e2924e81ead82561df7.png" group-title="Portugal",PT: SPORT TV 4 FHD
-http://legendtvs.com:80/naveen/123456/293107
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/85b1b813eeaec60854f25192a7d9519c.png" group-title="Portugal",PT: SPORT TV 5 FHD
-http://legendtvs.com:80/naveen/123456/293106
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: SPORT TV NBA HD
-http://legendtvs.com:80/naveen/123456/293105
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/01e316f3f912da86d546aae870c0c824.png" group-title="Portugal",PT: ELEVEN SPORTS 1 FHD
-http://legendtvs.com:80/naveen/123456/293168
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66186fc073ad58e4f5eb7ddef80f5683.png" group-title="Portugal",PT: ELEVEN SPORTS 2 FHD
-http://legendtvs.com:80/naveen/123456/293167
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f73e8e81463754c65776fc47313e54f3.png" group-title="Portugal",PT: ELEVEN SPORTS 3 FHD
-http://legendtvs.com:80/naveen/123456/293166
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/91de88fbc29321590e9bac2a18fb878a.png" group-title="Portugal",PT: ELEVEN SPORTS 4 FHD
-http://legendtvs.com:80/naveen/123456/293165
-#EXTINF:-1 tvg-id="" tvg-name="PT: Alma Lusa FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Alma Lusa FHD
-http://legendtvs.com:80/naveen/123456/293204
-#EXTINF:-1 tvg-id="" tvg-name="PT: AMC FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ff2deccfb9fb15c90083f7c28ef24e05.png" group-title="Portugal",PT: AMC FHD
-http://legendtvs.com:80/naveen/123456/293203
-#EXTINF:-1 tvg-id="" tvg-name="PT: Apanhados HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Apanhados HD
-http://legendtvs.com:80/naveen/123456/293202
-#EXTINF:-1 tvg-id="" tvg-name="PT: AR TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/22b90dd09952697c58877aff096f8999.png" group-title="Portugal",PT: AR TV
-http://legendtvs.com:80/naveen/123456/293201
-#EXTINF:-1 tvg-id="" tvg-name="PT: AXN FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ab8a5bb7de8a56c0dcd49dcce1b15d42.png" group-title="Portugal",PT: AXN FHD
-http://legendtvs.com:80/naveen/123456/293200
-#EXTINF:-1 tvg-id="" tvg-name="PT: AXN Movies FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1d31c6f7a6aa294e24dc1b66948442cb.png" group-title="Portugal",PT: AXN Movies FHD
-http://legendtvs.com:80/naveen/123456/293199
-#EXTINF:-1 tvg-id="" tvg-name="PT: AXN White FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/211d3e396d86a6ae2569a8508a37e282.png" group-title="Portugal",PT: AXN White FHD
-http://legendtvs.com:80/naveen/123456/293198
-#EXTINF:-1 tvg-id="" tvg-name="PT: Azores TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Azores TV
-http://legendtvs.com:80/naveen/123456/293197
-#EXTINF:-1 tvg-id="" tvg-name="PT: Baby TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8387532c7a04a1fdc7a6846aae51bac4.png" group-title="Portugal",PT: Baby TV HD
-http://legendtvs.com:80/naveen/123456/293196
-#EXTINF:-1 tvg-id="" tvg-name="PT: BBC Entertainment HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/21535916dd6cde396f32dd7c80171a00.png" group-title="Portugal",PT: BBC Entertainment HD
-http://legendtvs.com:80/naveen/123456/293195
-#EXTINF:-1 tvg-id="" tvg-name="PT: BBC World News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/35fe48fe9f77f5a5dac204b8ccff1e68.png" group-title="Portugal",PT: BBC World News
-http://legendtvs.com:80/naveen/123456/293194
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI Ficcao FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e463c6dec5ae80331584d526357312e1.png" group-title="Portugal",PT: TVI Ficcao FHD
-http://legendtvs.com:80/naveen/123456/293088
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC K FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6f8729e8ca0e2050908b375500f224f9.png" group-title="Portugal",PT: SIC K FHD
-http://legendtvs.com:80/naveen/123456/293116
-#EXTINF:-1 tvg-id="" tvg-name="PT: Biggs HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6bd0c23f862e4131e7dbbe307bc98c1a.png" group-title="Portugal",PT: Biggs HD
-http://legendtvs.com:80/naveen/123456/293192
-#EXTINF:-1 tvg-id="" tvg-name="PT: Blaze HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/02288d1748b84afa4bf4d13d6d2e6727.png" group-title="Portugal",PT: Blaze HD
-http://legendtvs.com:80/naveen/123456/293191
-#EXTINF:-1 tvg-id="" tvg-name="PT: Bloomberg TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/48735d59be1fb5f7b553176ef45a23b4.png" group-title="Portugal",PT: Bloomberg TV HD
-http://legendtvs.com:80/naveen/123456/293190
-#EXTINF:-1 tvg-id="" tvg-name="PT: Boomerang" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/871261a4089358903b96c27d13de2f1f.png" group-title="Portugal",PT: Boomerang
-http://legendtvs.com:80/naveen/123456/293189
-#EXTINF:-1 tvg-id="" tvg-name="PT: Campo Pequeno HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Campo Pequeno HD
-http://legendtvs.com:80/naveen/123456/293188
-#EXTINF:-1 tvg-id="" tvg-name="PT: Canal 11 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/93673aa325443895b136366bbfc38fc4.png" group-title="Portugal",PT: Canal 11 FHD
-http://legendtvs.com:80/naveen/123456/293187
-#EXTINF:-1 tvg-id="" tvg-name="PT: Canal Hollywood FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a4996bfaef88ad7b8cc6c457a53b52db.png" group-title="Portugal",PT: Canal Hollywood FHD
-http://legendtvs.com:80/naveen/123456/293186
-#EXTINF:-1 tvg-id="" tvg-name="PT: Canal Panda HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/29f1c10d6d10f0dba48ef1ab8f5650a1.png" group-title="Portugal",PT: Canal Panda HD
-http://legendtvs.com:80/naveen/123456/293185
-#EXTINF:-1 tvg-id="" tvg-name="PT: Canal Q HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/27276a58bc8105c1ee377d75d7af2f13.png" group-title="Portugal",PT: Canal Q HD
-http://legendtvs.com:80/naveen/123456/293184
-#EXTINF:-1 tvg-id="" tvg-name="PT: Cartoon Network HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8f4a17537e3d35fc10f7258bda5c1de2.png" group-title="Portugal",PT: Cartoon Network HD
-http://legendtvs.com:80/naveen/123456/293183
-#EXTINF:-1 tvg-id="" tvg-name="PT: Casa e Cozinha FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d4ee9b446cc63844d9c2fbf86fded3d4.png" group-title="Portugal",PT: Casa e Cozinha FHD
-http://legendtvs.com:80/naveen/123456/293182
-#EXTINF:-1 tvg-id="" tvg-name="PT: Caza y Pesca FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/32f92f782ad8da74b3ba7ddacdcf5af4.png" group-title="Portugal",PT: Caza y Pesca FHD
-http://legendtvs.com:80/naveen/123456/293181
-#EXTINF:-1 tvg-id="" tvg-name="PT: CBS Reality" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8f95bb48e77b4199e2b4b82fa5b0e97f.png" group-title="Portugal",PT: CBS Reality
-http://legendtvs.com:80/naveen/123456/293180
-#EXTINF:-1 tvg-id="" tvg-name="PT: Cine Mundo FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1d2248be6d1a2b629f8ead3f41558ccf.png" group-title="Portugal",PT: Cine Mundo FHD
-http://legendtvs.com:80/naveen/123456/293179
-#EXTINF:-1 tvg-id="" tvg-name="PT: CM TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ac1ea8e2c36914812a32029089a0b6d1.png" group-title="Portugal",PT: CM TV FHD
-http://legendtvs.com:80/naveen/123456/293178
-#EXTINF:-1 tvg-id="" tvg-name="PT: CNBC HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0b8bb17a9cb61223b2380552b0c786d0.png" group-title="Portugal",PT: CNBC HD
-http://legendtvs.com:80/naveen/123456/293177
-#EXTINF:-1 tvg-id="" tvg-name="PT: CNN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6229119ced63980d446e91988a8cd526.png" group-title="Portugal",PT: CNN
-http://legendtvs.com:80/naveen/123456/293176
-#EXTINF:-1 tvg-id="" tvg-name="PT: Crime+ Investigation" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/be299b5887efb6ac2ef139e7219f3af9.png" group-title="Portugal",PT: Crime+ Investigation
-http://legendtvs.com:80/naveen/123456/293175
-#EXTINF:-1 tvg-id="" tvg-name="PT: Discovery World FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/07637d4b1d8cc5b2784ec078bbb23f2b.png" group-title="Portugal",PT: Discovery World FHD
-http://legendtvs.com:80/naveen/123456/293174
-#EXTINF:-1 tvg-id="" tvg-name="PT: Disney Channel HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8421402691971ea1c41aecab55b6eaba.png" group-title="Portugal",PT: Disney Channel HD
-http://legendtvs.com:80/naveen/123456/293173
-#EXTINF:-1 tvg-id="" tvg-name="PT: Disney Junior HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d8e3dffef846a877bebfee531a9a986e.png" group-title="Portugal",PT: Disney Junior HD
-http://legendtvs.com:80/naveen/123456/293172
-#EXTINF:-1 tvg-id="" tvg-name="PT: Dog TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/873e7bf90507edd1036f9b0550ac66e7.png" group-title="Portugal",PT: Dog TV FHD
-http://legendtvs.com:80/naveen/123456/293171
-#EXTINF:-1 tvg-id="" tvg-name="PT: DW" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cb59427f09464bdf86802ccf28cbfa24.png" group-title="Portugal",PT: DW
-http://legendtvs.com:80/naveen/123456/293170
-#EXTINF:-1 tvg-id="" tvg-name="PT: E! FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c5f058eed1f49095b75e2234ae703754.png" group-title="Portugal",PT: E! FHD
-http://legendtvs.com:80/naveen/123456/293169
-#EXTINF:-1 tvg-id="" tvg-name="PT: EstudoEmCasa" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/82ceaa87a0b10209e8a0c2c4a61ea7d5.png" group-title="Portugal",PT: EstudoEmCasa
-http://legendtvs.com:80/naveen/123456/293164
-#EXTINF:-1 tvg-id="" tvg-name="PT: euronews" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f2d6e3aff23355d4203d9ddb8efa0633.png" group-title="Portugal",PT: euronews
-http://legendtvs.com:80/naveen/123456/293163
-#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e29ab16dd731b9f11938c24282ed403c.png" group-title="Portugal",PT: EUROSPORT 1 FHD
-http://legendtvs.com:80/naveen/123456/293162
-#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/44e7fcd83142484151969cb5ec092f2c.png" group-title="Portugal",PT: EUROSPORT 2 HD
-http://legendtvs.com:80/naveen/123456/293161
-#EXTINF:-1 tvg-id="" tvg-name="PT: Fashion TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4b32e9c8c8aa8974c9a9bd7655d97463.png" group-title="Portugal",PT: Fashion TV HD
-http://legendtvs.com:80/naveen/123456/293160
-#EXTINF:-1 tvg-id="" tvg-name="PT: Fatima HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Fatima HD
-http://legendtvs.com:80/naveen/123456/293159
-#EXTINF:-1 tvg-id="" tvg-name="PT: Food Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/24ab44b55e4bf2de5ad55ba14be2554a.png" group-title="Portugal",PT: Food Network
-http://legendtvs.com:80/naveen/123456/293158
-#EXTINF:-1 tvg-id="" tvg-name="PT: Fox Comedy FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cfff810431b4d8089b10819a2b42ff24.png" group-title="Portugal",PT: Fox Comedy FHD
-http://legendtvs.com:80/naveen/123456/293157
-#EXTINF:-1 tvg-id="" tvg-name="PT: Fox Crime FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/079dbfbc1da0e76173cd3a002f26eb00.png" group-title="Portugal",PT: Fox Crime FHD
-http://legendtvs.com:80/naveen/123456/293156
-#EXTINF:-1 tvg-id="" tvg-name="PT: FOX FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fd8c5e231ea4d017d5998c69fac50b24.png" group-title="Portugal",PT: FOX FHD
-http://legendtvs.com:80/naveen/123456/293155
-#EXTINF:-1 tvg-id="" tvg-name="PT: Fox Life FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9a97e75d0b0813a123a7e333f75af9b9.png" group-title="Portugal",PT: Fox Life FHD
-http://legendtvs.com:80/naveen/123456/293154
-#EXTINF:-1 tvg-id="" tvg-name="PT: FOX Movies FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/62026fb360365534347674c3d5041ec2.png" group-title="Portugal",PT: FOX Movies FHD
-http://legendtvs.com:80/naveen/123456/293153
-#EXTINF:-1 tvg-id="" tvg-name="PT: Fox News Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f7baf267b179581cbcbfa594bc23e9aa.png" group-title="Portugal",PT: Fox News Channel
-http://legendtvs.com:80/naveen/123456/293152
-#EXTINF:-1 tvg-id="" tvg-name="PT: France 24 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/37ec67a7032aadb19786b4f4f27ccb8c.png" group-title="Portugal",PT: France 24 FHD
-http://legendtvs.com:80/naveen/123456/293151
-#EXTINF:-1 tvg-id="" tvg-name="PT: Fuel TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2df8f6e6d22413d34871a4e44e7117fb.png" group-title="Portugal",PT: Fuel TV FHD
-http://legendtvs.com:80/naveen/123456/293150
-#EXTINF:-1 tvg-id="" tvg-name="PT: Galicia TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/54a56741dd12e4b8c912c30e5c10282b.png" group-title="Portugal",PT: Galicia TV HD
-http://legendtvs.com:80/naveen/123456/293149
-#EXTINF:-1 tvg-id="" tvg-name="PT: Gametoon" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5b695e5079eaa46c1ed47f040bd9f9eb.png" group-title="Portugal",PT: Gametoon
-http://legendtvs.com:80/naveen/123456/293148
-#EXTINF:-1 tvg-id="" tvg-name="PT: Ginx eSports TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/784ad650798c209aa5dfcd68b65b307c.png" group-title="Portugal",PT: Ginx eSports TV
-http://legendtvs.com:80/naveen/123456/293147
-#EXTINF:-1 tvg-id="" tvg-name="PT: Globo Now HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3c10ae9dbe96f9990b4465f82f7d1f3a.png" group-title="Portugal",PT: Globo Now HD
-http://legendtvs.com:80/naveen/123456/293146
-#EXTINF:-1 tvg-id="" tvg-name="PT: History HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6032909e08119f5609aef6340cb3740e.png" group-title="Portugal",PT: History HD
-http://legendtvs.com:80/naveen/123456/293145
-#EXTINF:-1 tvg-id="" tvg-name="PT: Investigation Discovery FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/db6a791521e3d31c550efeb266ba2bb6.png" group-title="Portugal",PT: Investigation Discovery FHD
-http://legendtvs.com:80/naveen/123456/293144
-#EXTINF:-1 tvg-id="" tvg-name="PT: JimJam HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/48ce455058185ecb6f7a06d4a237372d.png" group-title="Portugal",PT: JimJam HD
-http://legendtvs.com:80/naveen/123456/293143
-#EXTINF:-1 tvg-id="" tvg-name="PT: Kuriakos TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/06c6937ea3a6feba2e4a2f98030ef1f8.png" group-title="Portugal",PT: Kuriakos TV FHD
-http://legendtvs.com:80/naveen/123456/293142
-#EXTINF:-1 tvg-id="" tvg-name="PT: Local Visao TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Local Visao TV HD
-http://legendtvs.com:80/naveen/123456/293141
-#EXTINF:-1 tvg-id="" tvg-name="PT: Lolly Kids FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f8b9b0b402c2f91e70573dabee46aa57.png" group-title="Portugal",PT: Lolly Kids FHD
-http://legendtvs.com:80/naveen/123456/293140
-#EXTINF:-1 tvg-id="" tvg-name="PT: Mas Chic" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f0a5e2834db5e2f94c1056a63bc389b4.png" group-title="Portugal",PT: Mas Chic
-http://legendtvs.com:80/naveen/123456/293139
-#EXTINF:-1 tvg-id="" tvg-name="PT: MCM Pop HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f4b2006ffab949bf97b89ec370478aaa.png" group-title="Portugal",PT: MCM Pop HD
-http://legendtvs.com:80/naveen/123456/293138
-#EXTINF:-1 tvg-id="" tvg-name="PT: MCM Top HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4777c3f2a97f96d38a1df21bfb82d6c2.png" group-title="Portugal",PT: MCM Top HD
-http://legendtvs.com:80/naveen/123456/293137
-#EXTINF:-1 tvg-id="" tvg-name="PT: Mezzo HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/698be67c78ec5698bbeb975cdf415b6e.png" group-title="Portugal",PT: Mezzo HD
-http://legendtvs.com:80/naveen/123456/293136
-#EXTINF:-1 tvg-id="" tvg-name="PT: Motorvision TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/dd1edbd59250fb5df9e46713fa7e9c24.png" group-title="Portugal",PT: Motorvision TV HD
-http://legendtvs.com:80/naveen/123456/293135
-#EXTINF:-1 tvg-id="" tvg-name="PT: MTV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9eb16db3f705768cdb9266a9c7de0730.png" group-title="Portugal",PT: MTV HD
-http://legendtvs.com:80/naveen/123456/293134
-#EXTINF:-1 tvg-id="" tvg-name="PT: NAT GEO FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/574bf954a7d9977135a11aea5a17102d.png" group-title="Portugal",PT: NAT GEO FHD
-http://legendtvs.com:80/naveen/123456/293133
-#EXTINF:-1 tvg-id="" tvg-name="PT: NAT GEO Wild FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d4602c73330509214ee8324552e8e897.png" group-title="Portugal",PT: NAT GEO Wild FHD
-http://legendtvs.com:80/naveen/123456/293132
-#EXTINF:-1 tvg-id="" tvg-name="PT: Nick Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/bdd79f5b3d2dde9c095cbbd602af1de0.png" group-title="Portugal",PT: Nick Junior
-http://legendtvs.com:80/naveen/123456/293131
-#EXTINF:-1 tvg-id="" tvg-name="PT: nickelodeon HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7ba49f9f77fcc701888de284da556394.png" group-title="Portugal",PT: nickelodeon HD
-http://legendtvs.com:80/naveen/123456/293130
-#EXTINF:-1 tvg-id="" tvg-name="PT: Nos Studios FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8b1ec4589ef03aaf0359eb18198f2080.png" group-title="Portugal",PT: Nos Studios FHD
-http://legendtvs.com:80/naveen/123456/293129
-#EXTINF:-1 tvg-id="" tvg-name="PT: Odisseia FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f290d90bb57058d837daece37550435c.png" group-title="Portugal",PT: Odisseia FHD
-http://legendtvs.com:80/naveen/123456/293128
-#EXTINF:-1 tvg-id="" tvg-name="PT: Outdoor Channel HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6559abb088aaae76893f68d0531c353c.png" group-title="Portugal",PT: Outdoor Channel HD
-http://legendtvs.com:80/naveen/123456/293127
-#EXTINF:-1 tvg-id="" tvg-name="PT: Panda Biggs HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12330eb8fd52df4e35e1721c02e2a802.png" group-title="Portugal",PT: Panda Biggs HD
-http://legendtvs.com:80/naveen/123456/293126
-#EXTINF:-1 tvg-id="" tvg-name="PT: Porto Canal FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/caa6360e94c2e434d525c13688d7a40a.png" group-title="Portugal",PT: Porto Canal FHD
-http://legendtvs.com:80/naveen/123456/293125
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f7178a16c0b410328e6590e1fd25a937.png" group-title="Portugal",PT: RTP 3 FHD
-http://legendtvs.com:80/naveen/123456/293122
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP Madeira HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ae038bcd82a1074dc6659ba454c77d33.png" group-title="Portugal",PT: RTP Madeira HD
-http://legendtvs.com:80/naveen/123456/293121
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP Memoria HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/149de92adf67fa96415a4e4ad74b062d.png" group-title="Portugal",PT: RTP Memoria HD
-http://legendtvs.com:80/naveen/123456/293120
-#EXTINF:-1 tvg-id="" tvg-name="PT: S+ FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: S+ FHD
-http://legendtvs.com:80/naveen/123456/293119
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sky News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6585dcf4b1636d8cec5aeb3f209de415.png" group-title="Portugal",PT: Sky News
-http://legendtvs.com:80/naveen/123456/293112
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sporting TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c3a532ff6be1d4a54129e69cbc6ef5b8.png" group-title="Portugal",PT: Sporting TV FHD
-http://legendtvs.com:80/naveen/123456/293104
-#EXTINF:-1 tvg-id="" tvg-name="PT: SYFY FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3098e701203ad4b48b0be528b27bdd29.png" group-title="Portugal",PT: SYFY FHD
-http://legendtvs.com:80/naveen/123456/293103
-#EXTINF:-1 tvg-id="" tvg-name="PT: TCV Internacional" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/29c5c693efeeb0a938109134e100fd73.png" group-title="Portugal",PT: TCV Internacional
-http://legendtvs.com:80/naveen/123456/293102
-#EXTINF:-1 tvg-id="" tvg-name="PT: Tiji FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e31e8e23b53f337053717b6b8168df18.png" group-title="Portugal",PT: Tiji FHD
-http://legendtvs.com:80/naveen/123456/293101
-#EXTINF:-1 tvg-id="" tvg-name="PT: TLC HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/76eab48a6cb0f09a95fc547ed7d8a309.png" group-title="Portugal",PT: TLC HD
-http://legendtvs.com:80/naveen/123456/293100
-#EXTINF:-1 tvg-id="" tvg-name="PT: Toros TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b19036f8c4a28f580397a6de3bfdc641.png" group-title="Portugal",PT: Toros TV HD
-http://legendtvs.com:80/naveen/123456/293099
-#EXTINF:-1 tvg-id="" tvg-name="PT: TRACE Toca" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0b996adac9268539a530f91dacc05978.png" group-title="Portugal",PT: TRACE Toca
-http://legendtvs.com:80/naveen/123456/293098
-#EXTINF:-1 tvg-id="" tvg-name="PT: Travel Channel FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1a1f809513ab32d7bd5d5472605a3a0a.png" group-title="Portugal",PT: Travel Channel FHD
-http://legendtvs.com:80/naveen/123456/293097
-#EXTINF:-1 tvg-id="" tvg-name="PT: TV Globo" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/735dbda706788d6d111673ea03f37cdb.png" group-title="Portugal",PT: TV Globo
-http://legendtvs.com:80/naveen/123456/293096
-#EXTINF:-1 tvg-id="" tvg-name="PT: TV5Monde" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f46f73caa11f8703f4da93504d93f55b.png" group-title="Portugal",PT: TV5Monde
-http://legendtvs.com:80/naveen/123456/293095
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Action FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/171a8586f36fec35a18bf5854ac8b35d.png" group-title="Portugal",PT: TVCine Action FHD
-http://legendtvs.com:80/naveen/123456/293094
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Edition FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/14b6fc20d38f98098f2654649f603bf2.png" group-title="Portugal",PT: TVCine Edition FHD
-http://legendtvs.com:80/naveen/123456/293093
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Emotion FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/167e3049cd1d1a5497a95f8ff399a161.png" group-title="Portugal",PT: TVCine Emotion FHD
-http://legendtvs.com:80/naveen/123456/293092
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Top FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f41f432f7892851986a82363c0f66332.png" group-title="Portugal",PT: TVCine Top FHD
-http://legendtvs.com:80/naveen/123456/293091
-#EXTINF:-1 tvg-id="" tvg-name="PT: VH1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/79677d1abadf9103a9583e80f488d22b.png" group-title="Portugal",PT: VH1 HD
-http://legendtvs.com:80/naveen/123456/293086
+#EXTINF:-1 tvg-id="" tvg-name=" RTP 1" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/RTP1.png", RTP 1
+http://viperteam.ddns.net:25461/live/6666/6666/74539.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" RTP 2 HD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/RTP2.png", RTP 2 HD
+http://viperteam.ddns.net:25461/live/6666/6666/74540.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" RTP 3" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/RTP3.png", RTP 3
+http://viperteam.ddns.net:25461/live/6666/6666/74541.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" RTP Memoria" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/RTPMEMORIA.png", RTP Memoria
+http://viperteam.ddns.net:25461/live/6666/6666/74543.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Tvi 24" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/TVI24.png", Tvi 24
+http://viperteam.ddns.net:25461/live/6666/6666/74545.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" TVI Reality" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/TVI.png", TVI Reality
+http://viperteam.ddns.net:25461/live/6666/6666/74546.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" TVI FICCAO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d0/TVI_fic%C3%A7%C3%A3o.png", TVI FICCAO
+http://viperteam.ddns.net:25461/live/6666/6666/74547.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Sic HD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/SIC.png", Sic HD
+http://viperteam.ddns.net:25461/live/6666/6666/74549.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" SIC Radicalll" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/SIC.png", SIC Radicalll
+http://viperteam.ddns.net:25461/live/6666/6666/74550.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" SIC NOTICIAS" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/SIC.png", SIC NOTICIAS
+http://viperteam.ddns.net:25461/live/6666/6666/74551.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" SIC Mulher" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/SIC.png", SIC Mulher
+http://viperteam.ddns.net:25461/live/6666/6666/74552.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" CMTV" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/CMTV.png", CMTV
+http://viperteam.ddns.net:25461/live/6666/6666/74553.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" SYFY" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/SYFYHD.png", SYFY
+http://viperteam.ddns.net:25461/live/6666/6666/74554.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" AXN HD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/AXNHD.png", AXN HD
+http://viperteam.ddns.net:25461/live/6666/6666/74555.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" E ENTERTAINMENT" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/E!ENTERTAINMENT.png", E ENTERTAINMENT
+http://viperteam.ddns.net:25461/live/6666/6666/74556.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" AXN WHITE HD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/AXNWHITE.png", AXN WHITE HD
+http://viperteam.ddns.net:25461/live/6666/6666/74557.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" AXN BLACK" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/AXNBLACK.png", AXN BLACK
+http://viperteam.ddns.net:25461/live/6666/6666/74558.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" FOX HD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/FOXHD.png", FOX HD
+http://viperteam.ddns.net:25461/live/6666/6666/74559.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" FOX COMEDY" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/FOXHD.png", FOX COMEDY
+http://viperteam.ddns.net:25461/live/6666/6666/74560.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" A Bola TV" tvg-logo="", A Bola TV
+http://viperteam.ddns.net:25461/live/6666/6666/74561.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" BENFICA TV 1 HD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/BENFICATV1HD.png", BENFICA TV 1 HD
+http://viperteam.ddns.net:25461/live/6666/6666/74562.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: NOS STUDIOS FHD" tvg-logo="",PT: NOS STUDIOS FHD
+http://viperteam.ddns.net:25461/live/6666/6666/74563.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" CANAL 11" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/CANALQ.png", CANAL 11
+http://viperteam.ddns.net:25461/live/6666/6666/74564.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Cano Nova" tvg-logo="", Cano Nova
+http://viperteam.ddns.net:25461/live/6666/6666/74565.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Porto Canal" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/PORTOCANAL.png", Porto Canal
+http://viperteam.ddns.net:25461/live/6666/6666/74566.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" RTP Acores" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/RTPACORES.png", RTP Acores
+http://viperteam.ddns.net:25461/live/6666/6666/74567.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" FOX CRIME" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/FOXHD.png", FOX CRIME
+http://viperteam.ddns.net:25461/live/6666/6666/74569.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Fox Life HD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/FOXHD.png", Fox Life HD
+http://viperteam.ddns.net:25461/live/6666/6666/74570.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Sport TV 1 FHD" tvg-logo="", Sport TV 1 FHD
+http://viperteam.ddns.net:25461/live/6666/6666/74571.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|PT TVCiNE TOP" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/TVCINE1.png",|PT TVCiNE TOP
+http://viperteam.ddns.net:25461/live/6666/6666/74572.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" TVCINE EMOTON" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/TVCINE2.png", TVCINE EMOTON
+http://viperteam.ddns.net:25461/live/6666/6666/74573.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" TVCINE ACTION " tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/TVCINE3.png", TVCINE ACTION 
+http://viperteam.ddns.net:25461/live/6666/6666/74575.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" TVCINE EDITION " tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/TVCINE4.png", TVCINE EDITION 
+http://viperteam.ddns.net:25461/live/6666/6666/74576.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" FOX MOVIES" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/FOXHD.png", FOX MOVIES
+http://viperteam.ddns.net:25461/live/6666/6666/74578.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" CINE MUNDO" tvg-logo="", CINE MUNDO
+http://viperteam.ddns.net:25461/live/6666/6666/74579.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Hollywood FHD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/HOLLYWOODHD.png", Hollywood FHD
+http://viperteam.ddns.net:25461/live/6666/6666/74580.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" TV Series FHD" tvg-logo="", TV Series FHD
+http://viperteam.ddns.net:25461/live/6666/6666/74581.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" TVI FHD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/TVI.png", TVI FHD
+http://viperteam.ddns.net:25461/live/6666/6666/74582.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Sport TV 1" tvg-logo="", Sport TV 1
+http://viperteam.ddns.net:25461/live/6666/6666/74584.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Sport TV 2 FHD" tvg-logo="", Sport TV 2 FHD
+http://viperteam.ddns.net:25461/live/6666/6666/74585.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Sport TV 2" tvg-logo="", Sport TV 2
+http://viperteam.ddns.net:25461/live/6666/6666/74586.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Sport TV 3 FHD" tvg-logo="", Sport TV 3 FHD
+http://viperteam.ddns.net:25461/live/6666/6666/74587.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Sport TV 3" tvg-logo="", Sport TV 3
+http://viperteam.ddns.net:25461/live/6666/6666/74588.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" SPORT TV 4 HD" tvg-logo="", SPORT TV 4 HD
+http://viperteam.ddns.net:25461/live/6666/6666/74589.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 HD" tvg-logo="",PT: SPORT TV 5 HD
+http://viperteam.ddns.net:25461/live/6666/6666/74590.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Eleven Sports 1" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/ELEVENSPORTS.png", Eleven Sports 1
+http://viperteam.ddns.net:25461/live/6666/6666/74591.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2 [HVEC/H265]" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/ELEVENSPORTS.png",ELEVEN SPORTS 2 [HVEC/H265]
+http://viperteam.ddns.net:25461/live/6666/6666/74592.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3 [HVEC/H265]" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/ELEVENSPORTS.png",ELEVEN SPORTS 3 [HVEC/H265]
+http://viperteam.ddns.net:25461/live/6666/6666/74593.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 4 [HVEC/H265]" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/ELEVENSPORTS.png",ELEVEN SPORTS 4 [HVEC/H265]
+http://viperteam.ddns.net:25461/live/6666/6666/74594.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Eleven Sports 5" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/ELEVENSPORTS.png", Eleven Sports 5
+http://viperteam.ddns.net:25461/live/6666/6666/74595.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Eleven Sports 6" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/ELEVENSPORTS.png", Eleven Sports 6
+http://viperteam.ddns.net:25461/live/6666/6666/74596.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" EUROSPORT 1" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/EUROSPORT1.png", EUROSPORT 1
+http://viperteam.ddns.net:25461/live/6666/6666/74598.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" EUROSPORT 2" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/EUROSPORT2.png", EUROSPORT 2
+http://viperteam.ddns.net:25461/live/6666/6666/74599.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" MOTORS TV" tvg-logo="", MOTORS TV
+http://viperteam.ddns.net:25461/live/6666/6666/74603.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Sporting TV HD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/SPORTINGTV.png", Sporting TV HD
+http://viperteam.ddns.net:25461/live/6666/6666/74604.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" NBA TV" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/NBATV.png", NBA TV
+http://viperteam.ddns.net:25461/live/6666/6666/74605.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Motorvision" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/MOTORVISION.png", Motorvision
+http://viperteam.ddns.net:25461/live/6666/6666/74606.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Toros TV" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/TOROS.png", Toros TV
+http://viperteam.ddns.net:25461/live/6666/6666/74607.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" PFC HD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/PFC.png", PFC HD
+http://viperteam.ddns.net:25461/live/6666/6666/74608.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" MTV Dance" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/MTVPORTUGAL.png", MTV Dance
+http://viperteam.ddns.net:25461/live/6666/6666/74609.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" MTV Hits" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/MTVPORTUGAL.png", MTV Hits
+http://viperteam.ddns.net:25461/live/6666/6666/74610.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" MTV Portugal" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/MTVPORTUGAL.png", MTV Portugal
+http://viperteam.ddns.net:25461/live/6666/6666/74611.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" MTV Rocks" tvg-logo="", MTV Rocks
+http://viperteam.ddns.net:25461/live/6666/6666/74612.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" VH1" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/VH1.png", VH1
+http://viperteam.ddns.net:25461/live/6666/6666/74613.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Afro Music" tvg-logo="", Afro Music
+http://viperteam.ddns.net:25461/live/6666/6666/74616.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" 24 Kitchen FHD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/24KITCHENHD.png", 24 Kitchen FHD
+http://viperteam.ddns.net:25461/live/6666/6666/74618.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Cacavision" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/CACAVISION.png", Cacavision
+http://viperteam.ddns.net:25461/live/6666/6666/74620.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Historia" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/HISTORIAHD.png", Historia
+http://viperteam.ddns.net:25461/live/6666/6666/74621.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Caca e Pesca" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/CACAVISION.png", Caca e Pesca
+http://viperteam.ddns.net:25461/live/6666/6666/74622.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" DISCOVERY CHANNEL" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/DISCOVERYHD.png", DISCOVERY CHANNEL
+http://viperteam.ddns.net:25461/live/6666/6666/74623.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Travel Channel FHD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/TRAVELCHANNELHD.png", Travel Channel FHD
+http://viperteam.ddns.net:25461/live/6666/6666/74624.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" NAT GEO HD" tvg-logo="http://185.165.243.195/logo/5079.png", NAT GEO HD
+http://viperteam.ddns.net:25461/live/6666/6666/74625.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Nat Geo Wild" tvg-logo="http://185.165.243.195/logo/5019.png", Nat Geo Wild
+http://viperteam.ddns.net:25461/live/6666/6666/74626.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Mezzo" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/MEZZO.png", Mezzo
+http://viperteam.ddns.net:25461/live/6666/6666/74627.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Discovery FHD Showcase" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/DISCOVERYHD.png", Discovery FHD Showcase
+http://viperteam.ddns.net:25461/live/6666/6666/74628.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" ODISSEIA" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/ODISSEIA.png", ODISSEIA
+http://viperteam.ddns.net:25461/live/6666/6666/74629.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" TV FAtima" tvg-logo="", TV FAtima
+http://viperteam.ddns.net:25461/live/6666/6666/74630.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" NICKELODEON" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/NICKELODEON.png", NICKELODEON
+http://viperteam.ddns.net:25461/live/6666/6666/74631.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Canal Panda HD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/CANALPANDA.png", Canal Panda HD
+http://viperteam.ddns.net:25461/live/6666/6666/74632.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Disney Channel" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/DISNEYJR.png", Disney Channel
+http://viperteam.ddns.net:25461/live/6666/6666/74633.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Disney Junior" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/DISNEYJR.png", Disney Junior
+http://viperteam.ddns.net:25461/live/6666/6666/74634.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" DISNEY JUNIOR (test)" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/DISNEYJR.png", DISNEY JUNIOR (test)
+http://viperteam.ddns.net:25461/live/6666/6666/74635.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Biggs" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/BIGGS.png", Biggs
+http://viperteam.ddns.net:25461/live/6666/6666/74636.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Cartoon Network" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/CARTOONNETWORK.png", Cartoon Network
+http://viperteam.ddns.net:25461/live/6666/6666/74638.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Jim Jam" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/JIMJAM.png", Jim Jam
+http://viperteam.ddns.net:25461/live/6666/6666/74639.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" TV Globo HD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/GLOBO.png", TV Globo HD
+http://viperteam.ddns.net:25461/live/6666/6666/74640.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" TV Globo Premium" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/GLOBO.png", TV Globo Premium
+http://viperteam.ddns.net:25461/live/6666/6666/74642.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" TV RECORD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/RECORDHD.png", TV RECORD
+http://viperteam.ddns.net:25461/live/6666/6666/74643.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Euronews" tvg-logo="", Euronews
+http://viperteam.ddns.net:25461/live/6666/6666/74644.m3u8
