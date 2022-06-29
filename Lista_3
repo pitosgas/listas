@@ -6,16 +6,55 @@ http://naovalenada:8080/4KK_ZRpkRHw5m8nbgDACVDAINMsk8V-CmML8GkEnxKDVLUP3i87SKfjT
 http://viperteam.ddns.net:25461/live/6666/6666/74562.m3u8
 #EXTINF:-1 tvg-id="BENFICA" tvg-name=" BENFICA TV 1 HD" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BENFICA TV 1 HD
 
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg",PT: BTV
-http://ccdn.ai:80/live/J5yx1/679TQJtyy/74821.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg",PT: BTV FHD
-http://ccdn.ai:80/live/J5yx1/679TQJtyy/74823.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg",PT: BTV FHD [H265]
-http://ccdn.ai:80/live/J5yx1/679TQJtyy/74824.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg",PT: BTV HD
-http://ccdn.ai:80/live/J5yx1/679TQJtyy/74825.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg",PT: BTV SD
-http://ccdn.ai:80/live/J5yx1/679TQJtyy/74822.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT1: BENFICA TV FHD",PT1: BENFICA TV FHD
+http://srv.tvprodigital.net:80/andre10/andre10/112546
+#EXTINF:-1 tvg-id="" tvg-name="PT1: BENFICA TV SD",PT1: BENFICA TV SD
+http://srv.tvprodigital.net:80/andre10/andre10/112547
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV FHD",PT: BENFICA TV FHD
+http://srv.tvprodigital.net:80/andre10/andre10/112545
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV + HD",SPORT TV + HD
+http://srv.tvprodigital.net:80/andre10/andre10/112716
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV + FHD",PT: SPORT TV + FHD
+http://srv.tvprodigital.net:80/andre10/andre10/112714
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1",SPORT TV 1
+http://srv.tvprodigital.net:80/andre10/andre10/112717
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 FHD",SPORT TV 1 FHD
+http://srv.tvprodigital.net:80/andre10/andre10/112718
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 HD",PT: SPORT TV 1 HD
+http://srv.tvprodigital.net:80/andre10/andre10/112719
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2",SPORT TV 2
+http://srv.tvprodigital.net:80/andre10/andre10/112720
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2 FHD",SPORT TV 2 FHD
+http://srv.tvprodigital.net:80/andre10/andre10/112722
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD",PT: SPORT TV 2 HD
+http://srv.tvprodigital.net:80/andre10/andre10/112721
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3",SPORT TV 3
+http://srv.tvprodigital.net:80/andre10/andre10/112723
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3 HD",SPORT TV 3 HD
+http://srv.tvprodigital.net:80/andre10/andre10/112725
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 FHD",PT: SPORT TV 3 FHD
+http://srv.tvprodigital.net:80/andre10/andre10/112724
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4",SPORT TV 4
+http://srv.tvprodigital.net:80/andre10/andre10/112726
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4 FHD",SPORT TV 4 FHD
+http://srv.tvprodigital.net:80/andre10/andre10/112727
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 HD",PT: SPORT TV 4 HD
+http://srv.tvprodigital.net:80/andre10/andre10/112728
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5",SPORT TV 5
+http://srv.tvprodigital.net:80/andre10/andre10/112729
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5 HD",SPORT TV 5 HD
+http://srv.tvprodigital.net:80/andre10/andre10/112731
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 FHD",PT: SPORT TV 5 FHD
+http://srv.tvprodigital.net:80/andre10/andre10/112730
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 6 FHD",SPORT TV 6 FHD
+http://srv.tvprodigital.net:80/andre10/andre10/112732
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 6 HD",PT: SPORT TV 6 HD
+http://srv.tvprodigital.net:80/andre10/andre10/112733
+#EXTINF:-1 tvg-id="" tvg-name="SPORTING TV",SPORTING TV
+http://srv.tvprodigital.net:80/andre10/andre10/112735
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORTING TV",PT: SPORTING TV
+http://srv.tvprodigital.net:80/andre10/andre10/112734
+
 
 #EXTINF:-1 tvg-name="SPORT TV+  HD" tvg-logo="http://static.golemflixer.com:8080/logos/sporttvplus.light.png",SPORT TV+  HD
 #EXTINF:-1 tvg-name="SPORT TV+  HD" tvg-logo="http://static.golemflixer.com:8080/logos/sporttvplus.light.png",SPORT TV+  HD
