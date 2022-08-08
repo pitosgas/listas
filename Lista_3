@@ -6,54 +6,7 @@ http://naovalenada:8080/4KK_ZRpkRHw5m8nbgDACVDAINMsk8V-CmML8GkEnxKDVLUP3i87SKfjT
 http://viperteam.ddns.net:25461/live/6666/6666/74562.m3u8
 #EXTINF:-1 tvg-id="BENFICA" tvg-name=" BENFICA TV 1 HD" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BENFICA TV 1 HD
 
-#EXTINF:-1 tvg-id="" tvg-name="PT1: BENFICA TV FHD",PT1: BENFICA TV FHD
-http://srv.tvprodigital.net:80/andre10/andre10/112546
-#EXTINF:-1 tvg-id="" tvg-name="PT1: BENFICA TV SD",PT1: BENFICA TV SD
-http://srv.tvprodigital.net:80/andre10/andre10/112547
-#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV FHD",PT: BENFICA TV FHD
-http://srv.tvprodigital.net:80/andre10/andre10/112545
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV + HD",SPORT TV + HD
-http://srv.tvprodigital.net:80/andre10/andre10/112716
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV + FHD",PT: SPORT TV + FHD
-http://srv.tvprodigital.net:80/andre10/andre10/112714
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1",SPORT TV 1
-http://srv.tvprodigital.net:80/andre10/andre10/112717
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 FHD",SPORT TV 1 FHD
-http://srv.tvprodigital.net:80/andre10/andre10/112718
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 HD",PT: SPORT TV 1 HD
-http://srv.tvprodigital.net:80/andre10/andre10/112719
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2",SPORT TV 2
-http://srv.tvprodigital.net:80/andre10/andre10/112720
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2 FHD",SPORT TV 2 FHD
-http://srv.tvprodigital.net:80/andre10/andre10/112722
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD",PT: SPORT TV 2 HD
-http://srv.tvprodigital.net:80/andre10/andre10/112721
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3",SPORT TV 3
-http://srv.tvprodigital.net:80/andre10/andre10/112723
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3 HD",SPORT TV 3 HD
-http://srv.tvprodigital.net:80/andre10/andre10/112725
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 FHD",PT: SPORT TV 3 FHD
-http://srv.tvprodigital.net:80/andre10/andre10/112724
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4",SPORT TV 4
-http://srv.tvprodigital.net:80/andre10/andre10/112726
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4 FHD",SPORT TV 4 FHD
-http://srv.tvprodigital.net:80/andre10/andre10/112727
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 HD",PT: SPORT TV 4 HD
-http://srv.tvprodigital.net:80/andre10/andre10/112728
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5",SPORT TV 5
-http://srv.tvprodigital.net:80/andre10/andre10/112729
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5 HD",SPORT TV 5 HD
-http://srv.tvprodigital.net:80/andre10/andre10/112731
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 FHD",PT: SPORT TV 5 FHD
-http://srv.tvprodigital.net:80/andre10/andre10/112730
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 6 FHD",SPORT TV 6 FHD
-http://srv.tvprodigital.net:80/andre10/andre10/112732
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 6 HD",PT: SPORT TV 6 HD
-http://srv.tvprodigital.net:80/andre10/andre10/112733
-#EXTINF:-1 tvg-id="" tvg-name="SPORTING TV",SPORTING TV
-http://srv.tvprodigital.net:80/andre10/andre10/112735
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORTING TV",PT: SPORTING TV
-http://srv.tvprodigital.net:80/andre10/andre10/112734
+
 
 
 #EXTINF:-1 tvg-name="SPORT TV+  HD" tvg-logo="http://static.golemflixer.com:8080/logos/sporttvplus.light.png",SPORT TV+  HD
@@ -62,82 +15,94 @@ http://api.magiaiptv.com/live/800196/128093/m3_UCWbpolpkgstvp_1080p
 #EXTINF:-1 tvg-name="SPORT TV+  HD" tvg-logo="http://static.golemflixer.com:8080/logos/sporttvplus.light.png",SPORT TV+
 http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais
 #EXTINF:-1 tvg-name="SPORT TV 1 FHD" tvg-logo="http://apollo.golemflixer.com:8080/images/89010ba7469dee2f710486ba243c6df2.png",SPORT TV 1 FHD
-http://s1.niacam.net:24621/1sovficdyoscx9v5x1d9v/pKV2dhjWCL/389
+http://viperteam.ddns.net:25461/live/6666/6666/74571.m3u8
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 HD" tvg-logo="http://apollo.golemflixer.com:8080/images/89010ba7469dee2f710486ba243c6df2.png",SPORT TV 1 HD
+http://viperteam.ddns.net:25461/live/6666/6666/74584.m3u8
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 HD" tvg-logo="http://apollo.golemflixer.com:8080/images/89010ba7469dee2f710486ba243c6df2.png",SPORT TV 1 HD
 http://api.magiaiptv.com/live/800196/128093/m3_DFwhzUuzfistv1_1080p
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 HD" tvg-logo="http://apollo.golemflixer.com:8080/images/89010ba7469dee2f710486ba243c6df2.png",SPORT TV 1
 http://62.28.71.186:45678/http/192.168.150.173:7073/spt1
 #EXTINF:-1 tvg-id="SPTV_2" tvg-name="SPORT TV 2 FHD" tvg-logo="http://static.golemflixer.com:8080/logos/sporttv2.light.png",SPORT TV 2 FHD
-http://s1.niacam.net:24621/1sovficdyoscx9v5x1d9v/pKV2dhjWCL/388
+http://viperteam.ddns.net:25461/live/6666/6666/74585.m3u8
 #EXTINF:-1 tvg-name="SPORT TV 2 HD" tvg-logo="http://apollo.golemflixer.com:8080/images/418c925c24cd80ada209ea9f7b8dba42.png",SPORT TV 2 HD
+http://viperteam.ddns.net:25461/live/6666/6666/74586.m3u8
 #EXTINF:-1 tvg-name="SPORT TV 2 HD" tvg-logo="http://apollo.golemflixer.com:8080/images/418c925c24cd80ada209ea9f7b8dba42.png",SPORT TV 2 HD
 http://api.magiaiptv.com/live/800196/128093/m3_FZukotDQWYstv2_1080p
 #EXTINF:-1 tvg-name="SPORT TV 2 HD" tvg-logo="http://apollo.golemflixer.com:8080/images/418c925c24cd80ada209ea9f7b8dba42.png",SPORT TV 2
 http://62.28.71.186:45678/http/192.168.150.173:7073/spt2
 #EXTINF:-1 tvg-name="SPORT TV 3 FHD" tvg-logo="http://apollo.golemflixer.com:8080/images/3187c4c9073a039502d5ba94dc495fcb.png",SPORT TV 3 FHD
-http://s1.niacam.net:24621/1sovficdyoscx9v5x1d9v/pKV2dhjWCL/387
+http://viperteam.ddns.net:25461/live/6666/6666/74587.m3u8
 #EXTINF:-1 tvg-name="SPORT TV 3 HD" tvg-logo="http://apollo.golemflixer.com:8080/images/3187c4c9073a039502d5ba94dc495fcb.png",SPORT TV 3 HD
+http://viperteam.ddns.net:25461/live/6666/6666/74588.m3u8
 #EXTINF:-1 tvg-name="SPORT TV 3 HD" tvg-logo="http://apollo.golemflixer.com:8080/images/3187c4c9073a039502d5ba94dc495fcb.png",SPORT TV 3 HD
 http://api.magiaiptv.com/live/800196/128093/m3_eAb6FoNigKstv3_720p_2M
 #EXTINF:-1 tvg-name="SPORT TV 3 HD" tvg-logo="http://apollo.golemflixer.com:8080/images/3187c4c9073a039502d5ba94dc495fcb.png",SPORT TV 3
 http://62.28.71.186:45678/http/192.168.150.173:7073/spt3
 #EXTINF:-1 tvg-name="SPORT TV 4 FHD" tvg-logo="http://static.golemflixer.com:8080/logos/sporttv4.light.png",SPORT TV 4 FHD
-http://s1.niacam.net:24621/1sovficdyoscx9v5x1d9v/pKV2dhjWCL/386
+http://viperteam.ddns.net:25461/live/6666/6666/74589.m3u8
 #EXTINF:-1 tvg-name="SPORT TV 4 HD" tvg-logo="http://static.golemflixer.com:8080/logos/sporttv4.light.png",SPORT TV 4 HD
 #EXTINF:-1 tvg-name="SPORT TV 4 HD" tvg-logo="http://static.golemflixer.com:8080/logos/sporttv4.light.png",SPORT TV 4 HD
 http://api.magiaiptv.com/live/800196/128093/m3_eargH0Pv9qstv4_720p_2M
 #EXTINF:-1 tvg-name="SPORT TV 5 FHD" tvg-logo="http://apollo.golemflixer.com:8080/images/4d2d68072c25d4240ce28385c1676f92.png",SPORT TV 5 FHD
-http://s1.niacam.net:24621/1sovficdyoscx9v5x1d9v/pKV2dhjWCL/696
+http://viperteam.ddns.net:25461/live/6666/6666/74590.m3u8
 #EXTINF:-1 tvg-name="SPORT TV 5 HD" tvg-logo="http://apollo.golemflixer.com:8080/images/4d2d68072c25d4240ce28385c1676f92.png",SPORT TV 5 HD
 #EXTINF:-1 tvg-name="SPORT TV 5 HD" tvg-logo="http://apollo.golemflixer.com:8080/images/4d2d68072c25d4240ce28385c1676f92.png",SPORT TV 5 HD
 http://api.magiaiptv.com/live/800196/128093/m3_L4QIjJorwjstv5_1080p
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 1 FHD" tvg-logo="http://apollo.golemflixer.com:8080/images/600a61494736d5bfac4dcfd6b88ccabe.png",ELEVEN SPORTS 1 FHD
-http://s1.niacam.net:24621/1sovficdyoscx9v5x1d9v/pKV2dhjWCL/692
+http://viperteam.ddns.net:25461/live/6666/6666/74591.m3u8
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="http://apollo.golemflixer.com:8080/images/79b8997c026d95b019edaad52b0dd4ca.png",ELEVEN SPORTS 1 HD
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="http://apollo.golemflixer.com:8080/images/79b8997c026d95b019edaad52b0dd4ca.png",ELEVEN SPORTS 1
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 #EXTINF:-1 tvg-id="elevensports2.pt" tvg-name=" ELEVEN SPORTS 2 FHD" tvg-logo="http://apollo.golemflixer.com:8080/images/2e51031d98cc248ffb411acc2fadb766.png",ELEVEN SPORTS 2 FHD
-http://s1.niacam.net:24621/1sovficdyoscx9v5x1d9v/pKV2dhjWCL/693
+http://viperteam.ddns.net:25461/live/6666/6666/74592.m3u8
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="http://static.golemflixer.com:8080/logos/elevensports2.default.png",ELEVEN SPORTS 2 HD
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="http://static.golemflixer.com:8080/logos/elevensports2.default.png",ELEVEN SPORTS 2
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 3 FHD" tvg-logo="http://apollo.golemflixer.com:8080/images/c52f6feb11b9bdea532c36b6eb376497.png",ELEVEN SPORTS 3 FHD
-http://s1.niacam.net:24621/1sovficdyoscx9v5x1d9v/pKV2dhjWCL/694
+http://viperteam.ddns.net:25461/live/6666/6666/74593.m3u8
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="http://apollo.golemflixer.com:8080/images/c52f6feb11b9bdea532c36b6eb376497.png",ELEVEN SPORTS 3 HD
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="http://apollo.golemflixer.com:8080/images/c52f6feb11b9bdea532c36b6eb376497.png",ELEVEN SPORTS 3
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 4 FHD" tvg-logo="http://apollo.golemflixer.com:8080/images/568989f4c74c1f5b12a7ea323519fa59.png",ELEVEN SPORTS 4 FHD
-http://s1.niacam.net:24621/1sovficdyoscx9v5x1d9v/pKV2dhjWCL/695
+http://viperteam.ddns.net:25461/live/6666/6666/74594.m3u8
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 4 HD" tvg-logo="http://static.golemflixer.com:8080/logos/elevensports4.default.png",ELEVEN SPORTS 4 HD
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 4 HD" tvg-logo="http://static.golemflixer.com:8080/logos/elevensports4.default.png",ELEVEN SPORTS 4
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 5 FHD" tvg-logo="http://apollo.golemflixer.com:8080/images/8e79fb311f7f2f3422b98ea13ce222b1.png",ELEVEN SPORTS 5 FHD
-http://s1.niacam.net:24621/1sovficdyoscx9v5x1d9v/pKV2dhjWCL/711
+http://viperteam.ddns.net:25461/live/6666/6666/74595.m3u8
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 5 HD" tvg-logo="http://apollo.golemflixer.com:8080/images/8e79fb311f7f2f3422b98ea13ce222b1.png",ELEVEN SPORTS 5 HD
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 5 HD" tvg-logo="http://apollo.golemflixer.com:8080/images/8e79fb311f7f2f3422b98ea13ce222b1.png",ELEVEN SPORTS 5
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 6 FHD" tvg-logo="http://static.golemflixer.com:8080/logos/elevensports6.default.png",ELEVEN SPORTS 6 FHD
+http://viperteam.ddns.net:25461/live/6666/6666/74596.m3u8
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 6 HD" tvg-logo="http://static.golemflixer.com:8080/logos/elevensports6.default.png",ELEVEN SPORTS 6 HD
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 6 HD" tvg-logo="http://static.golemflixer.com:8080/logos/elevensports6.default.png",ELEVEN SPORTS 6
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven6
 #EXTINF:-1 tvg-name="SPORTING TV FHD" tvg-logo="http://apollo.golemflixer.com:8080/images/5c7e233bd44f94ad3b17a9e285fe587a.png",SPORTING TV FHD
 #EXTINF:-1 tvg-name="EUROSPORT" tvg-logo="http://static.golemflixer.com:8080/logos/eurosport.light.png",EUROSPORT
 #EXTINF:-1 tvg-name="EUROSPORT 1 FHD" tvg-logo="http://static.golemflixer.com:8080/logos/eurosport1.white.png",EUROSPORT 1 FHD
+http://viperteam.ddns.net:25461/live/6666/6666/74598.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 1" tvg-logo="http://static.golemflixer.com:8080/logos/eurosport1.white.png",EUROSPORT 1
 http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVJ1kFijVOsN8H-fD92pJEworwrXwohYFVJ6mVOT1SGCy/ts
 #EXTINF:-1 tvg-name="EUROSPORT 2 FHD" tvg-logo="",EUROSPORT 2 FHD
 #EXTINF:-1 tvg-name="EUROSPORT 2" tvg-logo="http://static.golemflixer.com:8080/logos/eurosport2.light.png",EUROSPORT 2
+http://viperteam.ddns.net:25461/live/6666/6666/74599.m3u8
 #EXTINF:-1 tvg-name="Canal 11 FHD" tvg-logo="",Canal 11 FHD
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
 #EXTINF:-1 tvg-name="Canal 11 FHD" tvg-logo="",Canal 11
 http://62.28.71.186:45678/http/192.168.150.50:7050/canal11
-#EXTINF:-1 tvg-id="ABOLATV" tvg-name=" A Bola TV FHD" tvg-logo="",A Bola TV FHD
+#EXTINF:-1 tvg-name="Canal 11 FHD" tvg-logo="",Canal 11
+http://viperteam.ddns.net:25461/live/6666/6666/74564.m3u8
 #EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name=" A Bola TV" tvg-logo="http://static.golemflixer.com:8080/logos/abolatv.default.png",A Bola TV
+http://viperteam.ddns.net:25461/live/6666/6666/74561.m3u8
 #EXTINF:-1 tvg-name="Fight Network FHD" tvg-logo="",Fight Network FHD
 #EXTINF:-1 tvg-name="Kombat SPORT" tvg-logo="http://static.golemflixer.com:8080/logos/kombatsport.default.png",Kombat SPORT
-#EXTINF:-1 tvg-name="Motorsport.tv" tvg-logo="",Motorsport.tv
+#EXTINF:-1 tvg-name="Motorsport.tv" tvg-logo="",Motorsport
+http://viperteam.ddns.net:25461/live/6666/6666/74606.m3u8
 #EXTINF:-1 tvg-name="Motorvision FHD" tvg-logo="",Motorvision FHD
+http://viperteam.ddns.net:25461/live/6666/6666/74603.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Sporting TV HD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/SPORTINGTV.png",Sporting TV
+http://viperteam.ddns.net:25461/live/6666/6666/74604.m3u8
 #EXTINF:-1 tvg-name="Motorvision" tvg-logo="",Motorvision
 #EXTINF:-1 tvg-name="Motorvision" tvg-logo="",Motorvision
 http://62.28.71.186:45678/http/192.168.150.173:7500/motorvision
