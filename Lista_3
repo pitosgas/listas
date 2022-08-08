@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",**** ATUALIZAR LISTA NO MENU ****
 http://naovalenada:8080/4KK_ZRpkRHw5m8nbgDACVDAINMsk8V-CmML8GkEnxKDVLUP3i87SKfjTsvC1aAuN/ts
+#EXTINF:-1 tvg-logo="",**** ATUALIZADA 08/08 ****
+http://naovalenada:8080/4KK_ZRpkRHw5m8nbgDACVDAINMsk8V-CmML8GkEnxKDVLUP3i87SKfjTsvC1aAuN/ts
 
 #EXTINF:-1 tvg-id="BENFICA" tvg-name=" BENFICA TV 1 FHD" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BENFICA TV 1 FHD
 http://viperteam.ddns.net:25461/live/6666/6666/74562.m3u8
