@@ -1,731 +1,351 @@
 #EXTM3U
-#EXTINF:-1,RTP 1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",RTP 1
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87304.ts
-#EXTINF:-1,RTP 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",RTP 2
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87305.ts
-#EXTINF:-1,RTP 2 ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",RTP 2 ??
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87286.ts
-#EXTINF:-1,SIC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",SIC
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87306.ts
-#EXTINF:-1,SIC ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",SIC ??
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87287.ts
-#EXTINF:-1,TVI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",TVI
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87307.ts
-#EXTINF:-1,TVI ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",TVI ??
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87288.ts
-#EXTINF:-1,PORTO CANAL ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",PORTO CANAL ??
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87289.ts
-#EXTINF:-1,SIC MULHER  ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",SIC MULHER  ??
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87290.ts
-#EXTINF:-1,GLOBO ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",GLOBO ??
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87291.ts
-#EXTINF:-1,GLOBO NOW  ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",GLOBO NOW  ??
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87292.ts
-#EXTINF:-1,TVI FICCAO ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",TVI FICCAO ??
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87293.ts
-#EXTINF:-1,TVI REALITY  ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",TVI REALITY  ??
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87294.ts
-#EXTINF:-1,SIC RADICAL ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",SIC RADICAL ??
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87295.ts
-#EXTINF:-1,BLAZE ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87296.ts
-#EXTINF:-1,SIC CARAS  ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",SIC CARAS  ??
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87297.ts
-#EXTINF:-1,TV RECORD ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",TV RECORD ??
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87298.ts
-#EXTINF:-1,FOOD NETWORK ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87299.ts
-#EXTINF:-1,TRAVEL CHANNEL  ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87300.ts
-#EXTINF:-1,RTP INTERNACIONAL  ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87301.ts
-#EXTINF:-1,SIC INTERNACIONAL  ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87302.ts
-#EXTINF:-1,ZAP VIVA ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87303.ts
-
-#EXTINF:-1,PORTO CANAL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",PORTO CANAL
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87308.ts
-#EXTINF:-1,CANAL 180
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87309.ts
-#EXTINF:-1,RTP AFRICA
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87310.ts
-#EXTINF:-1,SIC OPTO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",SIC OPTO
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87311.ts
-#EXTINF:-1,SIC MULHER
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",SIC MULHER
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87312.ts
-#EXTINF:-1,GLOBO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",GLOBO
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87313.ts
-#EXTINF:-1,GLOBO NOW
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",GLOBO NOW
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87314.ts
-#EXTINF:-1,TVI FICCAO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",TVI FICCAO
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87315.ts
-#EXTINF:-1,TVI REALITY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",TVI REALITY
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87316.ts
-#EXTINF:-1,TVI REALITY * MOSAICO *
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87317.ts
-#EXTINF:-1,TVI REALITY CAM 1
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87318.ts
-#EXTINF:-1,TVI REALITY CAM 2
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87319.ts
-#EXTINF:-1,TVI REALITY CAM 3
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87320.ts
-#EXTINF:-1,TVI REALITY CAM 4
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87321.ts
-#EXTINF:-1,RTP MEMORIA
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87322.ts
-#EXTINF:-1,CANAL Q
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87323.ts
-#EXTINF:-1,SIC RADICAL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",SIC RADICAL
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87324.ts
-#EXTINF:-1,MTV Portugal
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87325.ts
-#EXTINF:-1,FUEL TV
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87326.ts
-#EXTINF:-1,CRIME INVESTIGATION
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87327.ts
-#EXTINF:-1,CBS REALITY
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87328.ts
-#EXTINF:-1,SIC CARAS
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87329.ts
-#EXTINF:-1,E! ENTERTAINMENT
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87330.ts
-#EXTINF:-1,TV RECORD
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87331.ts
-#EXTINF:-1,TRAVEL CHANNEL
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87332.ts
-#EXTINF:-1,FASHION TV
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87333.ts
-#EXTINF:-1,TVI INTERNACIONAL
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87334.ts
-#EXTINF:-1,TCV INTERNACIONAL
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87335.ts
-#EXTINF:-1,CUBAVISIÐN INTERNACIONAL
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87336.ts
-#EXTINF:-1,BBC ENTERTAINMENT
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87337.ts
-#EXTINF:-1,CNBC EUROPE
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87338.ts
-#EXTINF:-1,DEUTSCHE WELLE
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87339.ts
-#EXTINF:-1,TPA INTERNACIONAL
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87340.ts
-#EXTINF:-1,TVE INTERNACIONAL
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87341.ts
-#EXTINF:-1,ICONCERTS
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87342.ts
-#EXTINF:-1,AMC CRIME
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87343.ts
-#EXTINF:-1,AMC BREAK
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87344.ts
-#EXTINF:-1,NOS STUDIOS ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87345.ts
-#EXTINF:-1,HOLLYWOOD ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87346.ts
-#EXTINF:-1,TVCINE TOP ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87347.ts
-#EXTINF:-1,TVCINE EDITION ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87348.ts
-#EXTINF:-1,TVCINE EMOTION ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87349.ts
-#EXTINF:-1,TVCINE ACTION ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87350.ts
-#EXTINF:-1,FOX MOVIES ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87351.ts
-#EXTINF:-1,CINEMUNDO ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87352.ts
-#EXTINF:-1,AMC ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87353.ts
-#EXTINF:-1,AXN MOVIES ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87354.ts
-#EXTINF:-1,FOX ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87355.ts
-#EXTINF:-1,FOX LIFE ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87356.ts
-#EXTINF:-1,FOX CRIME ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87357.ts
-#EXTINF:-1,FOX COMEDY ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87358.ts
-#EXTINF:-1,AXN ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87359.ts
-#EXTINF:-1,AXN WHITE ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87360.ts
-#EXTINF:-1,SYFY ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87361.ts
-#EXTINF:-1,NOS STUDIOS
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87362.ts
-#EXTINF:-1,HOLLYWOOD
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87363.ts
-#EXTINF:-1,TVCINE TOP
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87364.ts
-#EXTINF:-1,TVCINE EDITION
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87365.ts
-#EXTINF:-1,TVCINE EMOTION
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87366.ts
-#EXTINF:-1,TVCINE ACTION
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87367.ts
-#EXTINF:-1,FOX MOVIES
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87368.ts
-#EXTINF:-1,CINEMUNDO
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87369.ts
-#EXTINF:-1,AMC
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87370.ts
-#EXTINF:-1,AXN MOVIES
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87371.ts
-#EXTINF:-1,FOX
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87372.ts
-#EXTINF:-1,FOX LIFE
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87373.ts
-#EXTINF:-1,FOX CRIME
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87374.ts
-#EXTINF:-1,FOX COMEDY
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87375.ts
-#EXTINF:-1,AXN
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87376.ts
-#EXTINF:-1,AXN WHITE
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87377.ts
-#EXTINF:-1,SYFY
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87378.ts
-#EXTINF:-1,Canal Panda ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87379.ts
-#EXTINF:-1,SIC K ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87380.ts
-#EXTINF:-1,LOLLY KIDS ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87381.ts
-#EXTINF:-1,DISNEY CHANNEL
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87382.ts
-#EXTINF:-1,NICKELODEON
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87383.ts
-#EXTINF:-1,Canal Panda
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87384.ts
-#EXTINF:-1,PANDA BIGGS
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87385.ts
-#EXTINF:-1,DISNEY JUNIOR
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87386.ts
-#EXTINF:-1,DISNEY +
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87387.ts
-#EXTINF:-1,CARTOON NETWORK
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87388.ts
-#EXTINF:-1,NICK JR
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87389.ts
-#EXTINF:-1,BABY TV
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87390.ts
-#EXTINF:-1,SIC K
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87391.ts
-#EXTINF:-1,JIM JAM
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87392.ts
-#EXTINF:-1,A BOLA ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87393.ts
-#EXTINF:-1,CANAL 11 ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87394.ts
-#EXTINF:-1,SPORT TV + ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87395.ts
-#EXTINF:-1,BTV ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87396.ts
-#EXTINF:-1,SPORTING TV ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87397.ts
-#EXTINF:-1,SPORT TV 1 ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87398.ts
-#EXTINF:-1,SPORT TV 2 ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87399.ts
-#EXTINF:-1,SPORT TV 3 ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87400.ts
-#EXTINF:-1,SPORT TV 4 ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87401.ts
-#EXTINF:-1,SPORT TV 5 ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87402.ts
-#EXTINF:-1,SPORT TV 6 ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87403.ts
-#EXTINF:-1,SPORT TV NBA ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87404.ts
-#EXTINF:-1,ELEVEN SPORTS 1 ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87405.ts
-#EXTINF:-1,ELEVEN SPORTS 2 ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87406.ts
-#EXTINF:-1,ELEVEN SPORTS 3 ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87407.ts
-#EXTINF:-1,ELEVEN SPORTS 4 ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87408.ts
-#EXTINF:-1,ELEVEN SPORTS 5 ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87409.ts
-#EXTINF:-1,ELEVEN SPORTS 6 ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87410.ts
-#EXTINF:-1,EUROSPORT 1 ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87411.ts
-#EXTINF:-1,EUROSPORT 2 ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87412.ts
-#EXTINF:-1,RedBull TV ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87413.ts
-#EXTINF:-1,A BOLA TV
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87414.ts
-#EXTINF:-1,SPORT TV +
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87415.ts
-#EXTINF:-1,BTV
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87416.ts
-#EXTINF:-1,SPORTING TV
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87417.ts
-#EXTINF:-1,SPORT TV 1
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87418.ts
-#EXTINF:-1,SPORT TV 2
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87419.ts
-#EXTINF:-1,SPORT TV 3
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87420.ts
-#EXTINF:-1,SPORT TV 4
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87421.ts
-#EXTINF:-1,SPORT TV 5
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87422.ts
-#EXTINF:-1,ELEVEN SPORTS 1
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87423.ts
-#EXTINF:-1,ELEVEN SPORTS 2
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87424.ts
-#EXTINF:-1,ELEVEN SPORTS 3
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87425.ts
-#EXTINF:-1,ELEVEN SPORTS 4
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87426.ts
-#EXTINF:-1,ELEVEN SPORTS 5
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87427.ts
-#EXTINF:-1,ELEVEN SPORTS 6
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87428.ts
-#EXTINF:-1,EUROSPORT 1
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87429.ts
-#EXTINF:-1,EUROSPORT 2
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87430.ts
-#EXTINF:-1,PFC
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87431.ts
-#EXTINF:-1,MOTORVISION
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87432.ts
-#EXTINF:-1,RTP ARENA
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87433.ts
-#EXTINF:-1,EURONEWS HD
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87434.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87435.ts
-#EXTINF:-1,ID INVESTIGATION DISCOVERY ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87436.ts
-#EXTINF:-1,24 KITCHEN ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87437.ts
-#EXTINF:-1,CACA E PESCA ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87438.ts
-#EXTINF:-1,CASA E COZINHA ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87439.ts
-#EXTINF:-1,SIC NOTICIAS ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87440.ts
-#EXTINF:-1,RTP 3 ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87441.ts
-#EXTINF:-1,TVI 24  ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87442.ts
-#EXTINF:-1,CMTV  ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87443.ts
-#EXTINF:-1,DISCOVERY CHANNEL [Backups]
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87444.ts
-#EXTINF:-1,DISCOVERY CHANNEL
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87445.ts
-#EXTINF:-1,CANAL HISTORIA
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87446.ts
-#EXTINF:-1,ODISSEIA
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87447.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87448.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87449.ts
-#EXTINF:-1,TLC - TLC
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87450.ts
-#EXTINF:-1,KURIAKOS TV
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87451.ts
-#EXTINF:-1,CACAVISION
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87452.ts
-#EXTINF:-1,TOROS TV
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87453.ts
-#EXTINF:-1,FATIMA TV
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87454.ts
-#EXTINF:-1,SIC NOTICIAS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",SIC NOTICIAS
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87455.ts
-#EXTINF:-1,RTP 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",RTP 3
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87456.ts
-#EXTINF:-1,TVI 24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",TVI 24  ??
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87442.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",CMTV  ??
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87443.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",TVI 24
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87457.ts
-#EXTINF:-1,CMTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",CMTV
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87458.ts
-#EXTINF:-1,RTP MADEIRA
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87459.ts
-#EXTINF:-1,RTP ACORES
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87460.ts
-#EXTINF:-1,ARTV
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87461.ts
-#EXTINF:-1,RECORD NEWS
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87462.ts
-#EXTINF:-1,EURONEWS
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87463.ts
-#EXTINF:-1,CNN
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87464.ts
-#EXTINF:-1,BLOOMBERG
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87465.ts
-#EXTINF:-1,TVE Internacional 24H
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87466.ts
-#EXTINF:-1,MEZZO LIVE ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87467.ts
-#EXTINF:-1,ALMA LUSA ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87468.ts
-#EXTINF:-1,TRACE BRAZUCA ᴴᴰ
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87469.ts
-#EXTINF:-1,TRACE URBAN
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87470.ts
-#EXTINF:-1,TRACE TOCA
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87471.ts
-#EXTINF:-1,MCM POP
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87472.ts
-#EXTINF:-1,MCM TOP
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87473.ts
-#EXTINF:-1,AFRO MUSIC
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87474.ts
-#EXTINF:-1,MEZZO Live
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87475.ts
-#EXTINF:-1,MTV 00s
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87476.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",MTV Portugal
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87325.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",FUEL TV
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87326.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",CRIME INVESTIGATION
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87327.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",SIC CARAS
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87329.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",E! ENTERTAINMENT
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87330.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",TV RECORD
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87331.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",HOLLYWOOD ??
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87346.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",TVCINE TOP ??
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87347.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",TVCINE EDITION ??
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87348.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",TVCINE EMOTION ??
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87349.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",TVCINE ACTION ??
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87350.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",FOX MOVIES ??
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87351.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",CINEMUNDO ??
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87352.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",AMC ??
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87353.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",AXN MOVIES ??
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87354.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",FOX ??
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87355.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",FOX LIFE ??
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87356.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",FOX CRIME ??
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87357.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",FOX COMEDY ??
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87358.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",AXN ??
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87359.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",AXN WHITE ??
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87360.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",SYFY ??
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87361.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",NOS STUDIOS
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87362.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",HOLLYWOOD
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87363.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",TVCINE TOP
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87364.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",TVCINE EDITION
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87365.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",TVCINE EMOTION
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87366.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",TVCINE ACTION
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87367.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",A BOLA ??
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87393.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",CANAL 11 ??
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87394.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",SPORT TV + ??
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87395.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",BTV ??
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87396.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",SPORTING TV ??
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87397.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",SPORT TV 1 ??
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87398.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",SPORT TV 2 ??
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87399.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",SPORT TV 3 ??
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87400.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",SPORT TV 4 ??
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87401.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",SPORT TV 5 ??
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87402.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",SPORT TV 6 ??
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87403.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",SPORT TV NBA ??
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87404.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",ELEVEN SPORTS 1 ??
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87405.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",ELEVEN SPORTS 2 ??
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87406.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",ELEVEN SPORTS 3 ??
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87407.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",ELEVEN SPORTS 4 ??
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87408.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",ELEVEN SPORTS 5 ??
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87409.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",ELEVEN SPORTS 6 ??
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87410.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",EUROSPORT 1 ??
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87411.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",EUROSPORT 2 ??
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87412.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",A BOLA TV
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87414.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",SPORT TV +
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87415.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",BTV
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87416.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",SPORTING TV
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87417.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",SPORT TV 1
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87418.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",SPORT TV 2
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87419.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",SPORT TV 3
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87420.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",SPORT TV 4
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87421.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",SPORT TV 5
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87422.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",ELEVEN SPORTS 1
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87423.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",ELEVEN SPORTS 2
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87424.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",ELEVEN SPORTS 3
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87425.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",ELEVEN SPORTS 4
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87426.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",ELEVEN SPORTS 5
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87427.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",ELEVEN SPORTS 6
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87428.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",EUROSPORT 1
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87429.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",EUROSPORT 2
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87430.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",RTP ARENA
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87433.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",EURONEWS HD
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87434.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",NATIONAL GEOGRAPHIC ??
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87435.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",DISCOVERY CHANNEL [Backups]
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87444.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",DISCOVERY CHANNEL
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87445.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",CANAL HISTORIA
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87446.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",ODISSEIA
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87447.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",NATIONAL GEOGRAPHIC
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87448.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 1",NATIONAL GEOGRAPHIC WILD
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87449.ts
 
-#EXTINF:-1,RTP 1 HD PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",RTP 1 HD PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/7231
-#EXTINF:-1,RTP 1 PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",RTP 1 PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1721
-#EXTINF:-1,RTP 2 HD PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",RTP 2 HD PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/81072
-#EXTINF:-1,RTP 2 PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",RTP 2 PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1722
-#EXTINF:-1,SIC HD PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",SIC HD PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/7232
-#EXTINF:-1,SIC PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",SIC PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1723
-#EXTINF:-1,SIC LOW PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",SIC LOW PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/9541
-#EXTINF:-1,TVI HD PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",TVI HD PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/7234
-#EXTINF:-1,TVI PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",TVI PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1724
-#EXTINF:-1,TVI LOW PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",TVI LOW PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/9540
-#EXTINF:-1,TVI FICÇAO HD PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",TVI FICÇAO HD PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/113948
-#EXTINF:-1,TVI FICCAO PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",TVI FICCAO PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1716
-#EXTINF:-1,TVI REALITY 24 PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",TVI REALITY 24 PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1666
-#EXTINF:-1,TVI REALITY MOSAICO PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",TVI REALITY MOSAICO PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/26560
-#EXTINF:-1,SIC MULHER HD PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",SIC MULHER HD PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/18560
-#EXTINF:-1,SIC MULHER PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",SIC MULHER PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1727
-#EXTINF:-1,SIC CARAS HD PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",SIC CARAS HD PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/81073
-#EXTINF:-1,SIC CARAS PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",SIC CARAS PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1728
-#EXTINF:-1,SIC RADICAL HD PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",SIC RADICAL HD PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/19886
-#EXTINF:-1,SIC RADICAL PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",SIC RADICAL PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1729
-#EXTINF:-1,CANAL Q PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1733
-#EXTINF:-1,PORTO CANAL HD PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/18559
-#EXTINF:-1,PORTO CANAL PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1734
-#EXTINF:-1,RTP AFRICA PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1690
-#EXTINF:-1,RTP ACORES PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/3265
-#EXTINF:-1,RTP MEMORIA PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/4484
-#EXTINF:-1,RTP INTERNATIONAL PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/3744
-#EXTINF:-1,RTP MADEIRA PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/3266
-#EXTINF:-1,SIC NOTICIAS HD PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",SIC NOTICIAS HD PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/18561
-#EXTINF:-1,SIC NOTICIAS PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",SIC NOTICIAS PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1725
-#EXTINF:-1,CNN PORTUGAL HD PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",CNN PORTUGAL HD PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/113947
-#EXTINF:-1,CNN PORTUGAL PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",CNN PORTUGAL PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1726
-#EXTINF:-1,CMTV HD PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",CMTV HD PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/7235
-#EXTINF:-1,CMTV PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",CMTV PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1732
-#EXTINF:-1,RTP 3 HD PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",RTP 3 HD PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/81071
-#EXTINF:-1,RTP 3 PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",RTP 3 PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/3259
-#EXTINF:-1,ARTV PARLAMENTO PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/4493
-#EXTINF:-1,CANAL 11 FPF HD PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/92824
-#EXTINF:-1,CANAL 11 FPF HD LOW PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/117513
-#EXTINF:-1,SPORT TV + HD PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",SPORT TV + HD PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/7238
-#EXTINF:-1,SPORT TV + PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",SPORT TV + PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/4494
-#EXTINF:-1,SPORT TV 1 HD PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",SPORT TV 1 HD PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1736
-#EXTINF:-1,SPORT TV 1 HD LOW PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",SPORT TV 1 HD LOW PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/9538
-#EXTINF:-1,SPORT TV 2 HD PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",SPORT TV 2 HD PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1737
-#EXTINF:-1,SPORT TV 2 HD LOW PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",SPORT TV 2 HD LOW PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/9539
-#EXTINF:-1,SPORT TV 3 HD PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",SPORT TV 3 HD PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1738
-#EXTINF:-1,SPORT TV 3 HD LOW PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",SPORT TV 3 HD LOW PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/24579
-#EXTINF:-1,SPORT TV 4 HD PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",SPORT TV 4 HD PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1739
-#EXTINF:-1,SPORT TV 4 HD LOW PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",SPORT TV 4 HD LOW PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/24580
-#EXTINF:-1,SPORT TV 5 HD PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",SPORT TV 5 HD PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1740
-#EXTINF:-1,SPORT TV 5 HD LOW PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",SPORT TV 5 HD LOW PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/24581
-#EXTINF:-1,SPORT TV 6 HD PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",SPORT TV 6 HD PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/290555
-#EXTINF:-1,SPORT TV 6 HD LOW PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",SPORT TV 6 HD LOW PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/290556
-#EXTINF:-1,ELEVEN SPORTS 1 HD PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",ELEVEN SPORTS 1 HD PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/31399
-#EXTINF:-1,ELEVEN SPORTS 1 HD LOW PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",ELEVEN SPORTS 1 HD LOW PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/38934
-#EXTINF:-1,ELEVEN SPORTS 2 HD PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",ELEVEN SPORTS 2 HD PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/31398
-#EXTINF:-1,ELEVEN SPORTS 2 HD LOW PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",ELEVEN SPORTS 2 HD LOW PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/38946
-#EXTINF:-1,ELEVEN SPORTS 3 HD PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",ELEVEN SPORTS 3 HD PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/31397
-#EXTINF:-1,ELEVEN SPORTS 3 HD LOW PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",ELEVEN SPORTS 3 HD LOW PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/39074
-#EXTINF:-1,ELEVEN SPORTS 4 HD PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",ELEVEN SPORTS 4 HD PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/31396
-#EXTINF:-1,ELEVEN SPORTS 4 HD LOW PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",ELEVEN SPORTS 4 HD LOW PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/39075
-#EXTINF:-1,ELEVEN SPORTS 5 HD PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",ELEVEN SPORTS 5 HD PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/31395
-#EXTINF:-1,ELEVEN SPORTS 5 HD LOW PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",ELEVEN SPORTS 5 HD LOW PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/39076
-#EXTINF:-1,ELEVEN SPORTS 6 HD PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",ELEVEN SPORTS 6 HD PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/31394
-#EXTINF:-1,ELEVEN SPORTS 6 HD LOW PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",ELEVEN SPORTS 6 HD LOW PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/39077
-#EXTINF:-1,BENFICA TV 1 HD PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",BENFICA TV 1 HD PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/8668
-#EXTINF:-1,BENFICA TV 1 HD LOW PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",BENFICA TV 1 HD LOW PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/9542
-#EXTINF:-1,BENFICA TV 1 PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",BENFICA TV 1 PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/4497
-#EXTINF:-1,SPORTING TV HD PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/7239
-#EXTINF:-1,SPORTING TV PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1743
-#EXTINF:-1,A BOLA TV HD PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",A BOLA TV HD PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/113945
-#EXTINF:-1,A BOLA TV PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",A BOLA TV PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1744
-#EXTINF:-1,PFC PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1747
-#EXTINF:-1,SPORT TV NBA HD PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/18558
-#EXTINF:-1,SPORT TV NBA PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/4485
-#EXTINF:-1,EUROSPORT HD PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",EUROSPORT HD PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/7251
-#EXTINF:-1,EUROSPORT PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",EUROSPORT PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1745
-#EXTINF:-1,EUROSPORT 2 PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",EUROSPORT 2 PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1746
-#EXTINF:-1,FIGHT NETWORK PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/7240
-#EXTINF:-1,FUEL TV PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1702
-#EXTINF:-1,MOTORVISION PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1748
-#EXTINF:-1,TVCINE TOP HD PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/3745
-#EXTINF:-1,TVCINE TOP PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1750
-#EXTINF:-1,TVCINE EDITION HD PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/3746
-#EXTINF:-1,TVCINE EDITION PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1751
-#EXTINF:-1,TVCINE EMOTION HD PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/3747
-#EXTINF:-1,TVCINE EMOTION PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1752
-#EXTINF:-1,TVCINE ACTION HD PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/3748
-#EXTINF:-1,TVCINE ACTION PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1753
-#EXTINF:-1,NOS STUDIOS HD PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/87555
-#EXTINF:-1,HOLLYWOOD HD PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/7230
-#EXTINF:-1,HOLLYWOOD PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1756
-#EXTINF:-1,CINEMUNDO HD PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/81078
-#EXTINF:-1,CINEMUNDO PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1687
-#EXTINF:-1,AMC HD PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/7248
-#EXTINF:-1,AMC PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1686
-#EXTINF:-1,AMC BREAK HD PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/113946
-#EXTINF:-1,AMC BREAK PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1710
-#EXTINF:-1,AMC CRIME PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/18554
-#EXTINF:-1,FOX MOVIES HD PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/7249
-#EXTINF:-1,FOX MOVIES PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1698
-#EXTINF:-1,FOX HD PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1718
-#EXTINF:-1,FOX CRIME HD PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1758
-#EXTINF:-1,FOX CRIME PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/18557
-#EXTINF:-1,FOX LIFE HD PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1757
-#EXTINF:-1,FOX LIFE PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/18556
-#EXTINF:-1,FOX COMEDY HD PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/19941
-#EXTINF:-1,FOX COMEDY PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/3261
-#EXTINF:-1,AXN HD PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1720
-#EXTINF:-1,AXN WHITE HD PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1759
-#EXTINF:-1,AXN WHITE PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/18552
-#EXTINF:-1,AXN MOVIES HD PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1760
-#EXTINF:-1,AXN MOVIES PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/18553
-#EXTINF:-1,SYFY HD PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/7246
-#EXTINF:-1,SYFY PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1755
-#EXTINF:-1,NAT. GEOGRAPHIC HD PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1714
-#EXTINF:-1,NAT. GEOGRAPHIC PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/42279
-#EXTINF:-1,NAT GEO WILD HD PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/20010
-#EXTINF:-1,NAT GEO WILD PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1764
-#EXTINF:-1,DISCOVERY CHANNEL HD PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",DISCOVERY CHANNEL HD PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/149891
-#EXTINF:-1,DISCOVERY CHANNEL PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",DISCOVERY CHANNEL PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1765
-#EXTINF:-1,CANAL HISTORIA PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",CANAL HISTORIA PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1688
-#EXTINF:-1,ODISSEIA HD PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/81074
-#EXTINF:-1,ODISSEIA PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1706
-#EXTINF:-1,ID INVESTIGATION DISCOVERY HD PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/57767
-#EXTINF:-1,CACA E PESCA PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1749
-#EXTINF:-1,CACAVISION PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1719
-#EXTINF:-1,TOROS TV PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1704
-#EXTINF:-1,DISNEY CHANNEL HD PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/281412
-#EXTINF:-1,DISNEY CHANNEL PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1708
-#EXTINF:-1,DISNEY JUNIOR PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1767
-#EXTINF:-1,CANAL PANDA PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1709
-#EXTINF:-1,PANDA BIGGS PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1705
-#EXTINF:-1,BABY TV PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1769
-#EXTINF:-1,NICKELODEON PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1768
-#EXTINF:-1,NICK JR. PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/18565
-#EXTINF:-1,SIC K HD PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/7233
-#EXTINF:-1,SIC K PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1766
-#EXTINF:-1,CARTOON NETWORK PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1691
-#EXTINF:-1,BOOMERANG PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/158399
-#EXTINF:-1,CBS REALITY PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/2870
-#EXTINF:-1,E! ENTERTAINMENT HD PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1761
-#EXTINF:-1,KURIAKOS TV HD PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/19931
-#EXTINF:-1,LOCALVISAO HD PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/7244
-#EXTINF:-1,FOOD NETWORK HD PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/19885
-#EXTINF:-1,TLC PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1762
-#EXTINF:-1,FASHION TV PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/7255
-#EXTINF:-1,TRAVEL CHANNEL HD PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1692
-#EXTINF:-1,CANCAO NOVA PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/3262
-#EXTINF:-1,SANTUARIO FATIMA PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/4483
-#EXTINF:-1,CASA &amp; COZINHA HD PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/130160
-#EXTINF:-1,24 KITCHEN HD PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/283572
-#EXTINF:-1,24 KITCHEN PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1763
-#EXTINF:-1,DOG TV PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/7236
-#EXTINF:-1,GLOBO HD PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",GLOBO HD PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/81076
-#EXTINF:-1,GLOBO PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",GLOBO PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1697
-#EXTINF:-1,GLOBO NOW PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",GLOBO NOW PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1696
-#EXTINF:-1,TV RECORD HD PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",TV RECORD HD PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/18551
-#EXTINF:-1,TV RECORD PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lista 2",TV RECORD PT
 http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1735
-#EXTINF:-1,EURONEWS PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/211447
-#EXTINF:-1,TPA PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/2874
-#EXTINF:-1,ZAP VIVA HD PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/81117
-#EXTINF:-1,TCV INTERNACIONAL PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/18550
-#EXTINF:-1,MCM POP PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/59392
-#EXTINF:-1,MTV HD PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/81075
-#EXTINF:-1,MTV PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/3260
-#EXTINF:-1,MTV 80s PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/7253
-#EXTINF:-1,MTV 00's PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1703
-#EXTINF:-1,AFRO TV PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/1700
-#EXTINF:-1,TRACE TOCA PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/283919
-#EXTINF:-1,TRACE URBAN PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/4482
-#EXTINF:-1,ICONCERTS HD PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/7242
-#EXTINF:-1,MEZZO PT
-http://dont.t-v.io:80/IUs1dAol/1LcJl3yH3f/4486
