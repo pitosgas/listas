@@ -44,4 +44,8 @@
 <page>https://v3.sportsonline.to/channels/pt/sporttv1.php</page>
 </regex>
 </item>
+<item>
+<title>Sportv1</title>        
+<link>https://v3.sportsonline.to/channels/pt/sporttv1.php</link>
+</item>
 </channel>
