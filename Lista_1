@@ -1,182 +1,47 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="",**** ATUALIZAR LISTA NO MENU ****
-http://naovalenada:8080/4KK_ZRpkRHw5m8nbgDACVDAINMsk8V-CmML8GkEnxKDVLUP3i87SKfjTsvC1aAuN/ts
-
-#EXTINF:-1 tvg-id="" tvg-name=" RTP 1" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/RTP1.png", RTP 1
-http://viperteam.ddns.net:25461/live/6666/6666/74539.ts
-#EXTINF:-1 tvg-id="" tvg-name=" RTP 2 HD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/RTP2.png", RTP 2 HD
-http://viperteam.ddns.net:25461/live/6666/6666/74540.ts
-#EXTINF:-1 tvg-id="" tvg-name=" RTP 3" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/RTP3.png", RTP 3
-http://viperteam.ddns.net:25461/live/6666/6666/74541.ts
-#EXTINF:-1 tvg-id="" tvg-name=" RTP Memoria" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/RTPMEMORIA.png", RTP Memoria
-http://viperteam.ddns.net:25461/live/6666/6666/74543.ts
-#EXTINF:-1 tvg-id="" tvg-name=" Tvi 24" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/TVI24.png", Tvi 24
-http://viperteam.ddns.net:25461/live/6666/6666/74545.ts
-#EXTINF:-1 tvg-id="" tvg-name=" TVI Reality" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/TVI.png", TVI Reality
-http://viperteam.ddns.net:25461/live/6666/6666/74546.ts
-#EXTINF:-1 tvg-id="" tvg-name=" TVI FICCAO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d0/TVI_fic%C3%A7%C3%A3o.png", TVI FICCAO
-http://viperteam.ddns.net:25461/live/6666/6666/74547.ts
-#EXTINF:-1 tvg-id="" tvg-name=" Sic HD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/SIC.png", Sic HD
-http://viperteam.ddns.net:25461/live/6666/6666/74549.ts
-#EXTINF:-1 tvg-id="" tvg-name=" SIC Radicalll" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/SIC.png", SIC Radicalll
-http://viperteam.ddns.net:25461/live/6666/6666/74550.ts
-#EXTINF:-1 tvg-id="" tvg-name=" SIC NOTICIAS" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/SIC.png", SIC NOTICIAS
-http://viperteam.ddns.net:25461/live/6666/6666/74551.ts
-#EXTINF:-1 tvg-id="" tvg-name=" SIC Mulher" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/SIC.png", SIC Mulher
-http://viperteam.ddns.net:25461/live/6666/6666/74552.ts
-#EXTINF:-1 tvg-id="" tvg-name=" CMTV" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/CMTV.png", CMTV
-http://viperteam.ddns.net:25461/live/6666/6666/74553.ts
-#EXTINF:-1 tvg-id="" tvg-name=" SYFY" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/SYFYHD.png", SYFY
-http://viperteam.ddns.net:25461/live/6666/6666/74554.ts
-#EXTINF:-1 tvg-id="" tvg-name=" AXN HD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/AXNHD.png", AXN HD
-http://viperteam.ddns.net:25461/live/6666/6666/74555.ts
-#EXTINF:-1 tvg-id="" tvg-name=" E ENTERTAINMENT" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/E!ENTERTAINMENT.png", E ENTERTAINMENT
-http://viperteam.ddns.net:25461/live/6666/6666/74556.ts
-#EXTINF:-1 tvg-id="" tvg-name=" AXN WHITE HD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/AXNWHITE.png", AXN WHITE HD
-http://viperteam.ddns.net:25461/live/6666/6666/74557.ts
-#EXTINF:-1 tvg-id="" tvg-name=" AXN BLACK" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/AXNBLACK.png", AXN BLACK
-http://viperteam.ddns.net:25461/live/6666/6666/74558.ts
-#EXTINF:-1 tvg-id="" tvg-name=" FOX HD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/FOXHD.png", FOX HD
-http://viperteam.ddns.net:25461/live/6666/6666/74559.ts
-#EXTINF:-1 tvg-id="" tvg-name=" FOX COMEDY" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/FOXHD.png", FOX COMEDY
-http://viperteam.ddns.net:25461/live/6666/6666/74560.ts
-#EXTINF:-1 tvg-id="" tvg-name=" A Bola TV" tvg-logo="", A Bola TV
-http://viperteam.ddns.net:25461/live/6666/6666/74561.ts
-#EXTINF:-1 tvg-id="" tvg-name=" BENFICA TV 1 HD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/BENFICATV1HD.png", BENFICA TV 1 HD
-http://viperteam.ddns.net:25461/live/6666/6666/74562.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: NOS STUDIOS FHD" tvg-logo="",PT: NOS STUDIOS FHD
-http://viperteam.ddns.net:25461/live/6666/6666/74563.ts
-#EXTINF:-1 tvg-id="" tvg-name=" CANAL 11" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/CANALQ.png", CANAL 11
-http://viperteam.ddns.net:25461/live/6666/6666/74564.ts
-#EXTINF:-1 tvg-id="" tvg-name=" Cano Nova" tvg-logo="", Cano Nova
-http://viperteam.ddns.net:25461/live/6666/6666/74565.ts
-#EXTINF:-1 tvg-id="" tvg-name=" Porto Canal" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/PORTOCANAL.png", Porto Canal
-http://viperteam.ddns.net:25461/live/6666/6666/74566.ts
-#EXTINF:-1 tvg-id="" tvg-name=" RTP Acores" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/RTPACORES.png", RTP Acores
-http://viperteam.ddns.net:25461/live/6666/6666/74567.ts
-#EXTINF:-1 tvg-id="" tvg-name=" FOX CRIME" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/FOXHD.png", FOX CRIME
-http://viperteam.ddns.net:25461/live/6666/6666/74569.ts
-#EXTINF:-1 tvg-id="" tvg-name=" Fox Life HD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/FOXHD.png", Fox Life HD
-http://viperteam.ddns.net:25461/live/6666/6666/74570.ts
-#EXTINF:-1 tvg-id="" tvg-name=" Sport TV 1 FHD" tvg-logo="", Sport TV 1 FHD
-http://viperteam.ddns.net:25461/live/6666/6666/74571.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT TVCiNE TOP" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/TVCINE1.png",|PT TVCiNE TOP
-http://viperteam.ddns.net:25461/live/6666/6666/74572.ts
-#EXTINF:-1 tvg-id="" tvg-name=" TVCINE EMOTON" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/TVCINE2.png", TVCINE EMOTON
-http://viperteam.ddns.net:25461/live/6666/6666/74573.ts
-#EXTINF:-1 tvg-id="" tvg-name=" TVCINE ACTION " tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/TVCINE3.png", TVCINE ACTION 
-http://viperteam.ddns.net:25461/live/6666/6666/74575.ts
-#EXTINF:-1 tvg-id="" tvg-name=" TVCINE EDITION " tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/TVCINE4.png", TVCINE EDITION 
-http://viperteam.ddns.net:25461/live/6666/6666/74576.ts
-#EXTINF:-1 tvg-id="" tvg-name=" FOX MOVIES" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/FOXHD.png", FOX MOVIES
-http://viperteam.ddns.net:25461/live/6666/6666/74578.ts
-#EXTINF:-1 tvg-id="" tvg-name=" CINE MUNDO" tvg-logo="", CINE MUNDO
-http://viperteam.ddns.net:25461/live/6666/6666/74579.ts
-#EXTINF:-1 tvg-id="" tvg-name=" Hollywood FHD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/HOLLYWOODHD.png", Hollywood FHD
-http://viperteam.ddns.net:25461/live/6666/6666/74580.ts
-#EXTINF:-1 tvg-id="" tvg-name=" TV Series FHD" tvg-logo="", TV Series FHD
-http://viperteam.ddns.net:25461/live/6666/6666/74581.ts
-#EXTINF:-1 tvg-id="" tvg-name=" TVI FHD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/TVI.png", TVI FHD
-http://viperteam.ddns.net:25461/live/6666/6666/74582.ts
-#EXTINF:-1 tvg-id="" tvg-name=" Sport TV 1" tvg-logo="", Sport TV 1
-http://viperteam.ddns.net:25461/live/6666/6666/74584.ts
-#EXTINF:-1 tvg-id="" tvg-name=" Sport TV 2 FHD" tvg-logo="", Sport TV 2 FHD
-http://viperteam.ddns.net:25461/live/6666/6666/74585.ts
-#EXTINF:-1 tvg-id="" tvg-name=" Sport TV 2" tvg-logo="", Sport TV 2
-http://viperteam.ddns.net:25461/live/6666/6666/74586.ts
-#EXTINF:-1 tvg-id="" tvg-name=" Sport TV 3 FHD" tvg-logo="", Sport TV 3 FHD
-http://viperteam.ddns.net:25461/live/6666/6666/74587.ts
-#EXTINF:-1 tvg-id="" tvg-name=" Sport TV 3" tvg-logo="", Sport TV 3
-http://viperteam.ddns.net:25461/live/6666/6666/74588.ts
-#EXTINF:-1 tvg-id="" tvg-name=" SPORT TV 4 HD" tvg-logo="", SPORT TV 4 HD
-http://viperteam.ddns.net:25461/live/6666/6666/74589.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 HD" tvg-logo="",PT: SPORT TV 5 HD
-http://viperteam.ddns.net:25461/live/6666/6666/74590.ts
-#EXTINF:-1 tvg-id="" tvg-name=" Eleven Sports 1" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/ELEVENSPORTS.png", Eleven Sports 1
-http://viperteam.ddns.net:25461/live/6666/6666/74591.ts
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2 [HVEC/H265]" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/ELEVENSPORTS.png",ELEVEN SPORTS 2 [HVEC/H265]
-http://viperteam.ddns.net:25461/live/6666/6666/74592.ts
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3 [HVEC/H265]" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/ELEVENSPORTS.png",ELEVEN SPORTS 3 [HVEC/H265]
-http://viperteam.ddns.net:25461/live/6666/6666/74593.ts
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 4 [HVEC/H265]" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/ELEVENSPORTS.png",ELEVEN SPORTS 4 [HVEC/H265]
-http://viperteam.ddns.net:25461/live/6666/6666/74594.ts
-#EXTINF:-1 tvg-id="" tvg-name=" Eleven Sports 5" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/ELEVENSPORTS.png", Eleven Sports 5
-http://viperteam.ddns.net:25461/live/6666/6666/74595.ts
-#EXTINF:-1 tvg-id="" tvg-name=" Eleven Sports 6" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/ELEVENSPORTS.png", Eleven Sports 6
-http://viperteam.ddns.net:25461/live/6666/6666/74596.ts
-#EXTINF:-1 tvg-id="" tvg-name=" EUROSPORT 1" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/EUROSPORT1.png", EUROSPORT 1
-http://viperteam.ddns.net:25461/live/6666/6666/74598.ts
-#EXTINF:-1 tvg-id="" tvg-name=" EUROSPORT 2" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/EUROSPORT2.png", EUROSPORT 2
-http://viperteam.ddns.net:25461/live/6666/6666/74599.ts
-#EXTINF:-1 tvg-id="" tvg-name=" MOTORS TV" tvg-logo="", MOTORS TV
-http://viperteam.ddns.net:25461/live/6666/6666/74603.ts
-#EXTINF:-1 tvg-id="" tvg-name=" Sporting TV HD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/SPORTINGTV.png", Sporting TV HD
-http://viperteam.ddns.net:25461/live/6666/6666/74604.ts
-#EXTINF:-1 tvg-id="" tvg-name=" NBA TV" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/NBATV.png", NBA TV
-http://viperteam.ddns.net:25461/live/6666/6666/74605.ts
-#EXTINF:-1 tvg-id="" tvg-name=" Motorvision" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/MOTORVISION.png", Motorvision
-http://viperteam.ddns.net:25461/live/6666/6666/74606.ts
-#EXTINF:-1 tvg-id="" tvg-name=" Toros TV" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/TOROS.png", Toros TV
-http://viperteam.ddns.net:25461/live/6666/6666/74607.ts
-#EXTINF:-1 tvg-id="" tvg-name=" PFC HD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/PFC.png", PFC HD
-http://viperteam.ddns.net:25461/live/6666/6666/74608.ts
-#EXTINF:-1 tvg-id="" tvg-name=" MTV Dance" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/MTVPORTUGAL.png", MTV Dance
-http://viperteam.ddns.net:25461/live/6666/6666/74609.ts
-#EXTINF:-1 tvg-id="" tvg-name=" MTV Hits" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/MTVPORTUGAL.png", MTV Hits
-http://viperteam.ddns.net:25461/live/6666/6666/74610.ts
-#EXTINF:-1 tvg-id="" tvg-name=" MTV Portugal" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/MTVPORTUGAL.png", MTV Portugal
-http://viperteam.ddns.net:25461/live/6666/6666/74611.ts
-#EXTINF:-1 tvg-id="" tvg-name=" MTV Rocks" tvg-logo="", MTV Rocks
-http://viperteam.ddns.net:25461/live/6666/6666/74612.ts
-#EXTINF:-1 tvg-id="" tvg-name=" VH1" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/VH1.png", VH1
-http://viperteam.ddns.net:25461/live/6666/6666/74613.ts
-#EXTINF:-1 tvg-id="" tvg-name=" Afro Music" tvg-logo="", Afro Music
-http://viperteam.ddns.net:25461/live/6666/6666/74616.ts
-#EXTINF:-1 tvg-id="" tvg-name=" 24 Kitchen FHD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/24KITCHENHD.png", 24 Kitchen FHD
-http://viperteam.ddns.net:25461/live/6666/6666/74618.ts
-#EXTINF:-1 tvg-id="" tvg-name=" Cacavision" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/CACAVISION.png", Cacavision
-http://viperteam.ddns.net:25461/live/6666/6666/74620.ts
-#EXTINF:-1 tvg-id="" tvg-name=" Historia" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/HISTORIAHD.png", Historia
-http://viperteam.ddns.net:25461/live/6666/6666/74621.ts
-#EXTINF:-1 tvg-id="" tvg-name=" Caca e Pesca" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/CACAVISION.png", Caca e Pesca
-http://viperteam.ddns.net:25461/live/6666/6666/74622.ts
-#EXTINF:-1 tvg-id="" tvg-name=" DISCOVERY CHANNEL" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/DISCOVERYHD.png", DISCOVERY CHANNEL
-http://viperteam.ddns.net:25461/live/6666/6666/74623.ts
-#EXTINF:-1 tvg-id="" tvg-name=" Travel Channel FHD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/TRAVELCHANNELHD.png", Travel Channel FHD
-http://viperteam.ddns.net:25461/live/6666/6666/74624.ts
-#EXTINF:-1 tvg-id="" tvg-name=" NAT GEO HD" tvg-logo="http://185.165.243.195/logo/5079.png", NAT GEO HD
-http://viperteam.ddns.net:25461/live/6666/6666/74625.ts
-#EXTINF:-1 tvg-id="" tvg-name=" Nat Geo Wild" tvg-logo="http://185.165.243.195/logo/5019.png", Nat Geo Wild
-http://viperteam.ddns.net:25461/live/6666/6666/74626.ts
-#EXTINF:-1 tvg-id="" tvg-name=" Mezzo" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/MEZZO.png", Mezzo
-http://viperteam.ddns.net:25461/live/6666/6666/74627.ts
-#EXTINF:-1 tvg-id="" tvg-name=" Discovery FHD Showcase" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/DISCOVERYHD.png", Discovery FHD Showcase
-http://viperteam.ddns.net:25461/live/6666/6666/74628.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ODISSEIA" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/ODISSEIA.png", ODISSEIA
-http://viperteam.ddns.net:25461/live/6666/6666/74629.ts
-#EXTINF:-1 tvg-id="" tvg-name=" TV FAtima" tvg-logo="", TV FAtima
-http://viperteam.ddns.net:25461/live/6666/6666/74630.ts
-#EXTINF:-1 tvg-id="" tvg-name=" NICKELODEON" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/NICKELODEON.png", NICKELODEON
-http://viperteam.ddns.net:25461/live/6666/6666/74631.ts
-#EXTINF:-1 tvg-id="" tvg-name=" Canal Panda HD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/CANALPANDA.png", Canal Panda HD
-http://viperteam.ddns.net:25461/live/6666/6666/74632.ts
-#EXTINF:-1 tvg-id="" tvg-name=" Disney Channel" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/DISNEYJR.png", Disney Channel
-http://viperteam.ddns.net:25461/live/6666/6666/74633.ts
-#EXTINF:-1 tvg-id="" tvg-name=" Disney Junior" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/DISNEYJR.png", Disney Junior
-http://viperteam.ddns.net:25461/live/6666/6666/74634.ts
-#EXTINF:-1 tvg-id="" tvg-name=" DISNEY JUNIOR (test)" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/DISNEYJR.png", DISNEY JUNIOR (test)
-http://viperteam.ddns.net:25461/live/6666/6666/74635.ts
-#EXTINF:-1 tvg-id="" tvg-name=" Biggs" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/BIGGS.png", Biggs
-http://viperteam.ddns.net:25461/live/6666/6666/74636.ts
-#EXTINF:-1 tvg-id="" tvg-name=" Cartoon Network" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/CARTOONNETWORK.png", Cartoon Network
-http://viperteam.ddns.net:25461/live/6666/6666/74638.ts
-#EXTINF:-1 tvg-id="" tvg-name=" Jim Jam" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/JIMJAM.png", Jim Jam
-http://viperteam.ddns.net:25461/live/6666/6666/74639.ts
-#EXTINF:-1 tvg-id="" tvg-name=" TV Globo HD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/GLOBO.png", TV Globo HD
-http://viperteam.ddns.net:25461/live/6666/6666/74640.ts
-#EXTINF:-1 tvg-id="" tvg-name=" TV Globo Premium" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/GLOBO.png", TV Globo Premium
-http://viperteam.ddns.net:25461/live/6666/6666/74642.ts
-#EXTINF:-1 tvg-id="" tvg-name=" TV RECORD" tvg-logo="http://185.165.243.195/logo_plus/PORTUGAL/RECORDHD.png", TV RECORD
-http://viperteam.ddns.net:25461/live/6666/6666/74643.ts
-#EXTINF:-1 tvg-id="" tvg-name=" Euronews" tvg-logo="", Euronews
-http://viperteam.ddns.net:25461/live/6666/6666/74644.ts
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channel>
+<item>
+<title>[COLOR lime][B]Vibee Radio[/B][/COLOR]</title>
+<thumbnail>https://png.kodi.al/tv/albdroid/black.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/black.png</fanart>
+<link>$doregex[gettrc]|User-Agent=iPhone</link>
+<regex>
+<name>gettrc</name>
+<expres>mp3: "(http.*?)"</expres>
+<page>http://www.vibee.tv/radioplayer/aplayer.html</page>
+</regex>
+</item>
+<item>
+<title>[COLOR lime][B]We Are The Nightbreed 047 with Sub Sonik FB[/B][/COLOR]</title>
+<thumbnail>https://png.kodi.al/tv/albdroid/black.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/black.png</fanart>
+<link>$doregex[gettrc]|User-Agent=iPhone</link>
+<regex>
+<name>gettrc</name>
+<expres>(http.*?\w.*)</expres>
+<page>https://demo.kodi.al/Streaming/AIO_Vendors/Facebook/M3U_Player/?url=https://www.facebook.com/Qdance/videos/853918188414298/</page>
+</regex>
+</item>
+<item>
+<title>[COLOR lime][B]VIMEO TRC4 - MOH 2013[/COLOR][/B]</title>
+<thumbnail>http://png.kodi.al/tv/albdroid/black.png</thumbnail>
+<fanart>http://png.kodi.al/tv/albdroid/black.png</fanart>
+<link>https://demo.kodi.al/Streaming/AIO_Vendors/Vimeo/GET/Smart_TV_Structure.php?id=308734134</link>
+<regex>
+<name></name>
+<expres></expres>
+<page></page>
+</regex>
+</item>
+<item>
+<title>[B][COLOR lime]ABC News Albania[/COLOR][/B]</title>
+<thumbnail>https://png.kodi.al/tv/albdroid/black.png</thumbnail>
+<fanart>https://png.kodi.al/tv/albdroid/black.png</fanart>
+<link>$doregex[gettrc]</link>
+<regex>
+<name>gettrc</name>
+<expres>.*stream.*(http.*?m3u8.*?)"</expres>
+<page>http://abcnews.al/livebig.php</page>
+</regex>
+</item>
+</channel>
