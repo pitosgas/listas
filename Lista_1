@@ -41,7 +41,7 @@
 <regex>
 <name>gettrc</name>
 <expres>.*stream.*(http.*?m3u8.*?)"</expres>
-<page>http://abcnews.al/livebig.php</page>
+<page>https://v3.sportsonline.to/channels/pt/sporttv1.php</page>
 </regex>
 </item>
 </channel>
