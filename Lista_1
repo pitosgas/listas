@@ -3,11 +3,13 @@
 <item>
 <title>[COLOR lime][B]Benfica x Sevilha[/B][/COLOR]</title>
 <fanart>https://upload.wikimedia.org/wikipedia/pt/f/f0/500px-SL_Benfica_logo_svg.png</fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/f/f0/500px-SL_Benfica_logo_svg.png</thumbnail>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=RTzxkm_eaf4</link>
 </item>
 <item>
 <title>[COLOR lime][B]Truques Fifa 23[/B][/COLOR]</title>
 <fanart>https://library.sportingnews.com/styles/crop_style_16_9_mobile_2x/s3/2022-08/kk.jpg?itok=xhhOmPw7</fanart>
+<thumbnail>https://library.sportingnews.com/styles/crop_style_16_9_mobile_2x/s3/2022-08/kk.jpg?itok=xhhOmPw7</thumbnail>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=LjXhs_mqZ6Q</link>
 </item>
 
@@ -17,7 +19,7 @@
 <regex>
 <name>getc</name>
 <listrepeat><![CDATA[
-<title>[COLOR paleturquoise][BG] [B][getc.param1][/B][/COLOR]</title>
+<title>[COLOR paleturquoise][PT] [B][getc.param1][/B][/COLOR]</title>
  <link>$doregex[geturl]|Referer=https:$doregex[canal]&amp;User-Agent=ipad&amp;Referer=https://sportsembed.to</link>
  <thumbnail>https://png.pngitem.com/pimgs/s/20-202688_sports-png-file-download-free-play-sports-transparent.png</thumbnail>
 ]]></listrepeat>
