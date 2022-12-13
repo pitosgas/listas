@@ -1,62 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channel>
 <item>
-<title>[COLOR lime][B]Vibee Radio[/B][/COLOR]</title>
-<thumbnail>https://png.kodi.al/tv/albdroid/black.png</thumbnail>
-<fanart>https://png.kodi.al/tv/albdroid/black.png</fanart>
-<link>$doregex[gettrc]|User-Agent=iPhone</link>
-<regex>
-<name>gettrc</name>
-<expres>mp3: "(http.*?)"</expres>
-<page>http://www.vibee.tv/radioplayer/aplayer.html</page>
-</regex>
+<title>[COLOR lime][B]Benfica x Sevilha[/B][/COLOR]</title>
+<fanart>https://upload.wikimedia.org/wikipedia/pt/f/f0/500px-SL_Benfica_logo_svg.png</fanart>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=RTzxkm_eaf4</link>
 </item>
 <item>
-<title>[COLOR lime][B]We Are The Nightbreed 047 with Sub Sonik FB[/B][/COLOR]</title>
-<thumbnail>https://png.kodi.al/tv/albdroid/black.png</thumbnail>
-<fanart>https://png.kodi.al/tv/albdroid/black.png</fanart>
-<link>$doregex[gettrc]|User-Agent=iPhone</link>
-<regex>
-<name>gettrc</name>
-<expres>(http.*?\w.*)</expres>
-<page>https://demo.kodi.al/Streaming/AIO_Vendors/Facebook/M3U_Player/?url=https://www.facebook.com/Qdance/videos/853918188414298/</page>
-</regex>
-</item>
-<item>
-<title>[COLOR lime][B]VIMEO TRC4 - MOH 2013[/COLOR][/B]</title>
-<thumbnail>http://png.kodi.al/tv/albdroid/black.png</thumbnail>
-<fanart>http://png.kodi.al/tv/albdroid/black.png</fanart>
-<link>https://v3.sportsonline.to/channels/pt/sporttv1.php</link>
-<regex>
-<name></name>
-<expres></expres>
-<page></page>
-</regex>
-</item>
-<item>
-<title>[B][COLOR lime]ABC News Albania[/COLOR][/B]</title>
-<thumbnail>https://png.kodi.al/tv/albdroid/black.png</thumbnail>
-<fanart>https://png.kodi.al/tv/albdroid/black.png</fanart>
-<link>$doregex[gettrc]</link>
-<regex>
-<name>gettrc</name>
-<expres>.*stream.*(http.*?m3u8.*?)"</expres>
-<page>https://v3.sportsonline.to/channels/pt/sporttv1.php</page>
-</regex>
-</item>
-<item>
-<title>Sportv1</title>        
-<link>https://v3.sportsonline.to/channels/pt/sporttv1.php</link>
-</item>
-<item>
-<title>liveonlinetv</title>
-<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>https://v3.sportsonline.to/channels/pt/sporttv1.php</page>
-<referer>https://v3.sportsonline.to</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
+<title>[COLOR lime][B]Truques Fifa 23[/B][/COLOR]</title>
+<fanart>https://library.sportingnews.com/styles/crop_style_16_9_mobile_2x/s3/2022-08/kk.jpg?itok=xhhOmPw7</fanart>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=LjXhs_mqZ6Q</link>
 </item>
 </channel>
