@@ -10,4 +10,52 @@
 <fanart>https://library.sportingnews.com/styles/crop_style_16_9_mobile_2x/s3/2022-08/kk.jpg?itok=xhhOmPw7</fanart>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=LjXhs_mqZ6Q</link>
 </item>
+
+<item>
+<title> [COLOR skyblue]●[/COLOR]    [COLOR paleturquoise][B]SPORTZONE[/B]  [/COLOR] [COLOR lightslategray] [/COLOR]</title>
+<link>$doregex[getc]</link>
+<regex>
+<name>getc</name>
+<listrepeat><![CDATA[
+<title>[COLOR paleturquoise][BG] [B][getc.param1][/B][/COLOR]</title>
+ <link>$doregex[geturl]|Referer=https:$doregex[canal]&amp;User-Agent=ipad&amp;Referer=https://sportzonline.to/channels/hd/hd6.php</link>
+ <thumbnail>http://blackaddon.com/gray/img/deportes.png</thumbnail>
+]]></listrepeat>
+<expres>-(.*?)=(.*?)"</expres>
+<page>
+-HD1 ENGLISH=https://sportzonline.co/channels/hd/hd1.php"
+-HD2 ENGLISH=https://sportzonline.co/channels/hd/hd1.php"
+-HD3 GERMAN=https://sportzonline.co/channels/hd/hd1.php"
+-HD4 ENGLISH=https://sportzonline.co/channels/hd/hd1.php"
+-HD5 ENGLISH=https://sportzonline.co/channels/hd/hd1.php"
+-HD6 SPANISH=https://sportzonline.co/channels/hd/hd1.php"
+-HD7 ITALIAN=https://sportzonline.co/channels/hd/hd1.php"
+-HD8 ENGLISH=https://sportzonline.co/channels/hd/hd1.php"
+-BR1 BRAZILIAN=https://sportzonline.co/channels/bra/br1.php"
+-BR2 BRAZILIAN=https://sportzonline.co/channels/bra/br1.php"
+-PORTUGUESE SPORT TV 1=https://v2.sportzonline.to/channels/pt/sporttv1.php"
+-PORTUGUESE SPORT TV 2=https://v2.sportzonline.to/channels/pt/sporttv2.php"
+-PORTUGUESE SPORT TV 3=https://v2.sportzonline.to/channels/pt/sporttv3.php"
+-PORTUGUESE SPORT TV 4=https://v2.sportzonline.to/channels/pt/sporttv4.php"
+-PORTUGUESE SPORT TV 5=https://v2.sportzonline.to/channels/pt/sporttv5.php"
+</page>
+</regex> 
+    <regex>
+        <name>geturl</name>
+        <expres>(?:file|source|src):.*?"(.*?)"</expres>
+        <page>$doregex[getunpacked]</page>
+    </regex>
+    <regex>
+        <name>getunpacked</name>
+        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres>
+        <page>https:$doregex[canal]</page>
+        <referer>https://sportzonline.to</referer>
+        <connection>keep-alive</connection>
+    </regex>
+	 <regex>
+        <name>canal</name>
+        <expres>iframe src="(.*?)"</expres>
+        <page>[getc.param2]</page>
+    </regex>
+<thumbnail>http://blackaddon.com/gray/img/deportes.png</thumbnail></item>
 </channel>
