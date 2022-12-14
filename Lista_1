@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channel>
-<items>
 <item>
 <title>[COLORgold][B][I]1.Sporttv 1[/I][/B][/COLOR]</title>
 <link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://nstream.to&amp;Referer=https://nstream.to/</link>
@@ -23,5 +22,4 @@
 <thumbnail>https://i.imgur.com/r64HZFm.jpg</thumbnail>
 <fanart> </fanart>
 </item>
-</items>
 </channel>
