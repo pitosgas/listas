@@ -2,22 +2,22 @@
 <channel>
 <item>
 <title>[COLORgold][B][I]1.Sporttv 1[/I][/B][/COLOR]</title>
-<link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://sportsembed.su&amp;Referer=https://sportsembed.su</link>
+<link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://nstream.to&amp;Referer=https://nstream.to</link>
 <regex>
 <name>m5</name>
 <expres>var\s*src\s*=\s*"([^"]+)</expres>
 <page>$doregex[m4]</page>
 <agent>Mozilla/5.0</agent>
 <accept>*/*</accept>
-<referer>https://sportsembed.su/channels/pt/sporttv1.php-</referer>
+<referer>https://v3.sportsonline.to/channels/pt/sporttv1.php-</referer>
 </regex>
 <regex>
 <name>m4</name>
 <expres>$pyFunction:get_unpacked(page_data,'(eval.*m3u8.*)')</expres>
-<page>https://sportsembed.su/embed/b5r01up6xuiica|Upgrade-Insecure-Requests=1</page>
+<page>https://nstream.to/embed/b5r01up6xuiica|Upgrade-Insecure-Requests=1</page>
 <agent>Mozilla/5.0</agent>
 <accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</accept>
-<referer>https://sportsembed.su/channels/pt/sporttv1.php-</referer>
+<referer>ttps://v3.sportsonline.to/channels/pt/sporttv1.php-</referer>
 </regex>
 <thumbnail>https://i.imgur.com/r64HZFm.jpg</thumbnail>
 <fanart> </fanart>
