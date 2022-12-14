@@ -14,7 +14,7 @@
 <regex>
 <name>m4</name>
 <expres>$pyFunction:get_unpacked(page_data,'(eval.*m3u8.*)')</expres>
-<page>https://wigistream.to/embed/walxjawfo5x|Upgrade-Insecure-Requests=1</page>
+<page>https://jld02rrvav89mp.constraindefiant.net/embed/b5r01up6xuiica|Upgrade-Insecure-Requests=1</page>
 <agent>Mozilla/5.0</agent>
 <accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</accept>
 <referer>https://sportsembed.to/channels/pt/sporttv1.php-</referer>
