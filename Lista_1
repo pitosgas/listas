@@ -2,7 +2,7 @@
 <channel>
 <item>
 <title>[COLORgold][B][I]1.Sporttv 1[/I][/B][/COLOR]</title>
-<link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://nstream.to&amp;Referer=https://nstream.to/</link>
+<link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://sportsembed.to&amp;Referer=https://sportsembed.to</link>
 <regex>
 <name>m5</name>
 <expres>var\s*src\s*=\s*"([^"]+)</expres>
