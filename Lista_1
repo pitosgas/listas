@@ -1,53 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channel>
+<items>
 <item>
-<title>[COLOR lime][B]Benfica x Sevilha[/B][/COLOR]</title>
-<fanart>https://upload.wikimedia.org/wikipedia/pt/f/f0/500px-SL_Benfica_logo_svg.png</fanart>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/f/f0/500px-SL_Benfica_logo_svg.png</thumbnail>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=RTzxkm_eaf4</link>
-</item>
-<item>
-<title>[COLOR lime][B]Truques Fifa 23[/B][/COLOR]</title>
-<fanart>https://library.sportingnews.com/styles/crop_style_16_9_mobile_2x/s3/2022-08/kk.jpg?itok=xhhOmPw7</fanart>
-<thumbnail>https://library.sportingnews.com/styles/crop_style_16_9_mobile_2x/s3/2022-08/kk.jpg?itok=xhhOmPw7</thumbnail>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=LjXhs_mqZ6Q</link>
-</item>
-
-<item>
-<title> [COLOR skyblue]●[/COLOR]    [COLOR paleturquoise][B]SPORTZONE[/B]  [/COLOR] [COLOR lightslategray] [/COLOR]</title>
-<link>$doregex[getc]</link>
+<title>[COLORgold][B][I]1.Sporttv 1[/I][/B][/COLOR]</title>
+<link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://nstream.to&amp;Referer=https://nstream.to/</link>
 <regex>
-<name>getc</name>
-<listrepeat><![CDATA[
-<title>[COLOR paleturquoise][PT] [B][getc.param1][/B][/COLOR]</title>
- <link>$doregex[geturl]|Referer=https:$doregex[canal]&amp;User-Agent=ipad&amp;Referer=https://sportsembed.to</link>
- <thumbnail>https://png.pngitem.com/pimgs/s/20-202688_sports-png-file-download-free-play-sports-transparent.png</thumbnail>
-]]></listrepeat>
-<expres>-(.*?)=(.*?)"</expres>
-<page>
--PORTUGUESE SPORT TV 1=https://sportsembed.to/channels/pt/sporttv1.php"
--PORTUGUESE SPORT TV 2=https://sportsembed.to/channels/pt/sporttv2.php"
--PORTUGUESE SPORT TV 3=https://sportsembed.to/channels/pt/sporttv3.php"
--PORTUGUESE SPORT TV 4=https://sportsembed.to/channels/pt/sporttv4.php"
--PORTUGUESE SPORT TV 5=https://sportsembed.to/channels/pt/sporttv5.php"
-</page>
-</regex> 
-    <regex>
-        <name>geturl</name>
-        <expres>(?:file|source|src):.*?"(.*?)"</expres>
-        <page>$doregex[getunpacked]</page>
-    </regex>
-    <regex>
-        <name>getunpacked</name>
-        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres>
-        <page>https:$doregex[canal]</page>
-        <referer>https://sportsembed.to</referer>
-        <connection>keep-alive</connection>
-    </regex>
-	 <regex>
-        <name>canal</name>
-        <expres>iframe src="(.*?)"</expres>
-        <page>[getc.param2]</page>
-    </regex>
-<thumbnail>https://png.pngitem.com/pimgs/s/20-202688_sports-png-file-download-free-play-sports-transparent.png</thumbnail></item>
+<name>m5</name>
+<expres>var\s*src\s*=\s*"([^"]+)</expres>
+<page>$doregex[m4]</page>
+<agent>Mozilla/5.0</agent>
+<accept>*/*</accept>
+<referer>https://sportsembed.to/channels/pt/sporttv1.php-</referer>
+</regex>
+<regex>
+<name>m4</name>
+<expres>$pyFunction:get_unpacked(page_data,'(eval.*m3u8.*)')</expres>
+<page>https://wigistream.to/embed/walxjawfo5x|Upgrade-Insecure-Requests=1</page>
+<agent>Mozilla/5.0</agent>
+<accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</accept>
+<referer>https://sportsembed.to/channels/pt/sporttv1.php-</referer>
+</regex>
+<thumbnail>https://i.imgur.com/r64HZFm.jpg</thumbnail>
+<fanart> </fanart>
+</item>
+</items>
 </channel>
