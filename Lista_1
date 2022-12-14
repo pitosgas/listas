@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
 <channel>
+
 <item>
-<title>[COLORgold][B][I]1.Sporttv 1[/I][/B][/COLOR]</title>
+<title>[COLORgold][B]Sporttv 1[/B][/COLOR]</title>
 <link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://nstream.to&amp;Referer=https://nstream.to</link>
 <regex>
 <name>m5</name>
@@ -17,9 +19,102 @@
 <page>https://nstream.to/embed/b5r01up6xuiica|Upgrade-Insecure-Requests=1</page>
 <agent>Mozilla/5.0</agent>
 <accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</accept>
-<referer>ttps://v3.sportsonline.to/channels/pt/sporttv1.php-</referer>
+<referer>https://v3.sportsonline.to/channels/pt/sporttv1.php-</referer>
 </regex>
-<thumbnail>https://i.imgur.com/r64HZFm.jpg</thumbnail>
+<thumbnail>https://www.thesportsdb.com/images/media/tvlogo/qpyqws1470407526.png</thumbnail>
 <fanart> </fanart>
 </item>
+
+<item>
+<title>[COLORgold][B]Sporttv 2[/B][/COLOR]</title>
+<link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://nstream.to&amp;Referer=https://nstream.to</link>
+<regex>
+<name>m5</name>
+<expres>var\s*src\s*=\s*"([^"]+)</expres>
+<page>$doregex[m4]</page>
+<agent>Mozilla/5.0</agent>
+<accept>*/*</accept>
+<referer>https://v3.sportsonline.to/channels/pt/sporttv2.php-</referer>
+</regex>
+<regex>
+<name>m4</name>
+<expres>$pyFunction:get_unpacked(page_data,'(eval.*m3u8.*)')</expres>
+<page>https://nstream.to/embed/ovqfhh3m5wv|Upgrade-Insecure-Requests=1</page>
+<agent>Mozilla/5.0</agent>
+<accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</accept>
+<referer>https://v3.sportsonline.to/channels/pt/sporttv2.php-</referer>
+</regex>
+<thumbnail>https://www.thesportsdb.com/images/media/tvlogo/vpwuyu1470409212.png</thumbnail>
+<fanart> </fanart>
+</item>
+  
+<item>
+<title>[COLORgold][B]Sporttv 3[/B][/COLOR]</title>
+<link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://nstream.to&amp;Referer=https://nstream.to</link>
+<regex>
+<name>m5</name>
+<expres>var\s*src\s*=\s*"([^"]+)</expres>
+<page>$doregex[m4]</page>
+<agent>Mozilla/5.0</agent>
+<accept>*/*</accept>
+<referer>https://v3.sportsonline.to/channels/pt/sporttv3.php-</referer>
+</regex>
+<regex>
+<name>m4</name>
+<expres>$pyFunction:get_unpacked(page_data,'(eval.*m3u8.*)')</expres>
+<page>https://nstream.to/embed/pju8r4rjf4k8a|Upgrade-Insecure-Requests=1</page>
+<agent>Mozilla/5.0</agent>
+<accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</accept>
+<referer>https://v3.sportsonline.to/channels/pt/sporttv3.php-</referer>
+</regex>
+<thumbnail>https://www.thesportsdb.com/images/media/tvlogo/wwsuqv1470409839.png</thumbnail>
+<fanart> </fanart>
+</item>
+  
+<item>
+<title>[COLORgold][B]Sporttv 4[/B][/COLOR]</title>
+<link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://nstream.to&amp;Referer=https://nstream.to</link>
+<regex>
+<name>m5</name>
+<expres>var\s*src\s*=\s*"([^"]+)</expres>
+<page>$doregex[m4]</page>
+<agent>Mozilla/5.0</agent>
+<accept>*/*</accept>
+<referer>https://v3.sportsonline.to/channels/pt/sporttv4.php-</referer>
+</regex>
+<regex>
+<name>m4</name>
+<expres>$pyFunction:get_unpacked(page_data,'(eval.*m3u8.*)')</expres>
+<page>https://nstream.to/embed/pju8r4rjf4k8a|Upgrade-Insecure-Requests=1</page>
+<agent>Mozilla/5.0</agent>
+<accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</accept>
+<referer>https://v3.sportsonline.to/channels/pt/sporttv4.php-</referer>
+</regex>
+<thumbnail>https://www.thesportsdb.com/images/media/tvlogo/vuytwx1470409983.png</thumbnail>
+<fanart> </fanart>
+</item>
+  
+<item>
+<title>[COLORgold][B]Sporttv 5[/B][/COLOR]</title>
+<link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://nstream.to&amp;Referer=https://nstream.to</link>
+<regex>
+<name>m5</name>
+<expres>var\s*src\s*=\s*"([^"]+)</expres>
+<page>$doregex[m4]</page>
+<agent>Mozilla/5.0</agent>
+<accept>*/*</accept>
+<referer>https://v3.sportsonline.to/channels/pt/sporttv5.php-</referer>
+</regex>
+<regex>
+<name>m4</name>
+<expres>$pyFunction:get_unpacked(page_data,'(eval.*m3u8.*)')</expres>
+<page>https://nstream.to/embed/jtwv2|Upgrade-Insecure-Requests=1</page>
+<agent>Mozilla/5.0</agent>
+<accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</accept>
+<referer>https://v3.sportsonline.to/channels/pt/sporttv5.php-</referer>
+</regex>
+<thumbnail>https://www.thesportsdb.com/images/media/tvlogo/uvpqvr1470410094.png</thumbnail>
+<fanart> </fanart>
+</item>
+  
 </channel>
