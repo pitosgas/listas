@@ -116,5 +116,74 @@
 <thumbnail>https://www.thesportsdb.com/images/media/tvlogo/uvpqvr1470410094.png</thumbnail>
 <fanart> </fanart>
 </item>
+
+<item>
+<title>[COLORgold][B]Eleven 1[/B][/COLOR]</title>
+<link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://nstream.to&amp;Referer=https://nstream.to</link>
+<regex>
+<name>m5</name>
+<expres>var\s*src\s*=\s*"([^"]+)</expres>
+<page>$doregex[m4]</page>
+<agent>Mozilla/5.0</agent>
+<accept>*/*</accept>
+<referer>https://v3.sportsonline.to/channels/pt/eleven1.php-</referer>
+</regex>
+<regex>
+<name>m4</name>
+<expres>$pyFunction:get_unpacked(page_data,'(eval.*m3u8.*)')</expres>
+<page>https://nstream.to/embed/i5jw49fme|Upgrade-Insecure-Requests=1</page>
+<agent>Mozilla/5.0</agent>
+<accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</accept>
+<referer>https://v3.sportsonline.to/channels/pt/eleven1.php-</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/b/b8/Eleven_Sports_1_logo.jpg</thumbnail>
+<fanart> </fanart>
+</item>
+
+<item>
+<title>[COLORgold][B]Eleven 2[/B][/COLOR]</title>
+<link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://nstream.to&amp;Referer=https://nstream.to</link>
+<regex>
+<name>m5</name>
+<expres>var\s*src\s*=\s*"([^"]+)</expres>
+<page>$doregex[m4]</page>
+<agent>Mozilla/5.0</agent>
+<accept>*/*</accept>
+<referer>https://v3.sportsonline.to/channels/pt/eleven2.php-</referer>
+</regex>
+<regex>
+<name>m4</name>
+<expres>$pyFunction:get_unpacked(page_data,'(eval.*m3u8.*)')</expres>
+<page>https://nstream.to/embed/njr6og|Upgrade-Insecure-Requests=1</page>
+<agent>Mozilla/5.0</agent>
+<accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</accept>
+<referer>https://v3.sportsonline.to/channels/pt/eleven2.php-</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/4d/Elevensports1.jpg</thumbnail>
+<fanart> </fanart>
+</item>
+
+<item>
+<title>[COLORgold][B]Eleven 3[/B][/COLOR]</title>
+<link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://nstream.to&amp;Referer=https://nstream.to</link>
+<regex>
+<name>m5</name>
+<expres>var\s*src\s*=\s*"([^"]+)</expres>
+<page>$doregex[m4]</page>
+<agent>Mozilla/5.0</agent>
+<accept>*/*</accept>
+<referer>https://v3.sportsonline.to/channels/pt/eleven3.php-</referer>
+</regex>
+<regex>
+<name>m4</name>
+<expres>$pyFunction:get_unpacked(page_data,'(eval.*m3u8.*)')</expres>
+<page>https://nstream.to/embed/jok6ha1zufk|Upgrade-Insecure-Requests=1</page>
+<agent>Mozilla/5.0</agent>
+<accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</accept>
+<referer>https://v3.sportsonline.to/channels/pt/eleven3.php-</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/4d/Elevensports3.png.jpg</thumbnail>
+<fanart> </fanart>
+</item>
   
 </channel>
