@@ -1,355 +1,338 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="•●★--- PT Generalistas ----★●•" tvg-logo="" group-title="PT | Generalistas",•●★--- PT Generalistas ----★●•
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25944
-#EXTINF:-1 tvg-id="RTPIBR" tvg-name="PT: RTP Internacional" tvg-logo="http://fanc.tmsimg.com/assets/s98117_ll_h3_aa.png" group-title="PT | Generalistas",PT: RTP Internacional
+#EXTINF:-1 tvg-id="RTPIBR" tvg-name="PT: RTP Internacional" tvg-logo="http://fanc.tmsimg.com/assets/s98117_ll_h3_aa.png",RTP Internacional
 http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/30827
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT: RTP1 HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/rr/rtp_1_pt.png" group-title="PT | Generalistas",PT: RTP1 HD (1080P)
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP1 HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/rr/rtp_1_pt.png",RTP1 HD (1080P)
 http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/20005
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT: RTP1 HD (720P)" tvg-logo="http://109.238.11.8:25461/logo/tv/rr/rtp_1_pt.png" group-title="PT | Generalistas",PT: RTP1 HD (720P)
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP1 HD (720P)" tvg-logo="http://109.238.11.8:25461/logo/tv/rr/rtp_1_pt.png",RTP1 HD (720P)
 http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53499
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT: RTP1" tvg-logo="http://109.238.11.8:25461/logo/tv/rr/rtp_1_pt.png" group-title="PT | Generalistas",PT: RTP1
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP1" tvg-logo="http://109.238.11.8:25461/logo/tv/rr/rtp_1_pt.png",RTP1
 http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25874
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="PT: RTP2 HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/rr/rtp_2_pt.png" group-title="PT | Generalistas",PT: RTP2 HD (1080P)
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP2 HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/rr/rtp_2_pt.png",RTP2 HD (1080P)
 http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/20006
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="PT: RTP2 HD (720P)" tvg-logo="http://109.238.11.8:25461/logo/tv/rr/rtp_2_pt.png" group-title="PT | Generalistas",PT: RTP2 HD (720P)
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP2 HD (720P)" tvg-logo="http://109.238.11.8:25461/logo/tv/rr/rtp_2_pt.png",RTP2 HD (720P)
 http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53500
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="PT: RTP2" tvg-logo="http://109.238.11.8:25461/logo/tv/rr/rtp_2_pt.png" group-title="PT | Generalistas",PT: RTP2
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP2" tvg-logo="http://109.238.11.8:25461/logo/tv/rr/rtp_2_pt.png",RTP2
 http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25875
-#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="PT: RTP3 HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/rr/rtp_3_pt.png" group-title="PT | Generalistas",PT: RTP3 HD (1080P)
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="RTP3 HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/rr/rtp_3_pt.png",RTP3 HD (1080P)
 http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53501
-#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="PT: RTP3" tvg-logo="http://109.238.11.8:25461/logo/tv/rr/rtp_3_pt.png" group-title="PT | Generalistas",PT: RTP3
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="RTP3" tvg-logo="http://109.238.11.8:25461/logo/tv/rr/rtp_3_pt.png",RTP3
 http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25876
-#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-name="PT: RTP Acores" tvg-logo="http://109.238.11.8:25461/logo/tv/rr/rtp_acores.png" group-title="PT | Generalistas",PT: RTP Acores
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-name="RTP Acores" tvg-logo="http://109.238.11.8:25461/logo/tv/rr/rtp_acores.png",RTP Acores
 http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25877
-#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-name="PT: RTP Africa" tvg-logo="http://109.238.11.8:25461/logo/tv/rr/rtp_africa.png" group-title="PT | Generalistas",PT: RTP Africa
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-name="RTP Africa" tvg-logo="http://109.238.11.8:25461/logo/tv/rr/rtp_africa.png",RTP Africa
 http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25899
-#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-name="PT: RTP Madeira" tvg-logo="http://109.238.11.8:25461/logo/tv/rr/rtp_madeira.png" group-title="PT | Generalistas",PT: RTP Madeira
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-name="RTP Madeira" tvg-logo="http://109.238.11.8:25461/logo/tv/rr/rtp_madeira.png",RTP Madeira
 http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25878
-#EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-name="PT: RTP Memoria" tvg-logo="http://109.238.11.8:25461/logo/tv/rr/rtp_acores.png" group-title="PT | Generalistas",PT: RTP Memoria
+#EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-name="RTP Memoria" tvg-logo="http://109.238.11.8:25461/logo/tv/rr/rtp_acores.png",RTP Memoria
 http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25879
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP Arena HD (1080P)" tvg-logo="https://arena.rtp.pt/wp-content/themes/arenartp/includes/img/arena_negativo.png" group-title="PT | Generalistas",PT: RTP Arena HD (1080P)
+#EXTINF:-1 tvg-id="" tvg-name="RTP Arena HD (1080P)" tvg-logo="https://arena.rtp.pt/wp-content/themes/arenartp/includes/img/arena_negativo.png",RTP Arena HD (1080P)
 http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53625
-#EXTINF:-1 tvg-id="sic.pt" tvg-name="PT: SIC HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sic_pt.png" group-title="PT | Generalistas",PT: SIC HD (1080P)
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sic_pt.png",SIC HD (1080P)
 http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/20004
-#EXTINF:-1 tvg-id="sic.pt" tvg-name="PT: SIC" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sic_pt.png" group-title="PT | Generalistas",PT: SIC
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sic_pt.png",SIC
 http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25880
-#EXTINF:-1 tvg-id="TVINT" tvg-name="PT: TVI Internacional" tvg-logo="http://fanc.tmsimg.com/assets/s82260_ll_h3_aa.png" group-title="PT | Generalistas",PT: TVI Internacional
+#EXTINF:-1 tvg-id="TVINT" tvg-name="TVI Internacional" tvg-logo="http://fanc.tmsimg.com/assets/s82260_ll_h3_aa.png",TVI Internacional
 http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/69421
-#EXTINF:-1 tvg-id="TVI.pt" tvg-name="PT: TVI HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvi_pt.png" group-title="PT | Generalistas",PT: TVI HD (1080P)
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvi_pt.png",TVI HD (1080P)
 http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25930
-#EXTINF:-1 tvg-id="TVI.pt" tvg-name="PT: TVI HD (720P)" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvi_pt.png" group-title="PT | Generalistas",PT: TVI HD (720P)
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI HD (720P)" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvi_pt.png",TVI HD (720P)
 http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53502
-#EXTINF:-1 tvg-id="TVI.pt" tvg-name="PT: TVI" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvi_pt.png" group-title="PT | Generalistas",PT: TVI
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvi_pt.png",TVI
 http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25929
-#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="PT: TVI Ficção HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvi_ficcao_pt.png" group-title="PT | Generalistas",PT: TVI Ficção HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53596
-#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="PT: TVI Ficção" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvi_ficcao_pt.png" group-title="PT | Generalistas",PT: TVI Ficção
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25931
-#EXTINF:-1 tvg-id="TVIReal.pt" tvg-name="PT: TVI Reality HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvi_reality_pt.png" group-title="PT | Generalistas",PT: TVI Reality HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53597
-#EXTINF:-1 tvg-id="TVIReal.pt" tvg-name="PT: TVI Reality" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvi_reality_pt.png" group-title="PT | Generalistas",PT: TVI Reality
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25932
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI Reality Mosaico" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvi_reality_pt.png" group-title="PT | Generalistas",PT: TVI Reality Mosaico
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53603
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI Reality CAM 1" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvi_reality_pt.png" group-title="PT | Generalistas",PT: TVI Reality CAM 1
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53599
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI Reality CAM 2" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvi_reality_pt.png" group-title="PT | Generalistas",PT: TVI Reality CAM 2
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53600
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI Reality CAM 3" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvi_reality_pt.png" group-title="PT | Generalistas",PT: TVI Reality CAM 3
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53601
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI Reality CAM 4" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvi_reality_pt.png" group-title="PT | Generalistas",PT: TVI Reality CAM 4
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53602
-#EXTINF:-1 tvg-id="tvrecord.pt" tvg-name="PT: TV Record" tvg-logo="http://109.238.11.8:25461/logo/tv/rr/rede_record_br.png" group-title="PT | Generalistas",PT: TV Record
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25927
-#EXTINF:-1 tvg-id="NOSStudios.pt" tvg-name="PT: Nos Studio HD (1080P)" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/destaques_programacao/logo_NOSSTUDIOS.png" group-title="PT | Generalistas",PT: Nos Studio HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53510
-#EXTINF:-1 tvg-id="NOSStudios.pt" tvg-name="PT: Nos Studios" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/destaques_programacao/logo_NOSSTUDIOS.png" group-title="PT | Generalistas",PT: Nos Studios
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53511
-#EXTINF:-1 tvg-id="" tvg-name="PT: S+ HD (1080P)" tvg-logo="https://vr4neuropain.com/wp-content/uploads/2019/05/CanalSMais.png" group-title="PT | Generalistas",PT: S+ HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53614
-#EXTINF:-1 tvg-id="" tvg-name="PT: S+" tvg-logo="https://vr4neuropain.com/wp-content/uploads/2019/05/CanalSMais.png" group-title="PT | Generalistas",PT: S+
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53615
-#EXTINF:-1 tvg-id="CANCAONOVA.pt" tvg-name="PT: Canção Nova" tvg-logo="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&chanid=202&mime=true&no_default=false" group-title="PT | Generalistas",PT: Canção Nova
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25909
-#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="PT: Porto Canal HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/pp/porto_canal.png" group-title="PT | Generalistas",PT: Porto Canal HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53611
-#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="PT: Porto Canal" tvg-logo="http://109.238.11.8:25461/logo/tv/pp/porto_canal.png" group-title="PT | Generalistas",PT: Porto Canal
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25923
-#EXTINF:-1 tvg-id="" tvg-name="PT: Canal NOS" tvg-logo="https://www.nos.pt/particulares/televisao/canais/exclusivos/PublishingImages/canalnos/logo-white.png" group-title="PT | Generalistas",PT: Canal NOS
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53629
-#EXTINF:-1 tvg-id="Localvisao.pt" tvg-name="PT: Local Visão HD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/Localvisao-TV.png" group-title="PT | Generalistas",PT: Local Visão HD
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53613
-#EXTINF:-1 tvg-id="" tvg-name="PT: Canal 180" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Canal180_logo.png" group-title="PT | Generalistas",PT: Canal 180
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53628
-#EXTINF:-1 tvg-id="DogTV.pt" tvg-name="PT: Dog TV" tvg-logo="https://upload.wikimedia.org/wikipedia/de/f/f9/Dogtv.png" group-title="PT | Generalistas",PT: Dog TV
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53616
-#EXTINF:-1 tvg-id="KURIAKOSTV.pt" tvg-name="PT: Kuriakos TV HD (1080P)" tvg-logo="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&chanid=405&mime=true&no_default=false" group-title="PT | Generalistas",PT: Kuriakos TV HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25942
-#EXTINF:-1 tvg-id="KURIAKOSTV.pt" tvg-name="PT: Kuriakos TV" tvg-logo="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&chanid=405&mime=true&no_default=false" group-title="PT | Generalistas",PT: Kuriakos TV
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25943
-#EXTINF:-1 tvg-id="" tvg-name="•●★--- PT Filmes e Séries ----★●•" tvg-logo="" group-title="PT | Filmes e Séries",•●★--- PT Filmes e Séries ----★●•
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25946
-#EXTINF:-1 tvg-id="TVCineTOP.pt" tvg-name="PT: TVCine Top HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvc1.png" group-title="PT | Filmes e Séries",PT: TVCine Top HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4532
-#EXTINF:-1 tvg-id="TVCineTOP.pt" tvg-name="PT: TVCine Top" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvc1.png" group-title="PT | Filmes e Séries",PT: TVCine Top
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25869
-#EXTINF:-1 tvg-id="TVCineEDITION.pt" tvg-name="PT: TVCine Edition HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvc2.png" group-title="PT | Filmes e Séries",PT: TVCine Edition HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4547
-#EXTINF:-1 tvg-id="TVCineEDITION.pt" tvg-name="PT: TVCine Edition" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvc2.png" group-title="PT | Filmes e Séries",PT: TVCine Edition
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25870
-#EXTINF:-1 tvg-id="TVCineEMOTION.pt" tvg-name="PT: TVCine Emotion FHD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvc3.png" group-title="PT | Filmes e Séries",PT: TVCine Emotion FHD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4540
-#EXTINF:-1 tvg-id="TVCineEMOTION.pt" tvg-name="PT: TVCine Emotion" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvc3.png" group-title="PT | Filmes e Séries",PT: TVCine Emotion
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25871
-#EXTINF:-1 tvg-id="TVCineEMOTION.pt" tvg-name="PT: TVCine Emotion HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvc4.png" group-title="PT | Filmes e Séries",PT: TVCine Emotion HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25873
-#EXTINF:-1 tvg-id="TVCineACTION.pt" tvg-name="PT: TVCine Action HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvc4.png" group-title="PT | Filmes e Séries",PT: TVCine Action HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25872
-#EXTINF:-1 tvg-id="TVCineACTION.pt" tvg-name="PT: TVCine Action" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvc4.png" group-title="PT | Filmes e Séries",PT: TVCine Action
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53509
-#EXTINF:-1 tvg-id="fox.pt" tvg-name="PT: Fox HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ff/fox_global.png" group-title="PT | Filmes e Séries",PT: Fox HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4542
-#EXTINF:-1 tvg-id="FoxMovies.pt" tvg-name="PT: Fox Movies" tvg-logo="http://109.238.11.8:25461/logo/tv/ff/fox_movies_pt.png" group-title="PT | Filmes e Séries",PT: Fox Movies
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4545
-#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="PT: Fox Life HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ff/fox_life_global.png" group-title="PT | Filmes e Séries",PT: Fox Life HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4541
-#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="PT: Fox Crime HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ff/fox_crime_global.png" group-title="PT | Filmes e Séries",PT: Fox Crime HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4543
-#EXTINF:-1 tvg-id="FOXComedy.pt" tvg-name="PT: Fox Comedy HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ff/fox_comedy_pt.png" group-title="PT | Filmes e Séries",PT: Fox Comedy HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25916
-#EXTINF:-1 tvg-id="FOXComedy.pt" tvg-name="PT: Fox Comedy" tvg-logo="http://109.238.11.8:25461/logo/tv/ff/fox_comedy_pt.png" group-title="PT | Filmes e Séries",PT: Fox Comedy
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25915
-#EXTINF:-1 tvg-id="axn.pt" tvg-name="PT: Axn HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/axn_global.png" group-title="PT | Filmes e Séries",PT: Axn HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4534
-#EXTINF:-1 tvg-id="AXNBlack.pt" tvg-name="PT: Axn Movies HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/axn_black_pt.png" group-title="PT | Filmes e Séries",PT: Axn Movies HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4536
-#EXTINF:-1 tvg-id="AXNWhite.pt" tvg-name="PT: Axn White HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/axn_white_pl.png" group-title="PT | Filmes e Séries",PT: Axn White HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4535
-#EXTINF:-1 tvg-id="AMC.pt" tvg-name="PT: AMC HD (1080P)" tvg-logo="http://api.entutele.com/media/channels/big/amc-hd.gif" group-title="PT | Filmes e Séries",PT: AMC HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4537
-#EXTINF:-1 tvg-id="Cinemundo.pt" tvg-name="PT: CineMundo" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Cine-Mundo-PT_o.jpg" group-title="PT | Filmes e Séries",PT: CineMundo
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25888
-#EXTINF:-1 tvg-id="hollywood.pt" tvg-name="PT: Hollywood HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/canal_hollywood_pt.png" group-title="PT | Filmes e Séries",PT: Hollywood HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25856
-#EXTINF:-1 tvg-id="hollywood.pt" tvg-name="PT: Hollywood" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/canal_hollywood_pt.png" group-title="PT | Filmes e Séries",PT: Hollywood
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25892
-#EXTINF:-1 tvg-id="SyFy.pt" tvg-name="PT: SyFy" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/syfy_us_global.png" group-title="PT | Filmes e Séries",PT: SyFy
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25924
-
-#EXTINF:-1 tvg-id="" tvg-name="•●★--- PT Desporto ----★●•" tvg-logo="" group-title="PT | Desporto",•●★--- PT Desporto ----★●•
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4554
-#EXTINF:-1 tvg-id="" tvg-name="PT: MEO Destaques" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Meo_logo.svg/1200px-Meo_logo.svg.png" group-title="PT | Desporto",PT: MEO Destaques
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/57162
-#EXTINF:-1 tvg-id="SportTVplus.pt" tvg-name="PT: SPORT TV+ HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sport_tv_pt_mais.png" group-title="PT | Desporto",PT: SPORT TV+ HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4046
-#EXTINF:-1 tvg-id="SportTVplus.pt" tvg-name="PT: SPORT TV+" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sport_tv_pt_mais.png" group-title="PT | Desporto",PT: SPORT TV+
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25866
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV1 HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sport_tv_pt_1.png" group-title="PT | Desporto",PT: SPORT TV1 HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4041
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV1" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sport_tv_pt_1.png" group-title="PT | Desporto",PT: SPORT TV1
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25861
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV2 HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sport_tv_pt_2.png" group-title="PT | Desporto",PT: SPORT TV2 HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4042
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV2" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sport_tv_pt_2.png" group-title="PT | Desporto",PT: SPORT TV2
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25862
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV3 HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sport_tv_pt_3.png" group-title="PT | Desporto",PT: SPORT TV3 HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4043
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV3" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sport_tv_pt_3.png" group-title="PT | Desporto",PT: SPORT TV3
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25863
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT: SPORT TV4 HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sport_tv_pt_4.png" group-title="PT | Desporto",PT: SPORT TV4 HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4044
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT: SPORT TV4" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sport_tv_pt_4.png" group-title="PT | Desporto",PT: SPORT TV4
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25864
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV5 HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sporttv5.png" group-title="PT | Desporto",PT: SPORT TV5 HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4045
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV5" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sporttv5.png" group-title="PT | Desporto",PT: SPORT TV5
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25865
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV6 HD (1080P)" tvg-logo="https://uploads-eu-west-1.insided.com/meo-pt/attachment/f3f8b257-7ff1-453e-9e97-6dfec9118d9f_thumb.png" group-title="PT | Desporto",PT: SPORT TV6 HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/55931
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV6" tvg-logo="https://uploads-eu-west-1.insided.com/meo-pt/attachment/f3f8b257-7ff1-453e-9e97-6dfec9118d9f_thumb.png" group-title="PT | Desporto",PT: SPORT TV6
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/55932
-#EXTINF:-1 tvg-id="NBA.pt" tvg-name="PT: SPORT TV NBA HD (1080P)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/300px-NBA_TV.svg.png" group-title="PT | Desporto",PT: SPORT TV NBA HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25859
-#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="PT: Eurosport 1 HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eurosport_fr_1.png" group-title="PT | Desporto",PT: Eurosport 1 HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25867
-#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="PT: Eurosport 1" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eurosport_fr_1.png" group-title="PT | Desporto",PT: Eurosport 1
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4544
-#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="PT: Eurosport 2 HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eurosport_fr_2.png" group-title="PT | Desporto",PT: Eurosport 2 HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53624
-#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="PT: Eurosport 2" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eurosport_fr_2.png" group-title="PT | Desporto",PT: Eurosport 2
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25868
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="PT: Benefica TV 1 HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/benfica_tv.png" group-title="PT | Desporto",PT: Benefica TV 1 HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4546
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="PT: Benefica TV 1" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/benfica_tv.png" group-title="PT | Desporto",PT: Benefica TV 1
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25939
-#EXTINF:-1 tvg-id="FuelTV.pt" tvg-name="PT: Fuel TV HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ff/fuel_tv_us.png" group-title="PT | Desporto",PT: Fuel TV HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25938
-#EXTINF:-1 tvg-id="FuelTV.pt" tvg-name="PT: Fuel TV" tvg-logo="http://109.238.11.8:25461/logo/tv/ff/fuel_tv_us.png" group-title="PT | Desporto",PT: Fuel TV
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25937
-#EXTINF:-1 tvg-id="Motorvision.pt" tvg-name="PT: MotorVision HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/motorvision_tv_de.png" group-title="PT | Desporto",PT: MotorVision HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25936
-#EXTINF:-1 tvg-id="Motorvision.pt" tvg-name="PT: MotorVision" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/motorvision_tv_de.png" group-title="PT | Desporto",PT: MotorVision
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25935
-#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="PT: A Bola TV HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/a_bola_tv_pt.png" group-title="PT | Desporto",PT: A Bola TV HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53508
-#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="PT: A Bola TV" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/a_bola_tv_pt.png" group-title="PT | Desporto",PT: A Bola TV
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25902
-#EXTINF:-1 tvg-id="TorosTV.pt" tvg-name="PT: Toros TV HD" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/toros_tv_pt.png" group-title="PT | Desporto",PT: Toros TV HD
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53626
-#EXTINF:-1 tvg-id="TorosTV.pt" tvg-name="PT: Toros TV" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/toros_tv_pt.png" group-title="PT | Desporto",PT: Toros TV
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25926
-#EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-name="PT: Sporting TV HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sporting_tv_pt.png" group-title="PT | Desporto",PT: Sporting TV HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/57165
-#EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-name="PT: Sporting TV" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sporting_tv_pt.png" group-title="PT | Desporto",PT: Sporting TV
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4539
-#EXTINF:-1 tvg-id="pfc.pt" tvg-name="PT: PFC" tvg-logo="http://109.238.11.8:25461/logo/tv/pp/premiere_futebol_clube_internacional.png" group-title="PT | Desporto",PT: PFC
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25940
-#EXTINF:-1 tvg-id="Eurochannel.pt" tvg-name="PT: Kombat Sport" tvg-logo="https://scontent.fcmn2-1.fna.fbcdn.net/v/t1.0-1/p720x720/13260283_937903932997447_374934077655597865_n.png?_nc_cat=111&_nc_ht=scontent.fcmn2-1.fna&oh=fb2296a2b0b99c63db362ae78e7e331f&oe=5D27D8AE" group-title="PT | Desporto",PT: Kombat Sport
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25922
-#EXTINF:-1 tvg-id="" tvg-name="PT: Advance Sic HD (1080P)" tvg-logo="https://images.impresa.pt/sicrad/2020-12-18-Advnce-Show.png" group-title="PT | Desporto",PT: Advance Sic HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/57163
-#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="PT: Canal 11 HD (1080P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png" group-title="PT | Desporto",PT: Canal 11 HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53506
-#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="PT: Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png" group-title="PT | Desporto",PT: Canal 11
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53507
-
-#EXTINF:-1 tvg-id="" tvg-name="•●★--- PT Entretenimento ----★●•" tvg-logo="" group-title="PT | Entretenimento",•●★--- PT Entretenimento ----★●•
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25947
-#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="PT: 24 Kitchen HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/num/24_kitchen_us.png" group-title="PT | Entretenimento",PT: 24 Kitchen HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4533
-#EXTINF:-1 tvg-id="CasaCozinha.pt" tvg-name="PT: Casa Cozinha HD (1080P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Casa-e-cozinha-Logo.png" group-title="PT | Entretenimento",PT: Casa Cozinha HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53607
-#EXTINF:-1 tvg-id="FoodNetwork.pt" tvg-name="PT: Food Network HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ff/food_network_us.png" group-title="PT | Entretenimento",PT: Food Network HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53608
-#EXTINF:-1 tvg-id="TVGlobo.pt" tvg-name="PT: TV Globo HD (1080P)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f3/Rede_Globo_2014.png" group-title="PT | Entretenimento",PT: TV Globo HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53604
-#EXTINF:-1 tvg-id="TVGlobo.pt" tvg-name="PT: TV Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f3/Rede_Globo_2014.png" group-title="PT | Entretenimento",PT: TV Globo
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25919
-#EXTINF:-1 tvg-id="GloboNow.pt" tvg-name="PT: Globo Now" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/globo-now/Globo_Now.png" group-title="PT | Entretenimento",PT: Globo Now
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25918
-#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="PT: SIC RADICAL HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sic_pt_radical.png" group-title="PT | Entretenimento",PT: SIC RADICAL HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/20007
-#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="PT: SIC RADICAL" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sic_pt_radical.png" group-title="PT | Entretenimento",PT: SIC RADICAL
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25884
-#EXTINF:-1 tvg-id="SicCaras.pt" tvg-name="PT: SIC Caras HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sic_pt_caras.png" group-title="PT | Entretenimento",PT: SIC Caras HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53605
-#EXTINF:-1 tvg-id="SicCaras.pt" tvg-name="PT: SIC Caras" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sic_pt_caras.png" group-title="PT | Entretenimento",PT: SIC Caras
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25881
-#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="PT: SIC Mulher HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sic_pt_mulher.png" group-title="PT | Entretenimento",PT: SIC Mulher HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53606
-#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="PT: SIC Mulher" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sic_pt_mulher.png" group-title="PT | Entretenimento",PT: SIC Mulher
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25885
-#EXTINF:-1 tvg-id="SicK.pt" tvg-name="PT: SIC K HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sic_pt_k.png" group-title="PT | Entretenimento",PT: SIC K HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25894
-#EXTINF:-1 tvg-id="SicK.pt" tvg-name="PT: SIC K" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sic_pt_k.png" group-title="PT | Entretenimento",PT: SIC K
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25882
-#EXTINF:-1 tvg-id="BBCentertainment.pt" tvg-name="PT: BBC Entertainment" tvg-logo="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&chanid=341&mime=true&no_default=false" group-title="PT | Entretenimento",PT: BBC Entertainment
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25933
-#EXTINF:-1 tvg-id="CanalQ.pt" tvg-name="PT: Canal Q" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/canal_q.png" group-title="PT | Entretenimento",PT: Canal Q
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25910
-#EXTINF:-1 tvg-id="TLC.pt" tvg-name="PT: TLC" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tlc_us.png" group-title="PT | Entretenimento",PT: TLC
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25925
-#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-name="PT: MTV Portugal HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/mtv_us.png" group-title="PT | Entretenimento",PT: MTV Portugal HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53630
-#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-name="PT: MTV Portugal" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/mtv_us.png" group-title="PT | Entretenimento",PT: MTV Portugal
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25920
-#EXTINF:-1 tvg-id="zapvivahd.pt" tvg-name="PT: Zap Viva HD (1080P)" tvg-logo="https://angolanossa.com/wp-content/uploads/2020/08/Zap-Viva_copy_1200x1200-770x430.png" group-title="PT | Entretenimento",PT: Zap Viva HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53631
-#EXTINF:-1 tvg-id="" tvg-name="PT: Blaze HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/blaze_uk.png" group-title="PT | Entretenimento",PT: Blaze HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53612
-#EXTINF:-1 tvg-id="" tvg-name="PT: Blaze" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/blaze_uk.png" group-title="PT | Entretenimento",PT: Blaze
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25907
-#EXTINF:-1 tvg-id="" tvg-name="•●★--- PT Documentários ----★●•" tvg-logo="" group-title="PT | Documentários",•●★--- PT Documentários ----★●•
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25948
-#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="PT: Discovery Channel HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/disney_channel_global.png" group-title="PT | Documentários",PT: Discovery Channel HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/57164
-#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="PT: Discovery Channel" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/disney_channel_global.png" group-title="PT | Documentários",PT: Discovery Channel
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25895
-#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="PT: National Geoghraphic HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nat_geo_us_hd.png" group-title="PT | Documentários",PT: National Geoghraphic HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25858
-#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="PT: National Geographic" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nat_geo_us_hd.png" group-title="PT | Documentários",PT: National Geographic
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53617
-#EXTINF:-1 tvg-id="NatGeoWild.pt" tvg-name="PT: Nat Geo Wild HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nat_geo_wild_us.png" group-title="PT | Documentários",PT: Nat Geo Wild HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25941
-#EXTINF:-1 tvg-id="NatGeoWild.pt" tvg-name="PT: Nat Geo Wild" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nat_geo_wild_us.png" group-title="PT | Documentários",PT: Nat Geo Wild
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25893
-#EXTINF:-1 tvg-id="HistoryChannel.pt" tvg-name="PT: Historia HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/hh/historia_pt.png" group-title="PT | Documentários",PT: Historia HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53621
-#EXTINF:-1 tvg-id="HistoryChannel.pt" tvg-name="PT: Historia" tvg-logo="http://109.238.11.8:25461/logo/tv/hh/historia_pt.png" group-title="PT | Documentários",PT: Historia
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25897
-#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="PT: Odisseia HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/oo/odisseia_pt.png" group-title="PT | Documentários",PT: Odisseia HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53620
-#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="PT: Odisseia" tvg-logo="http://109.238.11.8:25461/logo/tv/oo/odisseia_pt.png" group-title="PT | Documentários",PT: Odisseia
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25921
-#EXTINF:-1 tvg-id="TravelChannel.pt" tvg-name="PT: Travel Channel HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/travel_channel_europe.png" group-title="PT | Documentários",PT: Travel Channel HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25857
-#EXTINF:-1 tvg-id="TravelChannel.pt" tvg-name="PT: Travel Channel" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/travel_channel_europe.png" group-title="PT | Documentários",PT: Travel Channel
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53610
-#EXTINF:-1 tvg-id="eentertainment.pt" tvg-name="PT: E! Entertainment HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/e_global_us.png" group-title="PT | Documentários",PT: E! Entertainment HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53609
-#EXTINF:-1 tvg-id="eentertainment.pt" tvg-name="PT: E! Entertainment" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/e_global_us.png" group-title="PT | Documentários",PT: E! Entertainment
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25913
-#EXTINF:-1 tvg-id="investigationdiscovery.pt" tvg-name="PT: Investigation Discovery HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ii/investigation_discovery_us.png" group-title="PT | Documentários",PT: Investigation Discovery HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53618
-#EXTINF:-1 tvg-id="investigationdiscovery.pt" tvg-name="PT: Investigation Discovery" tvg-logo="http://109.238.11.8:25461/logo/tv/ii/investigation_discovery_us.png" group-title="PT | Documentários",PT: Investigation Discovery
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53619
-#EXTINF:-1 tvg-id="CrimeInvestigation.pt" tvg-name="PT: Crime Investigation HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/crime_investigation_network_uk.png" group-title="PT | Documentários",PT: Crime Investigation HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53623
-#EXTINF:-1 tvg-id="CrimeInvestigation.pt" tvg-name="PT: Crime Investigation" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/crime_investigation_network_uk.png" group-title="PT | Documentários",PT: Crime Investigation
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53622
-#EXTINF:-1 tvg-id="cazaepesca.pt" tvg-name="PT: Caça e Pesca HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/caza_y_pesca_es.png" group-title="PT | Documentários",PT: Caça e Pesca HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53627
-#EXTINF:-1 tvg-id="cazaepesca.pt" tvg-name="PT: Caça e Pesca" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/caza_y_pesca_es.png" group-title="PT | Documentários",PT: Caça e Pesca
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25934
-#EXTINF:-1 tvg-id="CacaVision.pt" tvg-name="PT: Cazavisión HD" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/cazavision.gif" group-title="PT | Documentários",PT: Cazavisión HD
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/41808
-#EXTINF:-1 tvg-id="CacaVision.pt" tvg-name="PT: Caçavision" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/cazavision.gif" group-title="PT | Documentários",PT: Caçavision
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25908
-#EXTINF:-1 tvg-id="CBSReality.pt" tvg-name="PT: CBS Reality" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/cbs_reality_pl.png" group-title="PT | Documentários",PT: CBS Reality
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25911
-#EXTINF:-1 tvg-id="" tvg-name="PT: Fashion TV" tvg-logo="https://yt3.ggpht.com/-Wq-c6HkRuZ0/AAAAAAAAAAI/AAAAAAAAAAA/-YZ3s3KkTFA/s88-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="PT | Documentários",PT: Fashion TV
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25917
-#EXTINF:-1 tvg-id="" tvg-name="•●★--- PT Infantil ----★●•" tvg-logo="" group-title="PT | Infantil",•●★--- PT Infantil ----★●•
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25945
-#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="PT: Disney Channel" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/disney_channel_global.png" group-title="PT | Infantil",PT: Disney Channel
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25889
-#EXTINF:-1 tvg-id="DisneyJunior.pt" tvg-name="PT: Disney Junior" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/disney_junior_us.png" group-title="PT | Infantil",PT: Disney Junior
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25890
-#EXTINF:-1 tvg-id="cartoon.pt" tvg-name="PT: Cartoon Network" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/cartoon_network_global.png" group-title="PT | Infantil",PT: Cartoon Network
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25887
-#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="PT: Nickelodeon" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nickelodeon_us.png" group-title="PT | Infantil",PT: Nickelodeon
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25900
-#EXTINF:-1 tvg-id="NickJr.pt" tvg-name="PT: Nick Jr" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nick_jr_us.png" group-title="PT | Infantil",PT: Nick Jr
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25901
-#EXTINF:-1 tvg-id="canalpanda.pt" tvg-name="PT: Canal Panda HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/canal_panda_pt.png" group-title="PT | Infantil",PT: Canal Panda HD (1080P)
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53594
-#EXTINF:-1 tvg-id="canalpanda.pt" tvg-name="PT: Canal Panda" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/canal_panda_pt.png" group-title="PT | Infantil",PT: Canal Panda
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25886
-#EXTINF:-1 tvg-id="PandaBiggs.pt" tvg-name="PT: Panda Biggs" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Panda_Biggs_logo.png" group-title="PT | Infantil",PT: Panda Biggs
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53595
-#EXTINF:-1 tvg-id="JimJam.pt" tvg-name="PT: Jim Jam" tvg-logo="http://109.238.11.8:25461/logo/tv/jj/jim_jam_pl.png" group-title="PT | Infantil",PT: Jim Jam
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25891
-#EXTINF:-1 tvg-id="" tvg-name="PT: Biggs" tvg-logo="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&chanid=146&mime=true&no_default=false" group-title="PT | Infantil",PT: Biggs
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25906
-#EXTINF:-1 tvg-id="BabyTV.pt" tvg-name="PT: Baby TV" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/baby_tv_eu.png" group-title="PT | Infantil",PT: Baby TV
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25905
-#EXTINF:-1 tvg-id="" tvg-name="•●★--- PT Informação ----★●•" tvg-logo="" group-title="PT | Informação",•●★--- PT Informação ----★●•
-http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25949
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="PT: SIC Noticias HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sic_pt_noticias.png" group-title="PT | Informação",PT: SIC Noticias HD (1080P)
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="SIC Noticias HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sic_pt_noticias.png",SIC Noticias HD (1080P)
 http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25883
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="PT: SIC Noticias" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sic_pt_noticias.png" group-title="PT | Informação",PT: SIC Noticias
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="SIC Noticias" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sic_pt_noticias.png",SIC Noticias
 http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53505
-#EXTINF:-1 tvg-id="SICINMC" tvg-name="PT: SIC Internacional FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sic_pt.png" group-title="PT | Informação",PT: SIC Internacional FHD
+#EXTINF:-1 tvg-id="SICINMC" tvg-name="SIC Internacional FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sic_pt.png",SIC Internacional FHD
 http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/69419
-#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="PT: CMTV HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/cm_tv_pt.png" group-title="PT | Informação",PT: CMTV HD (1080P)
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/cm_tv_pt.png",CMTV HD (1080P)
 http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25912
-#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="PT: CMTV" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/cm_tv_pt.png" group-title="PT | Informação",PT: CMTV
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/cm_tv_pt.png",CMTV
 http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53503
-#EXTINF:-1 tvg-id="" tvg-name="PT: TCV Cabo Verde" tvg-logo="https://lh3.googleusercontent.com/bV_Ttklj72U2G3fevqhtpI90aJeigWTaxAiJJimKgheJgmd5w16DPrIvZODvGrSA0CM=h1024-no-tmp_tcv_cabo_verde_apk.jpg" group-title="PT | Informação",PT: TCV Cabo Verde
+#EXTINF:-1 tvg-id="" tvg-name="TCV Cabo Verde" tvg-logo="https://lh3.googleusercontent.com/bV_Ttklj72U2G3fevqhtpI90aJeigWTaxAiJJimKgheJgmd5w16DPrIvZODvGrSA0CM=h1024-no-tmp_tcv_cabo_verde_apk.jpg",TCV Cabo Verde
 http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/55604
-#EXTINF:-1 tvg-id="" tvg-name="PT: Euronews" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/euronews_fr.png" group-title="PT | Informação",PT: Euronews
+#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/euronews_fr.png",Euronews
 http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25914
-#EXTINF:-1 tvg-id="TVI24.pt" tvg-name="PT: TVI 24 HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvi_24.png" group-title="PT | Informação",PT: TVI 24 HD (1080P)
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-name="TVI 24 HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvi_24.png",TVI 24 HD (1080P)
 http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25928
-#EXTINF:-1 tvg-id="TVI24.pt" tvg-name="PT: TVI 24" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvi_24.png" group-title="PT | Informação",PT: TVI 24
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-name="TVI 24" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvi_24.png",TVI 24
 http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53504
+#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="TVI Ficção HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvi_ficcao_pt.png",TVI Ficção HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53596
+#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="TVI Ficção" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvi_ficcao_pt.png",TVI Ficção
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25931
+#EXTINF:-1 tvg-id="TVIReal.pt" tvg-name="TVI Reality HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvi_reality_pt.png",TVI Reality HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53597
+#EXTINF:-1 tvg-id="TVIReal.pt" tvg-name="TVI Reality" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvi_reality_pt.png",TVI Reality
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25932
+#EXTINF:-1 tvg-id="" tvg-name="TVI Reality Mosaico" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvi_reality_pt.png",TVI Reality Mosaico
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53603
+#EXTINF:-1 tvg-id="" tvg-name="TVI Reality CAM 1" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvi_reality_pt.png",TVI Reality CAM 1
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53599
+#EXTINF:-1 tvg-id="" tvg-name="TVI Reality CAM 2" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvi_reality_pt.png",TVI Reality CAM 2
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53600
+#EXTINF:-1 tvg-id="" tvg-name="TVI Reality CAM 3" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvi_reality_pt.png",TVI Reality CAM 3
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53601
+#EXTINF:-1 tvg-id="" tvg-name="TVI Reality CAM 4" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvi_reality_pt.png",TVI Reality CAM 4
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53602
+#EXTINF:-1 tvg-id="tvrecord.pt" tvg-name="TV Record" tvg-logo="http://109.238.11.8:25461/logo/tv/rr/rede_record_br.png",TV Record
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25927
+#EXTINF:-1 tvg-id="NOSStudios.pt" tvg-name="Nos Studio HD (1080P)" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/destaques_programacao/logo_NOSSTUDIOS.png",Nos Studio HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53510
+#EXTINF:-1 tvg-id="NOSStudios.pt" tvg-name="Nos Studios" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/destaques_programacao/logo_NOSSTUDIOS.png",Nos Studios
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53511
+#EXTINF:-1 tvg-id="" tvg-name="S+ HD (1080P)" tvg-logo="https://vr4neuropain.com/wp-content/uploads/2019/05/CanalSMais.png",S+ HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53614
+#EXTINF:-1 tvg-id="" tvg-name="S+" tvg-logo="https://vr4neuropain.com/wp-content/uploads/2019/05/CanalSMais.png",S+
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53615
+#EXTINF:-1 tvg-id="CANCAONOVA.pt" tvg-name="Canção Nova" tvg-logo="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&chanid=202&mime=true&no_default=false",Canção Nova
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25909
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="Porto Canal HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/pp/porto_canal.png",Porto Canal HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53611
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="Porto Canal" tvg-logo="http://109.238.11.8:25461/logo/tv/pp/porto_canal.png",Porto Canal
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25923
+#EXTINF:-1 tvg-id="" tvg-name="Canal NOS" tvg-logo="https://www.nos.pt/particulares/televisao/canais/exclusivos/PublishingImages/canalnos/logo-white.png",Canal NOS
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53629
+#EXTINF:-1 tvg-id="Localvisao.pt" tvg-name="Local Visão HD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/Localvisao-TV.png",Local Visão HD
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53613
+#EXTINF:-1 tvg-id="" tvg-name="Canal 180" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Canal180_logo.png",Canal 180
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53628
+#EXTINF:-1 tvg-id="DogTV.pt" tvg-name="Dog TV" tvg-logo="https://upload.wikimedia.org/wikipedia/de/f/f9/Dogtv.png",Dog TV
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53616
+#EXTINF:-1 tvg-id="KURIAKOSTV.pt" tvg-name="Kuriakos TV HD (1080P)" tvg-logo="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&chanid=405&mime=true&no_default=false",Kuriakos TV HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25942
+#EXTINF:-1 tvg-id="KURIAKOSTV.pt" tvg-name="Kuriakos TV" tvg-logo="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&chanid=405&mime=true&no_default=false",Kuriakos TV
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25943
+#EXTINF:-1 tvg-id="TVCineTOP.pt" tvg-name="TVCine Top HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvc1.png",TVCine Top HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4532
+#EXTINF:-1 tvg-id="TVCineTOP.pt" tvg-name="TVCine Top" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvc1.png",TVCine Top
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25869
+#EXTINF:-1 tvg-id="TVCineEDITION.pt" tvg-name="TVCine Edition HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvc2.png",TVCine Edition HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4547
+#EXTINF:-1 tvg-id="TVCineEDITION.pt" tvg-name="TVCine Edition" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvc2.png",TVCine Edition
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25870
+#EXTINF:-1 tvg-id="TVCineEMOTION.pt" tvg-name="TVCine Emotion FHD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvc3.png",TVCine Emotion FHD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4540
+#EXTINF:-1 tvg-id="TVCineEMOTION.pt" tvg-name="TVCine Emotion" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvc3.png",TVCine Emotion
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25871
+#EXTINF:-1 tvg-id="TVCineEMOTION.pt" tvg-name="TVCine Emotion HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvc4.png",TVCine Emotion HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25873
+#EXTINF:-1 tvg-id="TVCineACTION.pt" tvg-name="TVCine Action HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvc4.png",TVCine Action HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25872
+#EXTINF:-1 tvg-id="TVCineACTION.pt" tvg-name="TVCine Action" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvc4.png",TVCine Action
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53509
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="Fox HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ff/fox_global.png",Fox HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4542
+#EXTINF:-1 tvg-id="FoxMovies.pt" tvg-name="Fox Movies" tvg-logo="http://109.238.11.8:25461/logo/tv/ff/fox_movies_pt.png",Fox Movies
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4545
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="Fox Life HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ff/fox_life_global.png",Fox Life HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4541
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="Fox Crime HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ff/fox_crime_global.png",Fox Crime HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4543
+#EXTINF:-1 tvg-id="FOXComedy.pt" tvg-name="Fox Comedy HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ff/fox_comedy_pt.png",Fox Comedy HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25916
+#EXTINF:-1 tvg-id="FOXComedy.pt" tvg-name="Fox Comedy" tvg-logo="http://109.238.11.8:25461/logo/tv/ff/fox_comedy_pt.png",Fox Comedy
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25915
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="Axn HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/axn_global.png",Axn HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4534
+#EXTINF:-1 tvg-id="AXNBlack.pt" tvg-name="Axn Movies HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/axn_black_pt.png",Axn Movies HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4536
+#EXTINF:-1 tvg-id="AXNWhite.pt" tvg-name="Axn White HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/axn_white_pl.png",Axn White HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4535
+#EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC HD (1080P)" tvg-logo="http://api.entutele.com/media/channels/big/amc-hd.gif",AMC HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4537
+#EXTINF:-1 tvg-id="Cinemundo.pt" tvg-name="CineMundo" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Cine-Mundo-PT_o.jpg",CineMundo
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25888
+#EXTINF:-1 tvg-id="hollywood.pt" tvg-name="Hollywood HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/canal_hollywood_pt.png",Hollywood HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25856
+#EXTINF:-1 tvg-id="hollywood.pt" tvg-name="Hollywood" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/canal_hollywood_pt.png",Hollywood
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25892
+#EXTINF:-1 tvg-id="SyFy.pt" tvg-name="SyFy" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/syfy_us_global.png",SyFy
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25924
+#EXTINF:-1 tvg-id="" tvg-name="MEO Destaques" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Meo_logo.svg/1200px-Meo_logo.svg.png",MEO Destaques
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/57162
+#EXTINF:-1 tvg-id="SportTVplus.pt" tvg-name="SPORT TV+ HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sport_tv_pt_mais.png",SPORT TV+ HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4046
+#EXTINF:-1 tvg-id="SportTVplus.pt" tvg-name="SPORT TV+" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sport_tv_pt_mais.png",SPORT TV+
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25866
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV1 HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sport_tv_pt_1.png",SPORT TV1 HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4041
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV1" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sport_tv_pt_1.png",SPORT TV1
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25861
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV2 HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sport_tv_pt_2.png",SPORT TV2 HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4042
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV2" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sport_tv_pt_2.png",SPORT TV2
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25862
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORT TV3 HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sport_tv_pt_3.png",SPORT TV3 HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4043
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORT TV3" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sport_tv_pt_3.png",SPORT TV3
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25863
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPORT TV4 HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sport_tv_pt_4.png",SPORT TV4 HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4044
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPORT TV4" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sport_tv_pt_4.png",SPORT TV4
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25864
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="SPORT TV5 HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sporttv5.png",SPORT TV5 HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4045
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="SPORT TV5" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sporttv5.png",SPORT TV5
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25865
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV6 HD (1080P)" tvg-logo="https://uploads-eu-west-1.insided.com/meo-pt/attachment/f3f8b257-7ff1-453e-9e97-6dfec9118d9f_thumb.png",SPORT TV6 HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/55931
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV6" tvg-logo="https://uploads-eu-west-1.insided.com/meo-pt/attachment/f3f8b257-7ff1-453e-9e97-6dfec9118d9f_thumb.png",SPORT TV6
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/55932
+#EXTINF:-1 tvg-id="NBA.pt" tvg-name="SPORT TV NBA HD (1080P)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/300px-NBA_TV.svg.png",SPORT TV NBA HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25859
+#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1 HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eurosport_fr_1.png",Eurosport 1 HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25867
+#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eurosport_fr_1.png",Eurosport 1
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4544
+#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="Eurosport 2 HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eurosport_fr_2.png",Eurosport 2 HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53624
+#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="Eurosport 2" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eurosport_fr_2.png",Eurosport 2
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25868
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="Benefica TV 1 HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/benfica_tv.png",Benefica TV 1 HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4546
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="Benefica TV 1" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/benfica_tv.png",Benefica TV 1
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25939
+#EXTINF:-1 tvg-id="FuelTV.pt" tvg-name="Fuel TV HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ff/fuel_tv_us.png",Fuel TV HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25938
+#EXTINF:-1 tvg-id="FuelTV.pt" tvg-name="Fuel TV" tvg-logo="http://109.238.11.8:25461/logo/tv/ff/fuel_tv_us.png",Fuel TV
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25937
+#EXTINF:-1 tvg-id="Motorvision.pt" tvg-name="MotorVision HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/motorvision_tv_de.png",MotorVision HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25936
+#EXTINF:-1 tvg-id="Motorvision.pt" tvg-name="MotorVision" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/motorvision_tv_de.png",MotorVision
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25935
+#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="A Bola TV HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/a_bola_tv_pt.png",A Bola TV HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53508
+#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="A Bola TV" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/a_bola_tv_pt.png",A Bola TV
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25902
+#EXTINF:-1 tvg-id="TorosTV.pt" tvg-name="Toros TV HD" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/toros_tv_pt.png",Toros TV HD
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53626
+#EXTINF:-1 tvg-id="TorosTV.pt" tvg-name="Toros TV" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/toros_tv_pt.png",Toros TV
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25926
+#EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-name="Sporting TV HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sporting_tv_pt.png",Sporting TV HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/57165
+#EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-name="Sporting TV" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sporting_tv_pt.png",Sporting TV
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4539
+#EXTINF:-1 tvg-id="pfc.pt" tvg-name="PFC" tvg-logo="http://109.238.11.8:25461/logo/tv/pp/premiere_futebol_clube_internacional.png",PFC
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25940
+#EXTINF:-1 tvg-id="Eurochannel.pt" tvg-name="Kombat Sport" tvg-logo="https://scontent.fcmn2-1.fna.fbcdn.net/v/t1.0-1/p720x720/13260283_937903932997447_374934077655597865_n.png?_nc_cat=111&_nc_ht=scontent.fcmn2-1.fna&oh=fb2296a2b0b99c63db362ae78e7e331f&oe=5D27D8AE",Kombat Sport
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25922
+#EXTINF:-1 tvg-id="" tvg-name="Advance Sic HD (1080P)" tvg-logo="https://images.impresa.pt/sicrad/2020-12-18-Advnce-Show.png",Advance Sic HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/57163
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="Canal 11 HD (1080P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png",Canal 11 HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53506
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png",Canal 11
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53507
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="24 Kitchen HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/num/24_kitchen_us.png",24 Kitchen HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/4533
+#EXTINF:-1 tvg-id="CasaCozinha.pt" tvg-name="Casa Cozinha HD (1080P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Casa-e-cozinha-Logo.png",Casa Cozinha HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53607
+#EXTINF:-1 tvg-id="FoodNetwork.pt" tvg-name="Food Network HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ff/food_network_us.png",Food Network HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53608
+#EXTINF:-1 tvg-id="TVGlobo.pt" tvg-name="TV Globo HD (1080P)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f3/Rede_Globo_2014.png",TV Globo HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53604
+#EXTINF:-1 tvg-id="TVGlobo.pt" tvg-name="TV Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f3/Rede_Globo_2014.png",TV Globo
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25919
+#EXTINF:-1 tvg-id="GloboNow.pt" tvg-name="Globo Now" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/globo-now/Globo_Now.png",Globo Now
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25918
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="SIC RADICAL HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sic_pt_radical.png",SIC RADICAL HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/20007
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="SIC RADICAL" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sic_pt_radical.png",SIC RADICAL
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25884
+#EXTINF:-1 tvg-id="SicCaras.pt" tvg-name="SIC Caras HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sic_pt_caras.png",SIC Caras HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53605
+#EXTINF:-1 tvg-id="SicCaras.pt" tvg-name="SIC Caras" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sic_pt_caras.png",SIC Caras
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25881
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="SIC Mulher HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sic_pt_mulher.png",SIC Mulher HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53606
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="SIC Mulher" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sic_pt_mulher.png",SIC Mulher
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25885
+#EXTINF:-1 tvg-id="SicK.pt" tvg-name="SIC K HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sic_pt_k.png",SIC K HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25894
+#EXTINF:-1 tvg-id="SicK.pt" tvg-name="SIC K" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sic_pt_k.png",SIC K
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25882
+#EXTINF:-1 tvg-id="BBCentertainment.pt" tvg-name="BBC Entertainment" tvg-logo="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&chanid=341&mime=true&no_default=false",BBC Entertainment
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25933
+#EXTINF:-1 tvg-id="CanalQ.pt" tvg-name="Canal Q" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/canal_q.png",Canal Q
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25910
+#EXTINF:-1 tvg-id="TLC.pt" tvg-name="TLC" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tlc_us.png",TLC
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25925
+#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-name="MTV Portugal HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/mtv_us.png",MTV Portugal HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53630
+#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-name="MTV Portugal" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/mtv_us.png",MTV Portugal
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25920
+#EXTINF:-1 tvg-id="zapvivahd.pt" tvg-name="Zap Viva HD (1080P)" tvg-logo="https://angolanossa.com/wp-content/uploads/2020/08/Zap-Viva_copy_1200x1200-770x430.png",Zap Viva HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53631
+#EXTINF:-1 tvg-id="" tvg-name="Blaze HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/blaze_uk.png",Blaze HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53612
+#EXTINF:-1 tvg-id="" tvg-name="Blaze" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/blaze_uk.png",Blaze
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25907
+#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="Discovery Channel HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/disney_channel_global.png",Discovery Channel HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/57164
+#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="Discovery Channel" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/disney_channel_global.png",Discovery Channel
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25895
+#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="National Geoghraphic HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nat_geo_us_hd.png",National Geoghraphic HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25858
+#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="National Geographic" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nat_geo_us_hd.png",National Geographic
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53617
+#EXTINF:-1 tvg-id="NatGeoWild.pt" tvg-name="Nat Geo Wild HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nat_geo_wild_us.png",Nat Geo Wild HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25941
+#EXTINF:-1 tvg-id="NatGeoWild.pt" tvg-name="Nat Geo Wild" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nat_geo_wild_us.png",Nat Geo Wild
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25893
+#EXTINF:-1 tvg-id="HistoryChannel.pt" tvg-name="Historia HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/hh/historia_pt.png",Historia HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53621
+#EXTINF:-1 tvg-id="HistoryChannel.pt" tvg-name="Historia" tvg-logo="http://109.238.11.8:25461/logo/tv/hh/historia_pt.png",Historia
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25897
+#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="Odisseia HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/oo/odisseia_pt.png",Odisseia HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53620
+#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="Odisseia" tvg-logo="http://109.238.11.8:25461/logo/tv/oo/odisseia_pt.png",Odisseia
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25921
+#EXTINF:-1 tvg-id="TravelChannel.pt" tvg-name="Travel Channel HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/travel_channel_europe.png",Travel Channel HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25857
+#EXTINF:-1 tvg-id="TravelChannel.pt" tvg-name="Travel Channel" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/travel_channel_europe.png",Travel Channel
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53610
+#EXTINF:-1 tvg-id="eentertainment.pt" tvg-name="E! Entertainment HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/e_global_us.png",E! Entertainment HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53609
+#EXTINF:-1 tvg-id="eentertainment.pt" tvg-name="E! Entertainment" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/e_global_us.png",E! Entertainment
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25913
+#EXTINF:-1 tvg-id="investigationdiscovery.pt" tvg-name="Investigation Discovery HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/ii/investigation_discovery_us.png",Investigation Discovery HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53618
+#EXTINF:-1 tvg-id="investigationdiscovery.pt" tvg-name="Investigation Discovery" tvg-logo="http://109.238.11.8:25461/logo/tv/ii/investigation_discovery_us.png",Investigation Discovery
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53619
+#EXTINF:-1 tvg-id="CrimeInvestigation.pt" tvg-name="Crime Investigation HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/crime_investigation_network_uk.png",Crime Investigation HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53623
+#EXTINF:-1 tvg-id="CrimeInvestigation.pt" tvg-name="Crime Investigation" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/crime_investigation_network_uk.png",Crime Investigation
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53622
+#EXTINF:-1 tvg-id="cazaepesca.pt" tvg-name="Caça e Pesca HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/caza_y_pesca_es.png",Caça e Pesca HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53627
+#EXTINF:-1 tvg-id="cazaepesca.pt" tvg-name="Caça e Pesca" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/caza_y_pesca_es.png",Caça e Pesca
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25934
+#EXTINF:-1 tvg-id="CacaVision.pt" tvg-name="Cazavisión HD" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/cazavision.gif",Cazavisión HD
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/41808
+#EXTINF:-1 tvg-id="CacaVision.pt" tvg-name="Caçavision" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/cazavision.gif",Caçavision
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25908
+#EXTINF:-1 tvg-id="CBSReality.pt" tvg-name="CBS Reality" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/cbs_reality_pl.png",CBS Reality
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25911
+#EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="https://yt3.ggpht.com/-Wq-c6HkRuZ0/AAAAAAAAAAI/AAAAAAAAAAA/-YZ3s3KkTFA/s88-c-k-no-mo-rj-c0xffffff/photo.jpg",Fashion TV
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25917
+#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="Disney Channel" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/disney_channel_global.png",Disney Channel
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25889
+#EXTINF:-1 tvg-id="DisneyJunior.pt" tvg-name="Disney Junior" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/disney_junior_us.png",Disney Junior
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25890
+#EXTINF:-1 tvg-id="cartoon.pt" tvg-name="Cartoon Network" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/cartoon_network_global.png",Cartoon Network
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25887
+#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="Nickelodeon" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nickelodeon_us.png",Nickelodeon
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25900
+#EXTINF:-1 tvg-id="NickJr.pt" tvg-name="Nick Jr" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nick_jr_us.png",Nick Jr
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25901
+#EXTINF:-1 tvg-id="canalpanda.pt" tvg-name="Canal Panda HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/canal_panda_pt.png",Canal Panda HD (1080P)
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53594
+#EXTINF:-1 tvg-id="canalpanda.pt" tvg-name="Canal Panda" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/canal_panda_pt.png",Canal Panda
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25886
+#EXTINF:-1 tvg-id="PandaBiggs.pt" tvg-name="Panda Biggs" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Panda_Biggs_logo.png",Panda Biggs
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/53595
+#EXTINF:-1 tvg-id="JimJam.pt" tvg-name="Jim Jam" tvg-logo="http://109.238.11.8:25461/logo/tv/jj/jim_jam_pl.png",Jim Jam
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25891
+#EXTINF:-1 tvg-id="" tvg-name="Biggs" tvg-logo="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&chanid=146&mime=true&no_default=false",Biggs
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25906
+#EXTINF:-1 tvg-id="BabyTV.pt" tvg-name="Baby TV" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/baby_tv_eu.png",Baby TV
+http://biloiptv.eu.com:8080/@papip2p/@hs843HStg-gh5ZF/25905
