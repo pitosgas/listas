@@ -1,64 +1,64 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1" tvg-logo="",RTP 1
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="RTP 1" tvg-logo="",RTP 1
 http://conexaoonline.top:80/3694528017/3514520064/261086
-#EXTINF:-1 tvg-id="" tvg-name="RTP 2" tvg-logo="",RTP 2
+#EXTINF:-1 tvg-id="RTP 2" tvg-name="RTP 2" tvg-logo="",RTP 2
 http://conexaoonline.top:80/3694528017/3514520064/261085
-#EXTINF:-1 tvg-id="" tvg-name="SIC" tvg-logo="",SIC
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC" tvg-logo="",SIC
 http://conexaoonline.top:80/3694528017/3514520064/261078
-#EXTINF:-1 tvg-id="" tvg-name="TVI" tvg-logo="",TVI
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVI" tvg-logo="",TVI
 http://conexaoonline.top:80/3694528017/3514520064/261103
-#EXTINF:-1 tvg-id="" tvg-name="CMTV" tvg-logo="",CMTV
+#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV" tvg-logo="",CMTV
 http://conexaoonline.top:80/3694528017/3514520064/261011
-#EXTINF:-1 tvg-id="" tvg-name="RTP 3" tvg-logo="",RTP 3
+#EXTINF:-1 tvg-id="RTP 3" tvg-name="RTP 3" tvg-logo="",RTP 3
 http://conexaoonline.top:80/3694528017/3514520064/261084
-#EXTINF:-1 tvg-id="" tvg-name="TVI 24" tvg-logo="",TVI 24
+#EXTINF:-1 tvg-id="TVI 24" tvg-name="TVI 24" tvg-logo="",TVI 24
 http://conexaoonline.top:80/3694528017/3514520064/261102
-#EXTINF:-1 tvg-id="" tvg-name="SIC NOTICIAS" tvg-logo="",SIC NOTICIAS
+#EXTINF:-1 tvg-id="SIC NOTICIAS" tvg-name="SIC NOTICIAS" tvg-logo="",SIC NOTICIAS
 http://conexaoonline.top:80/3694528017/3514520064/261074
-#EXTINF:-1 tvg-id="" tvg-name="TVI REALITY" tvg-logo="",TVI REALITY
+#EXTINF:-1 tvg-id="TVI REALITY" tvg-name="TVI REALITY" tvg-logo="",TVI REALITY
 http://conexaoonline.top:80/3694528017/3514520064/261100
-#EXTINF:-1 tvg-id="" tvg-name="SIC CARAS" tvg-logo="",SIC CARAS
+#EXTINF:-1 tvg-id="SIC CARAS" tvg-name="SIC CARAS" tvg-logo="",SIC CARAS
 http://conexaoonline.top:80/3694528017/3514520064/261077
-#EXTINF:-1 tvg-id="" tvg-name="SIC MULHER" tvg-logo="",SIC MULHER
+#EXTINF:-1 tvg-id="SIC MULHER" tvg-name="SIC MULHER" tvg-logo="",SIC MULHER
 http://conexaoonline.top:80/3694528017/3514520064/261075
-#EXTINF:-1 tvg-id="" tvg-name="SIC RADICAL" tvg-logo="",SIC RADICAL
+#EXTINF:-1 tvg-id="SIC RADICAL" tvg-name="SIC RADICAL" tvg-logo="",SIC RADICAL
 http://conexaoonline.top:80/3694528017/3514520064/261073
-#EXTINF:-1 tvg-id="" tvg-name="RECORD TV" tvg-logo="",RECORD TV
+#EXTINF:-1 tvg-id="RECORD TV" tvg-name="RECORD TV" tvg-logo="",RECORD TV
 http://conexaoonline.top:80/3694528017/3514520064/261088
-#EXTINF:-1 tvg-id="" tvg-name="A BOLA TV" tvg-logo="",A BOLA TV
+#EXTINF:-1 tvg-id="A BOLA TV" tvg-name="A BOLA TV" tvg-logo="",A BOLA TV
 http://conexaoonline.top:80/3694528017/3514520064/261038
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="",BTV
+#EXTINF:-1 tvg-id="BTV" tvg-name="BTV" tvg-logo="",BTV
 http://conexaoonline.top:80/3694528017/3514520064/261023
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV" tvg-logo="",SPORT TV
-http://conexaoonline.top:80/3694528017/3514520064/261071
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV +" tvg-logo="",SPORT TV +
+#EXTINF:-1 tvg-id="SPORT TV +" tvg-name="SPORT TV +" tvg-logo="",SPORT TV +
 http://conexaoonline.top:80/3694528017/3514520064/261070
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2" tvg-logo="",SPORT TV 2
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV" tvg-logo="",SPORT TV 1
+http://conexaoonline.top:80/3694528017/3514520064/261071
+#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="SPORT TV 2" tvg-logo="",SPORT TV 2
 http://conexaoonline.top:80/3694528017/3514520064/261069
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3" tvg-logo="",SPORT TV 3
+#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3" tvg-logo="",SPORT TV 3
 http://conexaoonline.top:80/3694528017/3514520064/261068
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4" tvg-logo="",SPORT TV 4
+#EXTINF:-1 tvg-id="SPORT TV 4" tvg-name="SPORT TV 4" tvg-logo="",SPORT TV 4
 http://conexaoonline.top:80/3694528017/3514520064/261067
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5" tvg-logo="",SPORT TV 5
+#EXTINF:-1 tvg-id="SPORT TV 5" tvg-name="SPORT TV 5" tvg-logo="",SPORT TV 5
 http://conexaoonline.top:80/3694528017/3514520064/261066
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 6" tvg-logo="",SPORT TV 6
+#EXTINF:-1 tvg-id="SPORT TV 6" tvg-name="SPORT TV 6" tvg-logo="",SPORT TV 6
 http://conexaoonline.top:80/3694528017/3514520064/261065
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV NBA" tvg-logo="",SPORT TV NBA
+#EXTINF:-1 tvg-id="SPORT TV NBA" tvg-name="SPORT TV NBA" tvg-logo="",SPORT TV NBA
 http://conexaoonline.top:80/3694528017/3514520064/261123
-#EXTINF:-1 tvg-id="" tvg-name="SPORTING TV" tvg-logo="",SPORTING TV
+#EXTINF:-1 tvg-id="SPORTING TV" tvg-name="SPORTING TV" tvg-logo="",SPORTING TV
 http://conexaoonline.top:80/3694528017/3514520064/261122
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1" tvg-logo="",ELEVEN SPORTS 1
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1" tvg-name="ELEVEN SPORTS 1" tvg-logo="",ELEVEN SPORTS 1
 http://conexaoonline.top:80/3694528017/3514520064/261002
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2" tvg-logo="",ELEVEN SPORTS 2
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-name="ELEVEN SPORTS 2" tvg-logo="",ELEVEN SPORTS 2
 http://conexaoonline.top:80/3694528017/3514520064/261001
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3" tvg-logo="",ELEVEN SPORTS 3
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-name="ELEVEN SPORTS 3" tvg-logo="",ELEVEN SPORTS 3
 http://conexaoonline.top:80/3694528017/3514520064/261000
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 4" tvg-logo="",ELEVEN SPORTS 4
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 4" tvg-name="ELEVEN SPORTS 4" tvg-logo="",ELEVEN SPORTS 4
 http://conexaoonline.top:80/3694528017/3514520064/260999
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 5" tvg-logo="",ELEVEN SPORTS 5
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 5" tvg-name="ELEVEN SPORTS 5" tvg-logo="",ELEVEN SPORTS 5
 http://conexaoonline.top:80/3694528017/3514520064/260998
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 6" tvg-logo="",ELEVEN SPORTS 6
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 6" tvg-name="ELEVEN SPORTS 6" tvg-logo="",ELEVEN SPORTS 6
 http://conexaoonline.top:80/3694528017/3514520064/260997
 #EXTINF:-1 tvg-id="" tvg-name="TVI FICCAO" tvg-logo="",TVI FICCAO
 http://conexaoonline.top:80/3694528017/3514520064/261101
